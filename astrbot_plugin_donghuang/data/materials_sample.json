@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "残破批量采集碧灵果",
+    "tier": "黄级",
+    "element": "水",
+    "category": "灵果",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵果"
+  },
+  {
+    "name": "轻巧高山村灵泉水",
+    "tier": "黄级",
+    "element": "风",
+    "category": "灵泉水",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵泉水"
+  },
+  {
+    "name": "不起眼野生银灵纹壳",
+    "tier": "黄级",
+    "element": "雷",
+    "category": "灵纹壳",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵纹壳"
+  },
+  {
+    "name": "轻巧山民采摘溪灵芝",
+    "tier": "黄级",
+    "element": "风",
+    "category": "灵芝",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵芝"
+  },
+  {
+    "name": "古旧人工培育血灵矿",
+    "tier": "黄级",
+    "element": "光",
+    "category": "灵矿",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵矿"
+  },
+  {
+    "name": "硕大山民采摘风灵牙",
+    "tier": "黄级",
+    "element": "冰",
+    "category": "灵牙",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵牙"
+  },
+  {
+    "name": "轻巧偏僻产地海灵蜜",
+    "tier": "黄级",
+    "element": "毒",
+    "category": "灵蜜",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵蜜"
+  },
+  {
+    "name": "残破深山霜灵角",
+    "tier": "黄级",
+    "element": "木",
+    "category": "灵角",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵角"
+  },
+  {
+    "name": "残破批量采集银灵砂",
+    "tier": "黄级",
+    "element": "暗",
+    "category": "灵砂",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵砂"
+  },
+  {
+    "name": "小天然冰灵泉水",
+    "tier": "黄级",
+    "element": "毒",
+    "category": "灵泉水",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵泉水"
+  },
+  {
+    "name": "陈旧散修采集烟灵藤",
+    "tier": "黄级",
+    "element": "风",
+    "category": "灵藤",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵藤"
+  },
+  {
+    "name": "老旧寻常产地日灵晶",
+    "tier": "黄级",
+    "element": "木",
+    "category": "灵晶",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵晶"
+  },
+  {
+    "name": "陈旧高山霜灵牙",
+    "tier": "黄级",
+    "element": "无",
+    "category": "灵牙",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵牙"
+  },
+  {
+    "name": "斑驳寻常产地村灵胆",
+    "tier": "黄级",
+    "element": "金",
+    "category": "灵胆",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵胆"
+  },
+  {
+    "name": "古旧人工培育坡灵晶",
+    "tier": "黄级",
+    "element": "水",
+    "category": "灵晶",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵晶"
+  },
+  {
+    "name": "朴素偏僻产地白灵鳞",
+    "tier": "黄级",
+    "element": "木",
+    "category": "灵鳞",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵鳞"
+  },
+  {
+    "name": "老旧坊间收购谷灵果",
+    "tier": "黄级",
+    "element": "无",
+    "category": "灵果",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵果"
+  },
+  {
+    "name": "不起眼散修采集岭灵花",
+    "tier": "黄级",
+    "element": "无",
+    "category": "灵花",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵花"
+  },
+  {
+    "name": "厚重商贩转运谷灵矿",
+    "tier": "黄级",
+    "element": "火",
+    "category": "灵矿",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵矿"
+  },
+  {
+    "name": "不起眼人工培育烟灵角",
+    "tier": "黄级",
+    "element": "金",
+    "category": "灵角",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵角"
+  },
+  {
+    "name": "小人工培育星灵藤",
+    "tier": "黄级",
+    "element": "火",
+    "category": "灵藤",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵藤"
+  },
+  {
+    "name": "朴素人工培育星灵胆",
+    "tier": "黄级",
+    "element": "木",
+    "category": "灵胆",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵胆"
+  },
+  {
+    "name": "老旧野生露灵髓",
+    "tier": "黄级",
+    "element": "毒",
+    "category": "灵髓",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵髓"
+  },
+  {
+    "name": "厚重偏僻产地山灵魄核",
+    "tier": "黄级",
+    "element": "无",
+    "category": "灵魄核",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵魄核"
+  },
+  {
+    "name": "轻巧农户自种山灵晶",
+    "tier": "黄级",
+    "element": "冰",
+    "category": "灵晶",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵晶"
+  },
+  {
+    "name": "老旧寻常产地村灵藤",
+    "tier": "黄级",
+    "element": "金",
+    "category": "灵藤",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵藤"
+  },
+  {
+    "name": "粗陋高山魂灵石",
+    "tier": "黄级",
+    "element": "冰",
+    "category": "灵石",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵石"
+  },
+  {
+    "name": "破深山碧灵根",
+    "tier": "黄级",
+    "element": "无",
+    "category": "灵根",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵根"
+  },
+  {
+    "name": "崭新商贩转运雷灵鳞",
+    "tier": "黄级",
+    "element": "暗",
+    "category": "灵鳞",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵鳞"
+  },
+  {
+    "name": "斑驳山民采摘烟灵芝",
+    "tier": "黄级",
+    "element": "毒",
+    "category": "灵芝",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵芝"
+  },
+  {
+    "name": "破人工培育雾灵息珠",
+    "tier": "黄级",
+    "element": "雷",
+    "category": "灵息珠",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵息珠"
+  },
+  {
+    "name": "不起眼家养魂灵叶",
+    "tier": "黄级",
+    "element": "冰",
+    "category": "灵叶",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵叶"
+  },
+  {
+    "name": "不起眼寻常产地田灵纹壳",
+    "tier": "黄级",
+    "element": "雷",
+    "category": "灵纹壳",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵纹壳"
+  },
+  {
+    "name": "精致批量采集岭灵油",
+    "tier": "黄级",
+    "element": "光",
+    "category": "灵油",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵油"
+  },
+  {
+    "name": "粗陋山民采摘田灵丹",
+    "tier": "黄级",
+    "element": "冰",
+    "category": "灵丹",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵丹"
+  },
+  {
+    "name": "崭新偏僻产地紫灵蜜",
+    "tier": "黄级",
+    "element": "土",
+    "category": "灵蜜",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵蜜"
+  },
+  {
+    "name": "破高山沙灵鳞",
+    "tier": "黄级",
+    "element": "土",
+    "category": "灵鳞",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵鳞"
+  },
+  {
+    "name": "精致深山烟灵晶",
+    "tier": "黄级",
+    "element": "毒",
+    "category": "灵晶",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵晶"
+  },
+  {
+    "name": "轻巧天然赤灵蜜",
+    "tier": "黄级",
+    "element": "火",
+    "category": "灵蜜",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵蜜"
+  },
+  {
+    "name": "老旧近海白灵油",
+    "tier": "黄级",
+    "element": "木",
+    "category": "灵油",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵油"
+  },
+  {
+    "name": "粗陋深山坡灵木",
+    "tier": "黄级",
+    "element": "金",
+    "category": "灵木",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵木"
+  },
+  {
+    "name": "朴素坊间收购血灵蜜",
+    "tier": "黄级",
+    "element": "水",
+    "category": "灵蜜",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵蜜"
+  },
+  {
+    "name": "精致散修采集云灵藤",
+    "tier": "黄级",
+    "element": "金",
+    "category": "灵藤",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵藤"
+  },
+  {
+    "name": "精致近海冰灵根",
+    "tier": "黄级",
+    "element": "冰",
+    "category": "灵根",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵根"
+  },
+  {
+    "name": "古旧偏僻产地岭灵甲",
+    "tier": "黄级",
+    "element": "无",
+    "category": "灵甲",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵甲"
+  },
+  {
+    "name": "厚重野生山灵矿",
+    "tier": "黄级",
+    "element": "无",
+    "category": "灵矿",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵矿"
+  },
+  {
+    "name": "硕大家养风灵髓",
+    "tier": "黄级",
+    "element": "火",
+    "category": "灵髓",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵髓"
+  },
+  {
+    "name": "崭新家养黄灵甲",
+    "tier": "黄级",
+    "element": "水",
+    "category": "灵甲",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵甲"
+  },
+  {
+    "name": "厚重野生山灵浆",
+    "tier": "黄级",
+    "element": "木",
+    "category": "灵浆",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵浆"
+  },
+  {
+    "name": "崭新散修采集圣灵鳞",
+    "tier": "黄级",
+    "element": "火",
+    "category": "灵鳞",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵鳞"
+  },
+  {
+    "name": "粗陋寻常产地田灵牙",
+    "tier": "黄级",
+    "element": "水",
+    "category": "灵牙",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵牙"
+  },
+  {
+    "name": "小商贩转运洼灵果",
+    "tier": "黄级",
+    "element": "木",
+    "category": "灵果",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵果"
+  },
+  {
+    "name": "小近海村灵髓",
+    "tier": "黄级",
+    "element": "毒",
+    "category": "灵髓",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵髓"
+  },
+  {
+    "name": "轻巧山民采摘溪灵根",
+    "tier": "黄级",
+    "element": "暗",
+    "category": "灵根",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵根"
+  },
+  {
+    "name": "厚重人工培育野灵晶",
+    "tier": "黄级",
+    "element": "无",
+    "category": "灵晶",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵晶"
+  },
+  {
+    "name": "轻巧天然云灵晶矿",
+    "tier": "黄级",
+    "element": "毒",
+    "category": "灵晶矿",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵晶矿"
+  },
+  {
+    "name": "精致山民采摘赤灵魄核",
+    "tier": "黄级",
+    "element": "毒",
+    "category": "灵魄核",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵魄核"
+  },
+  {
+    "name": "残破批量采集风灵矿",
+    "tier": "黄级",
+    "element": "光",
+    "category": "灵矿",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵矿"
+  },
+  {
+    "name": "崭新深山雷灵藤",
+    "tier": "黄级",
+    "element": "冰",
+    "category": "灵藤",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵藤"
+  },
+  {
+    "name": "不起眼野生白灵藤",
+    "tier": "黄级",
+    "element": "风",
+    "category": "灵藤",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵藤"
+  },
+  {
+    "name": "古旧深山烟灵木",
+    "tier": "黄级",
+    "element": "光",
+    "category": "灵木",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵木"
+  },
+  {
+    "name": "崭新散修采集山灵息珠",
+    "tier": "黄级",
+    "element": "风",
+    "category": "灵息珠",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵息珠"
+  },
+  {
+    "name": "古旧散修采集月灵油",
+    "tier": "黄级",
+    "element": "雷",
+    "category": "灵油",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵油"
+  },
+  {
+    "name": "老旧批量采集紫灵血",
+    "tier": "黄级",
+    "element": "金",
+    "category": "灵血",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵血"
+  },
+  {
+    "name": "小家养田灵晶矿",
+    "tier": "黄级",
+    "element": "无",
+    "category": "灵晶矿",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵晶矿"
+  },
+  {
+    "name": "不起眼人工培育日灵髓",
+    "tier": "黄级",
+    "element": "无",
+    "category": "灵髓",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵髓"
+  },
+  {
+    "name": "古旧坊间收购风灵芝",
+    "tier": "黄级",
+    "element": "火",
+    "category": "灵芝",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵芝"
+  },
+  {
+    "name": "破家养谷灵蜜",
+    "tier": "黄级",
+    "element": "金",
+    "category": "灵蜜",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵蜜"
+  },
+  {
+    "name": "破高山玄灵芝",
+    "tier": "黄级",
+    "element": "冰",
+    "category": "灵芝",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵芝"
+  },
+  {
+    "name": "不起眼散修采集黄灵角",
+    "tier": "黄级",
+    "element": "火",
+    "category": "灵角",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵角"
+  },
+  {
+    "name": "粗陋商贩转运碧灵羽",
+    "tier": "黄级",
+    "element": "雷",
+    "category": "灵羽",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵羽"
+  },
+  {
+    "name": "朴素商贩转运玄灵果",
+    "tier": "黄级",
+    "element": "暗",
+    "category": "灵果",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵果"
+  },
+  {
+    "name": "朴素深山露灵花",
+    "tier": "黄级",
+    "element": "水",
+    "category": "灵花",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵花"
+  },
+  {
+    "name": "朴素人工培育星灵晶",
+    "tier": "黄级",
+    "element": "金",
+    "category": "灵晶",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵晶"
+  },
+  {
+    "name": "破坊间收购银灵石",
+    "tier": "黄级",
+    "element": "木",
+    "category": "灵石",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵石"
+  },
+  {
+    "name": "破野生谷灵角",
+    "tier": "黄级",
+    "element": "雷",
+    "category": "灵角",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵角"
+  },
+  {
+    "name": "轻巧山民采摘风灵草",
+    "tier": "黄级",
+    "element": "土",
+    "category": "灵草",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵草"
+  },
+  {
+    "name": "古旧深山雾灵花",
+    "tier": "黄级",
+    "element": "水",
+    "category": "灵花",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵花"
+  },
+  {
+    "name": "古旧人工培育碧灵根",
+    "tier": "黄级",
+    "element": "无",
+    "category": "灵根",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵根"
+  },
+  {
+    "name": "轻巧山民采摘魂灵泉水",
+    "tier": "黄级",
+    "element": "无",
+    "category": "灵泉水",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵泉水"
+  },
+  {
+    "name": "朴素人工培育玄灵鳞",
+    "tier": "黄级",
+    "element": "无",
+    "category": "灵鳞",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵鳞"
+  },
+  {
+    "name": "不起眼人工培育紫灵角",
+    "tier": "黄级",
+    "element": "雷",
+    "category": "灵角",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵角"
+  },
+  {
+    "name": "精致深山碧灵髓",
+    "tier": "黄级",
+    "element": "土",
+    "category": "灵髓",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵髓"
+  },
+  {
+    "name": "朴素寻常产地血灵芝",
+    "tier": "黄级",
+    "element": "雷",
+    "category": "灵芝",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵芝"
+  },
+  {
+    "name": "老旧高山黄灵骨",
+    "tier": "黄级",
+    "element": "风",
+    "category": "灵骨",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵骨"
+  },
+  {
+    "name": "不起眼家养风灵根",
+    "tier": "黄级",
+    "element": "水",
+    "category": "灵根",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵根"
+  },
+  {
+    "name": "破家养碧灵骨",
+    "tier": "黄级",
+    "element": "雷",
+    "category": "灵骨",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵骨"
+  },
+  {
+    "name": "轻巧高山青灵胆",
+    "tier": "黄级",
+    "element": "水",
+    "category": "灵胆",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵胆"
+  },
+  {
+    "name": "老旧寻常产地霜灵花",
+    "tier": "黄级",
+    "element": "雷",
+    "category": "灵花",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵花"
+  },
+  {
+    "name": "陈旧近海赤灵果",
+    "tier": "黄级",
+    "element": "毒",
+    "category": "灵果",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵果"
+  },
+  {
+    "name": "厚重偏僻产地沙灵羽",
+    "tier": "黄级",
+    "element": "毒",
+    "category": "灵羽",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵羽"
+  },
+  {
+    "name": "古旧批量采集溪灵蜜",
+    "tier": "黄级",
+    "element": "金",
+    "category": "灵蜜",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵蜜"
+  },
+  {
+    "name": "小偏僻产地云灵果",
+    "tier": "黄级",
+    "element": "冰",
+    "category": "灵果",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵果"
+  },
+  {
+    "name": "崭新天然雾灵髓",
+    "tier": "黄级",
+    "element": "风",
+    "category": "灵髓",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵髓"
+  },
+  {
+    "name": "老旧农户自种霜灵羽",
+    "tier": "黄级",
+    "element": "冰",
+    "category": "灵羽",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵羽"
+  },
+  {
+    "name": "陈旧天然山灵鳞",
+    "tier": "黄级",
+    "element": "无",
+    "category": "灵鳞",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵鳞"
+  },
+  {
+    "name": "斑驳商贩转运云灵果",
+    "tier": "黄级",
+    "element": "金",
+    "category": "灵果",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵果"
+  },
+  {
+    "name": "崭新深山青灵浆",
+    "tier": "黄级",
+    "element": "冰",
+    "category": "灵浆",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵浆"
+  },
+  {
+    "name": "厚重山民采摘黄灵魄核",
+    "tier": "黄级",
+    "element": "无",
+    "category": "灵魄核",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵魄核"
+  },
+  {
+    "name": "陈旧高山海灵草",
+    "tier": "黄级",
+    "element": "风",
+    "category": "灵草",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵草"
+  },
+  {
+    "name": "精致农户自种黄灵胆",
+    "tier": "黄级",
+    "element": "木",
+    "category": "灵胆",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵胆"
+  },
+  {
+    "name": "崭新家养云灵草",
+    "tier": "黄级",
+    "element": "金",
+    "category": "灵草",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵草"
+  },
+  {
+    "name": "不起眼近海金灵丹",
+    "tier": "黄级",
+    "element": "暗",
+    "category": "灵丹",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵丹"
+  },
+  {
+    "name": "斑驳寻常产地玄灵芝",
+    "tier": "黄级",
+    "element": "暗",
+    "category": "灵芝",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵芝"
+  },
+  {
+    "name": "陈旧寻常产地星灵髓",
+    "tier": "黄级",
+    "element": "雷",
+    "category": "灵髓",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵髓"
+  },
+  {
+    "name": "硕大坊间收购山灵叶",
+    "tier": "黄级",
+    "element": "雷",
+    "category": "灵叶",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵叶"
+  },
+  {
+    "name": "破农户自种黄灵石",
+    "tier": "黄级",
+    "element": "雷",
+    "category": "灵石",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵石"
+  },
+  {
+    "name": "陈旧近海焰灵浆",
+    "tier": "黄级",
+    "element": "风",
+    "category": "灵浆",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵浆"
+  },
+  {
+    "name": "不起眼坊间收购山灵角",
+    "tier": "黄级",
+    "element": "光",
+    "category": "灵角",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵角"
+  },
+  {
+    "name": "粗陋天然霜灵髓",
+    "tier": "黄级",
+    "element": "火",
+    "category": "灵髓",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵髓"
+  },
+  {
+    "name": "破散修采集山灵蜜",
+    "tier": "黄级",
+    "element": "暗",
+    "category": "灵蜜",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵蜜"
+  },
+  {
+    "name": "硕大农户自种溪灵息珠",
+    "tier": "黄级",
+    "element": "土",
+    "category": "灵息珠",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵息珠"
+  },
+  {
+    "name": "残破农户自种血灵纹壳",
+    "tier": "黄级",
+    "element": "土",
+    "category": "灵纹壳",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵纹壳"
+  },
+  {
+    "name": "轻巧散修采集白灵泉水",
+    "tier": "黄级",
+    "element": "土",
+    "category": "灵泉水",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵泉水"
+  },
+  {
+    "name": "老旧山民采摘黄灵魄核",
+    "tier": "黄级",
+    "element": "冰",
+    "category": "灵魄核",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵魄核"
+  },
+  {
+    "name": "硕大散修采集玄灵叶",
+    "tier": "黄级",
+    "element": "木",
+    "category": "灵叶",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵叶"
+  },
+  {
+    "name": "硕大近海焰灵石",
+    "tier": "黄级",
+    "element": "水",
+    "category": "灵石",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵石"
+  },
+  {
+    "name": "破高山沙灵髓",
+    "tier": "黄级",
+    "element": "毒",
+    "category": "灵髓",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵髓"
+  },
+  {
+    "name": "硕大深山玄灵油",
+    "tier": "黄级",
+    "element": "土",
+    "category": "灵油",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵油"
+  },
+  {
+    "name": "斑驳深山云灵油",
+    "tier": "黄级",
+    "element": "光",
+    "category": "灵油",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵油"
+  },
+  {
+    "name": "斑驳偏僻产地村灵髓",
+    "tier": "黄级",
+    "element": "暗",
+    "category": "灵髓",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵髓"
+  },
+  {
+    "name": "粗陋家养野灵木",
+    "tier": "黄级",
+    "element": "暗",
+    "category": "灵木",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵木"
+  },
+  {
+    "name": "精致近海星灵魄核",
+    "tier": "黄级",
+    "element": "火",
+    "category": "灵魄核",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵魄核"
+  },
+  {
+    "name": "轻巧山民采摘星灵髓",
+    "tier": "黄级",
+    "element": "水",
+    "category": "灵髓",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵髓"
+  },
+  {
+    "name": "斑驳近海沙灵草",
+    "tier": "黄级",
+    "element": "雷",
+    "category": "灵草",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵草"
+  },
+  {
+    "name": "硕大野生赤灵石",
+    "tier": "黄级",
+    "element": "火",
+    "category": "灵石",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵石"
+  },
+  {
+    "name": "轻巧家养海灵骨",
+    "tier": "黄级",
+    "element": "土",
+    "category": "灵骨",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵骨"
+  },
+  {
+    "name": "古旧农户自种碧灵根",
+    "tier": "黄级",
+    "element": "暗",
+    "category": "灵根",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵根"
+  },
+  {
+    "name": "破批量采集田灵石",
+    "tier": "黄级",
+    "element": "土",
+    "category": "灵石",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵石"
+  },
+  {
+    "name": "古旧寻常产地魂灵息珠",
+    "tier": "黄级",
+    "element": "火",
+    "category": "灵息珠",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵息珠"
+  },
+  {
+    "name": "厚重偏僻产地云灵芝",
+    "tier": "黄级",
+    "element": "光",
+    "category": "灵芝",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵芝"
+  },
+  {
+    "name": "崭新高山露灵木",
+    "tier": "黄级",
+    "element": "无",
+    "category": "灵木",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵木"
+  },
+  {
+    "name": "陈旧批量采集黑灵芝",
+    "tier": "黄级",
+    "element": "暗",
+    "category": "灵芝",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵芝"
+  },
+  {
+    "name": "古旧高山银灵髓",
+    "tier": "黄级",
+    "element": "火",
+    "category": "灵髓",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵髓"
+  },
+  {
+    "name": "轻巧坊间收购月灵草",
+    "tier": "黄级",
+    "element": "金",
+    "category": "灵草",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵草"
+  },
+  {
+    "name": "不起眼天然雾灵角",
+    "tier": "黄级",
+    "element": "光",
+    "category": "灵角",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵角"
+  },
+  {
+    "name": "轻巧天然焰灵石",
+    "tier": "黄级",
+    "element": "火",
+    "category": "灵石",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵石"
+  },
+  {
+    "name": "轻巧天然焰灵骨",
+    "tier": "黄级",
+    "element": "光",
+    "category": "灵骨",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵骨"
+  },
+  {
+    "name": "精致散修采集海灵晶矿",
+    "tier": "黄级",
+    "element": "暗",
+    "category": "灵晶矿",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵晶矿"
+  },
+  {
+    "name": "破近海霜灵芝",
+    "tier": "黄级",
+    "element": "雷",
+    "category": "灵芝",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵芝"
+  },
+  {
+    "name": "斑驳偏僻产地沙灵叶",
+    "tier": "黄级",
+    "element": "光",
+    "category": "灵叶",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵叶"
+  },
+  {
+    "name": "陈旧家养云灵果",
+    "tier": "黄级",
+    "element": "土",
+    "category": "灵果",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵果"
+  },
+  {
+    "name": "轻巧偏僻产地日灵晶矿",
+    "tier": "黄级",
+    "element": "土",
+    "category": "灵晶矿",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵晶矿"
+  },
+  {
+    "name": "崭新高山碧灵丹",
+    "tier": "黄级",
+    "element": "水",
+    "category": "灵丹",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵丹"
+  },
+  {
+    "name": "崭新散修采集烟灵油",
+    "tier": "黄级",
+    "element": "金",
+    "category": "灵油",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵油"
+  },
+  {
+    "name": "陈旧批量采集黑灵丹",
+    "tier": "黄级",
+    "element": "金",
+    "category": "灵丹",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵丹"
+  },
+  {
+    "name": "朴素野生田灵纹壳",
+    "tier": "黄级",
+    "element": "水",
+    "category": "灵纹壳",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵纹壳"
+  },
+  {
+    "name": "破野生林灵晶矿",
+    "tier": "黄级",
+    "element": "土",
+    "category": "灵晶矿",
+    "origin": "山野常见",
+    "prevalence": "稀有",
+    "desc": "黄级灵晶矿"
+  },
+  {
+    "name": "老旧批量采集星灵花",
+    "tier": "黄级",
+    "element": "毒",
+    "category": "灵花",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵花"
+  },
+  {
+    "name": "残破深山洼灵浆",
+    "tier": "黄级",
+    "element": "金",
+    "category": "灵浆",
+    "origin": "山野常见",
+    "prevalence": "大众",
+    "desc": "黄级灵浆"
+  }
+]

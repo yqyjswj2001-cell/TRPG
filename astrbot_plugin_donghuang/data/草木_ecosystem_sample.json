@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "紫马齿苋",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "herb",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "西部地区herb环境中常见的植物"
+  },
+  {
+    "name": "黄忍冬",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "shrub",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "北地地区shrub环境中常见的植物"
+  },
+  {
+    "name": "紫人参",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "herb",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "西部地区herb环境中常见的植物"
+  },
+  {
+    "name": "碧乌桕",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "tree",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "南部地区tree环境中常见的植物"
+  },
+  {
+    "name": "黄紫藤",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "vine",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "南部地区vine环境中常见的植物"
+  },
+  {
+    "name": "青苋",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "herb",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "西部地区herb环境中常见的植物"
+  },
+  {
+    "name": "白黄芩",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "herb",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "中部地区herb环境中常见的植物"
+  },
+  {
+    "name": "黄荚蒾",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "shrub",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "北地地区shrub环境中常见的植物"
+  },
+  {
+    "name": "碧满江红",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "water",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "南部地区water环境中常见的植物"
+  },
+  {
+    "name": "碧荷",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "water",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "南部地区water环境中常见的植物"
+  },
+  {
+    "name": "黑鸡枞",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "fungus",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "北地地区fungus环境中常见的植物"
+  },
+  {
+    "name": "粉栀子",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "shrub",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "东部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "翠槭",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "tree",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "中部地区tree环境中常见的植物"
+  },
+  {
+    "name": "银紫珠",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "shrub",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "北地地区shrub环境中常见的植物"
+  },
+  {
+    "name": "黄桔梗",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "herb",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "中部地区herb环境中常见的植物"
+  },
+  {
+    "name": "绿苦草",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "water",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "东部地区water环境中常见的植物"
+  },
+  {
+    "name": "翠浮萍",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "water",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "南部地区water环境中常见的植物"
+  },
+  {
+    "name": "墨盐肤木",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "tree",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "南部地区tree环境中常见的植物"
+  },
+  {
+    "name": "黄冬虫夏草",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "fungus",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "南部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "粉杜鹃",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "shrub",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "北地地区shrub环境中常见的植物"
+  },
+  {
+    "name": "红木通",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "vine",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "中部地区vine环境中常见的植物"
+  },
+  {
+    "name": "翠合欢",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "tree",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "东部地区tree环境中常见的植物"
+  },
+  {
+    "name": "青杉",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "tree",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "南部地区tree环境中常见的植物"
+  },
+  {
+    "name": "青水芹",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "water",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "东部地区water环境中常见的植物"
+  },
+  {
+    "name": "红蒲公英",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "herb",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "西部地区herb环境中常见的植物"
+  },
+  {
+    "name": "紫黄荆",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "shrub",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "东部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "白蜡瓣花",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "shrub",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "中部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "矮青水芹",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "water",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "东部地区water环境中常见的植物"
+  },
+  {
+    "name": "白银耳",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "fungus",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "东部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "红灵芝",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "fungus",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "西部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "白松茸",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "fungus",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "西部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "褐木耳",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "fungus",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "西部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "碧水芹",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "water",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "南部地区water环境中常见的植物"
+  },
+  {
+    "name": "紫鸡枞",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "fungus",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "北地地区fungus环境中常见的植物"
+  },
+  {
+    "name": "红荠菜",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "herb",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "南部地区herb环境中常见的植物"
+  },
+  {
+    "name": "紫雷丸",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "fungus",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "南部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "红松茸",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "fungus",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "中部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "紫冬虫夏草",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "fungus",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "中部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "绿曼陀罗",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "herb",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "南部地区herb环境中常见的植物"
+  },
+  {
+    "name": "金锦鸡儿",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "shrub",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "西部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "碧芡",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "water",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "东部地区water环境中常见的植物"
+  },
+  {
+    "name": "黄猴头",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "fungus",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "西部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "碧槭",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "tree",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "东部地区tree环境中常见的植物"
+  },
+  {
+    "name": "白猪苓",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "fungus",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "中部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "黄马兜铃",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "vine",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "东部地区vine环境中常见的植物"
+  },
+  {
+    "name": "红竹荪",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "fungus",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "东部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "粉山茶",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "shrub",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "北地地区shrub环境中常见的植物"
+  },
+  {
+    "name": "粉胡枝子",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "shrub",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "北地地区shrub环境中常见的植物"
+  },
+  {
+    "name": "褐银耳",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "fungus",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "西部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "碧柳",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "tree",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "中部地区tree环境中常见的植物"
+  },
+  {
+    "name": "紫竹荪",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "fungus",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "西部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "粉迎春",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "shrub",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "东部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "紫麦冬",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "herb",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "西部地区herb环境中常见的植物"
+  },
+  {
+    "name": "紫柴胡",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "herb",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "北地地区herb环境中常见的植物"
+  },
+  {
+    "name": "红鸡枞",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "fungus",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "中部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "紫常春藤",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "vine",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "东部地区vine环境中常见的植物"
+  },
+  {
+    "name": "黄沙参",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "herb",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "北地地区herb环境中常见的植物"
+  },
+  {
+    "name": "绿香蒲",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "water",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "南部地区water环境中常见的植物"
+  },
+  {
+    "name": "苍榉",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "tree",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "中部地区tree环境中常见的植物"
+  },
+  {
+    "name": "红玫瑰",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "shrub",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "西部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "红凌霄",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "vine",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "中部地区vine环境中常见的植物"
+  },
+  {
+    "name": "紫五味子",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "vine",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "南部地区vine环境中常见的植物"
+  },
+  {
+    "name": "绿沙参",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "herb",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "西部地区herb环境中常见的植物"
+  },
+  {
+    "name": "青桫椤",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "tree",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "北地地区tree环境中常见的植物"
+  },
+  {
+    "name": "紫艾",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "herb",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "西部地区herb环境中常见的植物"
+  },
+  {
+    "name": "白月季",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "shrub",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "西部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "黄月季",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "shrub",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "东部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "短白松茸",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "fungus",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "东部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "金蔷薇",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "shrub",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "西部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "红虫草",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "fungus",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "南部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "青苦草",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "water",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "南部地区water环境中常见的植物"
+  },
+  {
+    "name": "紫灵芝",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "fungus",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "中部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "碧慈姑",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "water",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "东部地区water环境中常见的植物"
+  },
+  {
+    "name": "青附子",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "herb",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "北地地区herb环境中常见的植物"
+  },
+  {
+    "name": "紫猪苓",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "fungus",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "西部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "红紫珠",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "shrub",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "中部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "绿乌头",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "herb",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "北地地区herb环境中常见的植物"
+  },
+  {
+    "name": "大青附子",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "herb",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "北地地区herb环境中常见的植物"
+  },
+  {
+    "name": "细红鸡枞",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "fungus",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "东部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "碧槟榔",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "tree",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "东部地区tree环境中常见的植物"
+  },
+  {
+    "name": "白木耳",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "fungus",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "西部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "碧苏铁",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "tree",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "北地地区tree环境中常见的植物"
+  },
+  {
+    "name": "红丁香",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "shrub",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "东部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "白桔梗",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "herb",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "中部地区herb环境中常见的植物"
+  },
+  {
+    "name": "青木通",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "vine",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "中部地区vine环境中常见的植物"
+  },
+  {
+    "name": "黄菟丝子",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "vine",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "南部地区vine环境中常见的植物"
+  },
+  {
+    "name": "紫银耳",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "fungus",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "西部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "紫马勃",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "fungus",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "西部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "高红蒲公英",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "herb",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "中部地区herb环境中常见的植物"
+  },
+  {
+    "name": "翠满江红",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "water",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "东部地区water环境中常见的植物"
+  },
+  {
+    "name": "粗紫雷丸",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "fungus",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "东部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "红黄芪",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "herb",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "南部地区herb环境中常见的植物"
+  },
+  {
+    "name": "红茯苓",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "fungus",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "北地地区fungus环境中常见的植物"
+  },
+  {
+    "name": "绿金鱼藻",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "water",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "南部地区water环境中常见的植物"
+  },
+  {
+    "name": "青芡",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "water",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "南部地区water环境中常见的植物"
+  },
+  {
+    "name": "白繁缕",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "herb",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "北地地区herb环境中常见的植物"
+  },
+  {
+    "name": "青百合",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "herb",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "中部地区herb环境中常见的植物"
+  },
+  {
+    "name": "白荚蒾",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "shrub",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "西部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "绿菱",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "water",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "南部地区water环境中常见的植物"
+  },
+  {
+    "name": "粉紫珠",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "shrub",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "东部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "翠菖蒲",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "water",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "东部地区water环境中常见的植物"
+  },
+  {
+    "name": "长青苋",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "herb",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "中部地区herb环境中常见的植物"
+  },
+  {
+    "name": "金绣线菊",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "shrub",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "西部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "黄木耳",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "fungus",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "南部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "黄茉莉",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "shrub",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "东部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "红甘草",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "herb",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "南部地区herb环境中常见的植物"
+  },
+  {
+    "name": "黄海桐",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "shrub",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "东部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "黄常春藤",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "vine",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "中部地区vine环境中常见的植物"
+  },
+  {
+    "name": "绿马兜铃",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "vine",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "南部地区vine环境中常见的植物"
+  },
+  {
+    "name": "粉蜡瓣花",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "shrub",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "西部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "红胡枝子",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "shrub",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "北地地区shrub环境中常见的植物"
+  },
+  {
+    "name": "黄牛肝菌",
+    "category": "草木",
+    "region": "东部",
+    "habitat": "fungus",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "东部地区fungus环境中常见的植物"
+  },
+  {
+    "name": "碧桑",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "tree",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "北地地区tree环境中常见的植物"
+  },
+  {
+    "name": "白黄芪",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "herb",
+    "size": "庞大",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "西部地区herb环境中常见的植物"
+  },
+  {
+    "name": "绿桔梗",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "herb",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "中部地区herb环境中常见的植物"
+  },
+  {
+    "name": "小白月季",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "shrub",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "西部地区shrub环境中常见的植物"
+  },
+  {
+    "name": "紫龙葵",
+    "category": "草木",
+    "region": "西部",
+    "habitat": "herb",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "西部地区herb环境中常见的植物"
+  },
+  {
+    "name": "金红木通",
+    "category": "草木",
+    "region": "中部",
+    "habitat": "vine",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "中部地区vine环境中常见的植物"
+  },
+  {
+    "name": "细红紫珠",
+    "category": "草木",
+    "region": "北地",
+    "habitat": "shrub",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "北地地区shrub环境中常见的植物"
+  },
+  {
+    "name": "绿油桐",
+    "category": "草木",
+    "region": "南部",
+    "habitat": "tree",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "南部地区tree环境中常见的植物"
+  }
+]

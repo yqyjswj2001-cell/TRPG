@@ -1,0 +1,2 @@
+﻿{"name": "乾坤撞风符", "tier": "天级", "element": "冰", "category": "符箓", "creator": "灵潮湿地捕蛙人", "holder": "只闻其名不见其文", "prevalence": "绝学", "desc": "一门以金属灵气驱动的阵法，招式诡谲多变，修至大成可在出招时附带金属灵气伤害，但消耗灵力是同阶普通阵法的倍有余", "effect": {"attack_bonus": 10, "defense_bonus": 5, "hp_max": 20}}
+{"name": "鸿蒙劈岩箓", "tier": "天级", "element": "冰", "category": "符箓", "creator": "沉舟冰谷第一位发现者", "holder": "持有者身份特殊", "prevalence": "独门", "desc": "远古流传的残缺剑法残本，仅保留了原典约三成的修炼法门。修炼时需以特定呼吸节奏配合灵气运转，如有一步出错则前功尽弃。修习者对灵气的控制精度远超同阶，但修炼速度比完整功法慢约半成。", "effect": {"attack_bonus": 5, "defense_bonus": 4, "hp_max": 30}}

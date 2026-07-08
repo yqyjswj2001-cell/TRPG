@@ -1,0 +1,2 @@
+﻿{"name": "乾坤拨金掌法", "tier": "天级", "element": "冰", "category": "掌法", "creator": "封碑采石场退休采石工", "holder": "只在一地流传", "prevalence": "稀有", "desc": "一门由边塞戍将所创的实用功法，不求华丽只求实效。修习门槛极低——任何有灵根者便可入门，但在实战中往往能出奇制胜。功法核心在于以巧破力。", "effect": {"attack_bonus": 8, "defense_bonus": 6, "hp_max": 25}}
+{"name": "太初破光掌法", "tier": "天级", "element": "冰", "category": "掌法", "creator": "极光原守柱人", "holder": "传男不传女已历三代", "prevalence": "独门", "desc": "一门由北坡旱原牧羊人所创的实用功法，不求华丽只求实效。修习门槛极低——练气三层便可入门，但在实战中往往能出奇制胜。功法核心在于借力打力。", "effect": {"attack_bonus": 8, "defense_bonus": 6, "hp_max": 10}}

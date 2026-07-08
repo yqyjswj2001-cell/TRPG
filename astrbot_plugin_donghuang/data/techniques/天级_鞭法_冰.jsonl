@@ -1,0 +1,2 @@
+﻿{"name": "乾坤砸风鞭", "tier": "天级", "element": "冰", "category": "鞭法", "creator": "灵潮湿地捕蛙人", "holder": "封存于绝地", "prevalence": "绝学", "desc": "远古流传的残缺腿法残本，仅保留了原典约三成的修炼法门。修炼时需以特定呼吸节奏配合灵气运转，如有一步出错则前功尽弃。修习者对灵气的控制精度远超同阶，但修炼速度比完整功法慢约半成。", "effect": {"attack_bonus": 8, "defense_bonus": 6, "hp_max": 20}}
+{"name": "混沌缠雷鞭", "tier": "天级", "element": "冰", "category": "鞭法", "creator": "西极禁区外巡逻队退役兵", "holder": "只闻其名不见其文", "prevalence": "绝学", "desc": "一门由新灵山脉灵竹测绘师所创的实用功法，不求华丽只求实效。修习门槛极低——体质达标即可便可入门，但在实战中往往能出奇制胜。功法核心在于以守代攻。", "effect": {"attack_bonus": 8, "defense_bonus": 5, "hp_max": 20}}

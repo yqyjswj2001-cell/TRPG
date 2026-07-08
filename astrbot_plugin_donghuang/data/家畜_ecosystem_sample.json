@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "黑牧羊犬",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于西部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黑耕牛",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于南部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "花牦牛",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "livestock",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于东部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黑黄牛",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "livestock",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于东部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白鹅",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "livestock",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于西部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐绵羊",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "livestock",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于北地地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白猫",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "livestock",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于北地地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐鸬鹚",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "working",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于南部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "灰战马",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于东部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黄鹅",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "livestock",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于西部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "灰捕鼠猫",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "working",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于北地地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "花骡",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "livestock",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于中部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐火鸡",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "livestock",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于南部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐猪",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "livestock",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于中部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐山羊",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于北地地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐猎隼",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "working",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于西部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "花花骡",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于东部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黑战马",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于南部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黄牧羊犬",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "棕马",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "livestock",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于东部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "肥褐绵羊",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于西部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黄看门犬",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于南部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白信鸽",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "working",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于东部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "灰看门犬",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黄黄牛",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于中部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黑猎犬",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于北地地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐骡",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于北地地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白牧羊犬",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "working",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于东部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "细白猫",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "livestock",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于中部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黑鸽",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "livestock",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于东部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "细黑鸽",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "livestock",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于中部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐牧羊犬",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于东部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白火鸡",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于西部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "短褐骡",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "livestock",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于北地地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "细褐鸬鹚",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黑捕鼠猫",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于西部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黄猎隼",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于西部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白耕牛",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "working",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于西部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白鸡",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "livestock",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于东部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白马",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "livestock",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于北地地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黑驿马",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "working",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于南部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黄捕鼠猫",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "working",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于东部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "斑灰看门犬",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于南部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黄猪",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于西部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "大黑牧羊犬",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "银白牧羊犬",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "working",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于北地地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "大棕马",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "livestock",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于南部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黄骡",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "livestock",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于南部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白战马",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于东部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白驴",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "livestock",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于西部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "小黑战马",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "长黑猎犬",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "粗褐骡",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于南部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白山羊",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "livestock",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于西部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "斑黄猪",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "livestock",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于东部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白猎鹰",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "working",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于东部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黄绵羊",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于西部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐猎犬",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白捕鼠猫",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "长黑牧羊犬",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于南部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "金褐猎隼",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "working",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于西部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "瘦褐牧羊犬",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "working",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于西部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白驮牛",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于西部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "棕猫",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "livestock",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于北地地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "花兔",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "livestock",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于东部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "灰牧羊犬",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "working",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于西部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黑信鸽",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于南部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "棕驴",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "livestock",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于南部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐耕牛",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于西部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黄驿马",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于西部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白牦牛",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于西部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "细黄猎隼",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "花猪",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于南部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐信鸽",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐驮牛",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "瘦黑牧羊犬",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "working",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于东部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "小白山羊",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "livestock",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于中部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "肥花兔",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于南部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黑绵羊",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于北地地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黄鸬鹚",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于东部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "灰鸬鹚",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "working",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于北地地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "金黑信鸽",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "working",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于西部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐鹌鹑",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于南部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐羊",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "livestock",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于中部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐鸡",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "livestock",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于西部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐兔",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于南部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "斑黄鹅",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于西部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白鸬鹚",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于东部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黑驮牛",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于东部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "瘦褐驮牛",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "花褐羊",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "livestock",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于北地地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "灰猎鹰",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "working",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于北地地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黑骆驼",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "livestock",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于中部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "银白驴",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "livestock",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于南部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "灰耕牛",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于南部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "斑白耕牛",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "working",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于南部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黄猎鹰",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黑鸡",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "livestock",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于南部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "细灰猎鹰",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黄战马",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "细灰鸬鹚",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "working",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于南部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "肥黄战马",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于南部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黑水牛",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "livestock",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于北地地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "褐驿马",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于北地地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "棕鸡",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "livestock",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于南部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "小褐鸬鹚",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于东部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "斑棕猫",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "livestock",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于北地地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "银白猎鹰",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "working",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于西部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "银黄鸬鹚",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于西部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "肥褐驮牛",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "working",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于北地地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "大黑战马",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "working",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于西部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "白鹌鹑",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于东部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "棕兔",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "livestock",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于南部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "矮白驮牛",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "棕火鸡",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "livestock",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于东部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黑猎鹰",
+    "category": "家畜",
+    "region": "东部",
+    "habitat": "working",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于东部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "黑鸬鹚",
+    "category": "家畜",
+    "region": "中部",
+    "habitat": "working",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于中部地区的working环境中，是一种常见的家畜"
+  },
+  {
+    "name": "花鸽",
+    "category": "家畜",
+    "region": "西部",
+    "habitat": "livestock",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于西部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "花驴",
+    "category": "家畜",
+    "region": "南部",
+    "habitat": "livestock",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于南部地区的livestock环境中，是一种常见的家畜"
+  },
+  {
+    "name": "棕鹅",
+    "category": "家畜",
+    "region": "北地",
+    "habitat": "livestock",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于北地地区的livestock环境中，是一种常见的家畜"
+  }
+]

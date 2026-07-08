@@ -1,0 +1,222 @@
+[
+  {
+    "name": "烛龙",
+    "category": "神兽",
+    "power_tier": "天级",
+    "element": "光",
+    "region": "全域",
+    "temperament": "太古威严",
+    "abilities": "睁眼为昼闭眼为夜、烛照万物",
+    "rarity": "传说",
+    "desc": "人面龙身，衔火精以照天门，睁眼为白昼闭眼为黑夜，居于极北之巅的钟山之上"
+  },
+  {
+    "name": "九尾天狐",
+    "category": "神兽",
+    "power_tier": "天级",
+    "element": "火",
+    "region": "东部",
+    "temperament": "妖异高贵",
+    "abilities": "九尾齐摇可焚天煮海、幻化人形蛊惑人心、每条尾巴蕴含一种神通",
+    "rarity": "传说",
+    "desc": "通体雪白九尾飘摇，眼瞳如血月，每百年长出一条新尾，九尾俱全时可化为人形行走人间"
+  },
+  {
+    "name": "应龙",
+    "category": "神兽",
+    "power_tier": "天级",
+    "element": "水",
+    "region": "东部",
+    "temperament": "威严仁慈",
+    "abilities": "呼风唤雨、展翼遮天、以尾画地即成江河",
+    "rarity": "传说",
+    "desc": "有翼之龙，双翼展开可遮天蔽日，曾助人族治水开河，是农耕文明信奉的雨神"
+  },
+  {
+    "name": "鲲鹏",
+    "category": "神兽",
+    "power_tier": "天级",
+    "element": "风",
+    "region": "东部",
+    "temperament": "缥缈壮阔",
+    "abilities": "化身巨鲲游于深海、展翼为鹏扶摇九万里、吞噬天地灵气",
+    "rarity": "传说",
+    "desc": "北冥有鱼其名为鲲，化而为鸟其名为鹏，鹏之背不知其几千里，怒而飞翼若垂天之云"
+  },
+  {
+    "name": "麒麟",
+    "category": "神兽",
+    "power_tier": "天级",
+    "element": "土",
+    "region": "中部",
+    "temperament": "祥瑞仁厚",
+    "abilities": "踏云而行足不沾尘、所过之处草木逢春、角发金光驱邪避凶",
+    "rarity": "传说",
+    "desc": "龙头鹿角狮眼虎背熊腰蛇鳞马蹄，不踏活虫不折生草，有圣王出则麒麟现"
+  },
+  {
+    "name": "白泽",
+    "category": "神兽",
+    "power_tier": "天级",
+    "element": "全属性",
+    "region": "中部",
+    "temperament": "博学睿智",
+    "abilities": "通晓天下万物之名、能言人语、预知吉凶祸福",
+    "rarity": "传说",
+    "desc": "形似羊而独角，通体雪白，天下妖怪精怪无不知其名，曾授人族帝王以鬼神图谱"
+  },
+  {
+    "name": "玄武",
+    "category": "神兽",
+    "power_tier": "天级",
+    "element": "水",
+    "region": "北地",
+    "temperament": "沉稳如岳",
+    "abilities": "背负神龟壳可挡万法、蛇尾缠绕绞杀、镇守北方",
+    "rarity": "传说",
+    "desc": "龟蛇合体之相，龟壳上刻满天道符文，沉眠于北地极寒深渊之底，守护世界北方的平衡"
+  },
+  {
+    "name": "朱雀",
+    "category": "神兽",
+    "power_tier": "天级",
+    "element": "火",
+    "region": "南部",
+    "temperament": "高贵炽烈",
+    "abilities": "浴火重生不死不灭、羽翼扇动即可焚山沸海、鸣叫可唤来百鸟朝凤",
+    "rarity": "传说",
+    "desc": "通体燃烧着不灭的南明离火，每五百年浴火重生一次，是火焰与重生的至高象征"
+  },
+  {
+    "name": "青龙",
+    "category": "神兽",
+    "power_tier": "天级",
+    "element": "木",
+    "region": "东部",
+    "temperament": "仁慈威严",
+    "abilities": "掌控春雷与万物生发、盘旋之处草木疯长、龙吟可驱散一切邪祟",
+    "rarity": "传说",
+    "desc": "东方守护之神兽，鳞甲青翠如玉，盘旋于九天云海之中，是生机与希望的化身"
+  },
+  {
+    "name": "白虎",
+    "category": "神兽",
+    "power_tier": "天级",
+    "element": "金",
+    "region": "西部",
+    "temperament": "杀伐果断",
+    "abilities": "虎啸震碎神魂、利爪撕裂空间、天生克制一切鬼物邪魔",
+    "rarity": "传说",
+    "desc": "西方守护之神兽，通体雪白带有黑色虎纹，双眸金光四射，是杀伐与正义的象征"
+  },
+  {
+    "name": "凤凰",
+    "category": "神兽",
+    "power_tier": "天级",
+    "element": "火",
+    "region": "南部",
+    "temperament": "高贵华美",
+    "abilities": "百鸟之皇一呼百应、涅槃重生、凤鸣可净化一切诅咒",
+    "rarity": "传说",
+    "desc": "鸡头燕颔蛇颈鱼尾，五色羽毛流光溢彩，非梧桐不止非练实不食非醴泉不饮"
+  },
+  {
+    "name": "饕餮",
+    "category": "神兽",
+    "power_tier": "天级",
+    "element": "暗",
+    "region": "西部",
+    "temperament": "贪婪凶暴",
+    "abilities": "吞噬万物包括灵气和空间、腹中有无尽虚空、被吞之物永远消失",
+    "rarity": "传说",
+    "desc": "羊身人面虎齿人爪，腋下有巨口可吞食天地，是贪婪与毁灭的化身，被封禁于西部古战场"
+  },
+  {
+    "name": "穷奇",
+    "category": "神兽",
+    "power_tier": "天级",
+    "element": "风",
+    "region": "西部",
+    "temperament": "恶逆无常",
+    "abilities": "飞行如风无可捕捉、能识人心善恶专食善人、蛊惑恶人作恶",
+    "rarity": "传说",
+    "desc": "状如虎而有翼，闻人争斗则食有理者，闻人忠信则啮其鼻，是混乱与背德的化身"
+  },
+  {
+    "name": "梼杌",
+    "category": "神兽",
+    "power_tier": "天级",
+    "element": "毒",
+    "region": "北地",
+    "temperament": "顽固凶残",
+    "abilities": "不死不灭刀枪不入、身带剧毒触碰即亡、从无尽顽抗中越发强大",
+    "rarity": "传说",
+    "desc": "人面虎身犬毛猪牙，尾长一丈八尺，桀骜不驯不可教化，被封于北地冰川深处"
+  },
+  {
+    "name": "混沌",
+    "category": "神兽",
+    "power_tier": "天级",
+    "element": "混沌",
+    "region": "西部",
+    "temperament": "混沌无序",
+    "abilities": "无面无窍却可吞噬灵识、触碰者陷入混沌迷失心智、形体可在虚实间任意转换",
+    "rarity": "传说",
+    "desc": "状如黄囊赤如丹火六足四翼浑敦无面目，是天地未开时的混沌残余，被封于断裂带最深处"
+  },
+  {
+    "name": "夔牛",
+    "category": "神兽",
+    "power_tier": "地级",
+    "element": "雷",
+    "region": "东部",
+    "temperament": "刚猛暴躁",
+    "abilities": "独脚跳跃引发地震、吼声如雷百里可闻、皮可制成震天鼓",
+    "rarity": "绝迹",
+    "desc": "状如牛而苍身无角只有一足，出入海水必伴随狂风暴雨，其声如雷震百里"
+  },
+  {
+    "name": "毕方",
+    "category": "神兽",
+    "power_tier": "地级",
+    "element": "火",
+    "region": "南部",
+    "temperament": "孤傲高洁",
+    "abilities": "单足独立于枝头、所落之处必生火灾",
+    "rarity": "绝迹",
+    "desc": "形如鹤而一足，青羽赤纹白喙，不食五谷只饮灵泉，出现之处必有怪异火灾"
+  },
+  {
+    "name": "重明鸟",
+    "category": "神兽",
+    "power_tier": "地级",
+    "element": "光",
+    "region": "中部",
+    "temperament": "正义光明",
+    "abilities": "双目重瞳可看穿一切虚妄和伪装、鸣叫能驱退妖兽邪魔",
+    "rarity": "绝迹",
+    "desc": "形似鸡而双瞳，鸣声如凤，力能搏逐猛兽，旧王朝以重明鸟为图腾镇守宫门"
+  },
+  {
+    "name": "当康",
+    "category": "神兽",
+    "power_tier": "地级",
+    "element": "土",
+    "region": "南部",
+    "temperament": "温顺祥和",
+    "abilities": "出现之处预示丰收、蹄踏大地可使土壤肥沃",
+    "rarity": "绝迹",
+    "desc": "状如豚而有牙，其名自呼，见则天下大穰，南部农人以当康为丰收之兆"
+  },
+  {
+    "name": "腓腓",
+    "category": "神兽",
+    "power_tier": "地级",
+    "element": "木",
+    "region": "中部",
+    "temperament": "温顺解忧",
+    "abilities": "形如狸而白尾、养之可解忧愁、鬃毛能入药炼制解忧丹",
+    "rarity": "绝迹",
+    "desc": "状如狸而白尾有鬣，养之可以已忧，旧时中部修士多养腓腓以防心魔滋生"
+  }
+]

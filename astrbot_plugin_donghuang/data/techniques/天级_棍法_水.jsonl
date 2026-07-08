@@ -1,0 +1,2 @@
+﻿{"name": "轮回推木棍", "tier": "天级", "element": "水", "category": "棍法", "creator": "南砾高原沙驼牧人", "holder": "从不外传", "prevalence": "独门", "desc": "一门由隐居铁匠所创的实用功法，不求华丽只求实效。修习门槛极低——练气三层便可入门，但在实战中往往能出奇制胜。功法核心在于借力打力。", "effect": {"attack_bonus": 6, "defense_bonus": 3, "hp_max": 15}}
+{"name": "太初缠钢棍", "tier": "天级", "element": "水", "category": "棍法", "creator": "归墟宗弃徒", "holder": "封存于绝地", "prevalence": "绝学", "desc": "一门由古墟集老摊主所创的实用功法，不求华丽只求实效。修习门槛极低——任何有灵根者便可入门，但在实战中往往能出奇制胜。功法核心在于以速取胜。", "effect": {"attack_bonus": 10, "defense_bonus": 3, "hp_max": 25}}

@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "苍猞猁",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "forest",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于中部地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "鼠",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "universal",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于中部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "灰雪豹",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "mountain",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于中部地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "鼩鼱",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "universal",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于东部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "翠猞猁",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "forest",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于北地地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "碧狐",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "forest",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于中部地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "碧野马",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "grassland",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于西部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "雪雪鹿",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "snow",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于北地地区的snow环境中，是一种常见的走兽"
+  },
+  {
+    "name": "绿山猫",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "forest",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于中部地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "野兔",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "universal",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于中部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "碧羚羊",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "grassland",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于南部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "褐狼",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "mountain",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于西部地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "苍刺猬",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "forest",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于北地地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "褐鼬",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "forest",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于东部地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "田鼠",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "universal",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于东部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "蝙蝠",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "universal",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于北地地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "苍獾",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "grassland",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于西部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "青野猪",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "swamp",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于南部地区的swamp环境中，是一种常见的走兽"
+  },
+  {
+    "name": "翠麋",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "forest",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于中部地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "粗鼩鼱",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "universal",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于北地地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "仓鼠",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "universal",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于中部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "大蝙蝠",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "universal",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于南部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "灰沙鼠",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "desert",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于西部地区的desert环境中，是一种常见的走兽"
+  },
+  {
+    "name": "青獾",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "swamp",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于南部地区的swamp环境中，是一种常见的走兽"
+  },
+  {
+    "name": "雪雪狐",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "snow",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于北地地区的snow环境中，是一种常见的走兽"
+  },
+  {
+    "name": "岩麂",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "mountain",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于中部地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "长仓鼠",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "universal",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于中部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "短仓鼠",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "universal",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于南部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "棕兔",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "forest",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于北地地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "青鼬",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "forest",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于东部地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "苍獐",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "forest",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于中部地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "苍鼯鼠",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "forest",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于南部地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "短蝙蝠",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "universal",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于东部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "褐麝",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "forest",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于东部地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "花仓鼠",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "universal",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于北地地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "苍麝",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "forest",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于北地地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "长蝙蝠",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "universal",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于西部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "碧兔",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "forest",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于东部地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "苍盘羊",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "mountain",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于中部地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "高鼠",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "universal",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于东部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "斑野兔",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "universal",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于南部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "墨水獭",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "swamp",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于东部地区的swamp环境中，是一种常见的走兽"
+  },
+  {
+    "name": "棕穿山甲",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "forest",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于中部地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "黄羚羊",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "desert",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于西部地区的desert环境中，是一种常见的走兽"
+  },
+  {
+    "name": "银雷鸟",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "snow",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于北地地区的snow环境中，是一种常见的走兽"
+  },
+  {
+    "name": "花苍猞猁",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "forest",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于北地地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "矮蝙蝠",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "universal",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于南部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "小鼩鼱",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "universal",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于中部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "黑麋鹿",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "swamp",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于东部地区的swamp环境中，是一种常见的走兽"
+  },
+  {
+    "name": "细仓鼠",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "universal",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于东部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "岩山猫",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "mountain",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于中部地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "褐跳鼠",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "grassland",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于南部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "黄鼠狼",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "universal",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于南部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "青獐",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "forest",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于北地地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "青浣熊",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "swamp",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于南部地区的swamp环境中，是一种常见的走兽"
+  },
+  {
+    "name": "青麋",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "forest",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于中部地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "棕岩羊",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "mountain",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于北地地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "碧水獭",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "swamp",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于南部地区的swamp环境中，是一种常见的走兽"
+  },
+  {
+    "name": "短鼩鼱",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "universal",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于西部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "银雪兔",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "snow",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于北地地区的snow环境中，是一种常见的走兽"
+  },
+  {
+    "name": "碧野猪",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "swamp",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于东部地区的swamp环境中，是一种常见的走兽"
+  },
+  {
+    "name": "银蝙蝠",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "universal",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于中部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "花墨水獭",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "swamp",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于南部地区的swamp环境中，是一种常见的走兽"
+  },
+  {
+    "name": "棕野驴",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "grassland",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于南部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "黄野马",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "grassland",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于西部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "细黄野马",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "grassland",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于西部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "高鼩鼱",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "universal",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于南部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "瘦鼠",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "universal",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于中部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "瘦野兔",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "universal",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于南部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "苍雪豹",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "mountain",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于西部地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "苍狐",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "grassland",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于西部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "青水鼠",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "swamp",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于南部地区的swamp环境中，是一种常见的走兽"
+  },
+  {
+    "name": "粗田鼠",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "universal",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于北地地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "碧旱獭",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "grassland",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于中部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "黑水獭",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "swamp",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于东部地区的swamp环境中，是一种常见的走兽"
+  },
+  {
+    "name": "岩黑熊",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "mountain",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于中部地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "苍旱獭",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "mountain",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于西部地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "碧鼬",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "grassland",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于东部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "白盘羊",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "mountain",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于北地地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "花蝙蝠",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "universal",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于中部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "银野兔",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "universal",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于北地地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "墨浣熊",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "swamp",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于东部地区的swamp环境中，是一种常见的走兽"
+  },
+  {
+    "name": "苍狼",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "grassland",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于南部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "长碧狐",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "grassland",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于东部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "高野兔",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "universal",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于北地地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "银仓鼠",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "universal",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于北地地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "灰野牛",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "grassland",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于中部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "苍山猫",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "mountain",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于北地地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "翠狐",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "forest",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于北地地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "棕沙猫",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "desert",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于西部地区的desert环境中，是一种常见的走兽"
+  },
+  {
+    "name": "白野山羊",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "mountain",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于北地地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "矮野兔",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "universal",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于南部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "绿狸",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "forest",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于北地地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "短鼠",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "universal",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于中部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "细灰雪豹",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "mountain",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于中部地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "细田鼠",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "universal",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于东部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "苍黄羊",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "grassland",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于南部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "青穿山甲",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "forest",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于南部地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "褐羚羊",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "mountain",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于北地地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "灰沙蜥",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "desert",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于西部地区的desert环境中，是一种常见的走兽"
+  },
+  {
+    "name": "小田鼠",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "universal",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于西部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "石棕熊",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "mountain",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于北地地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "瘦仓鼠",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "universal",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于北地地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "细蝙蝠",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "universal",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于南部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "棕猞猁",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "mountain",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于北地地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "黄旱獭",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "grassland",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于西部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "斑黄鼠狼",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "universal",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于东部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "短雪雪狐",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "snow",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于北地地区的snow环境中，是一种常见的走兽"
+  },
+  {
+    "name": "粗野兔",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "universal",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于南部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "碧狼",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "grassland",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于西部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "斑黄羚羊",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "grassland",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于南部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "小野兔",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "universal",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "有毒",
+    "desc": "常见于东部地区的universal环境中，是一种常见的走兽"
+  },
+  {
+    "name": "绿野猪",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "swamp",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于东部地区的swamp环境中，是一种常见的走兽"
+  },
+  {
+    "name": "绿獐",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "forest",
+    "size": "中型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于南部地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "绿穿山甲",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "forest",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于中部地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "青狍",
+    "category": "走兽",
+    "region": "北地",
+    "habitat": "forest",
+    "size": "大型",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于北地地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "棕狐",
+    "category": "走兽",
+    "region": "中部",
+    "habitat": "forest",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于中部地区的forest环境中，是一种常见的走兽"
+  },
+  {
+    "name": "棕跳鼠",
+    "category": "走兽",
+    "region": "东部",
+    "habitat": "grassland",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "不可食",
+    "desc": "常见于东部地区的grassland环境中，是一种常见的走兽"
+  },
+  {
+    "name": "苍岩鼠",
+    "category": "走兽",
+    "region": "西部",
+    "habitat": "mountain",
+    "size": "微小",
+    "behavior": "野生",
+    "edible": "药用",
+    "desc": "常见于西部地区的mountain环境中，是一种常见的走兽"
+  },
+  {
+    "name": "细黄鼠狼",
+    "category": "走兽",
+    "region": "南部",
+    "habitat": "universal",
+    "size": "小型",
+    "behavior": "野生",
+    "edible": "可食",
+    "desc": "常见于南部地区的universal环境中，是一种常见的走兽"
+  }
+]

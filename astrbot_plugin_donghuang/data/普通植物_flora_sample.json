@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "中部松树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "中部柏树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "中部杉树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "中部槐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "中部榆树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "中部杨树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "中部柳树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "中部梧桐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "中部银杏树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "中部皂荚树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "中部楝树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "中部桑树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "中部柘树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "中部油桐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "中部乌桕树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "中部泡桐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "中部香椿树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "中部栾树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "中部樟树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "中部楠树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "中部榉树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "中部栎树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "中部枫树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "中部桦树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "中部椴树",
+    "category": "树木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "东部松树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "东部柏树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "东部杉树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "东部槐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "东部榆树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "东部杨树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "东部柳树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "东部梧桐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "东部银杏树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "东部皂荚树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "东部楝树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "东部桑树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "东部柘树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "东部油桐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "东部乌桕树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "东部泡桐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "东部香椿树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "东部栾树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "东部樟树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "东部楠树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "东部榉树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "东部栎树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "东部枫树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "东部桦树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "东部椴树",
+    "category": "树木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "南部松树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "南部柏树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "南部杉树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "南部槐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "南部榆树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "南部杨树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "南部柳树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "南部梧桐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "南部银杏树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "南部皂荚树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "南部楝树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "南部桑树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "南部柘树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "南部油桐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "南部乌桕树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "南部泡桐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "南部香椿树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "南部栾树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "南部樟树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "南部楠树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "南部榉树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "南部栎树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "南部枫树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "南部桦树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "南部椴树",
+    "category": "树木",
+    "type": "普通",
+    "region": "南部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "北地松树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "北地柏树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "北地杉树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "北地槐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "北地榆树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "北地杨树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "北地柳树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "北地梧桐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "北地银杏树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "北地皂荚树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "北地楝树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "北地桑树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "北地柘树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "北地油桐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "北地乌桕树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "北地泡桐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "北地香椿树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "北地栾树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "北地樟树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "北地楠树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "北地榉树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "北地栎树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "北地枫树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "北地桦树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "北地椴树",
+    "category": "树木",
+    "type": "普通",
+    "region": "北地",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "西部松树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "西部柏树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "西部杉树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "西部槐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "西部榆树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "西部杨树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "西部柳树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "西部梧桐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "西部银杏树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "西部皂荚树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "西部楝树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "西部桑树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "西部柘树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "西部油桐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "西部乌桕树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "西部泡桐树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "西部香椿树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "西部栾树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "西部樟树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "西部楠树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "西部榉树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "西部栎树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "西部枫树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "西部桦树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "薪柴"
+  },
+  {
+    "name": "西部椴树",
+    "category": "树木",
+    "type": "普通",
+    "region": "西部",
+    "habitat": "森林",
+    "rarity": "常见",
+    "use": "建材"
+  },
+  {
+    "name": "中部杜鹃",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "中部山茶",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "绿篱"
+  },
+  {
+    "name": "中部栀子",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "中部茉莉",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "绿篱"
+  },
+  {
+    "name": "中部桂花",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "中部丁香",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "绿篱"
+  },
+  {
+    "name": "中部连翘",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "药用"
+  },
+  {
+    "name": "中部迎春",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "绿篱"
+  },
+  {
+    "name": "中部蔷薇",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "药用"
+  },
+  {
+    "name": "中部月季",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "中部玫瑰",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "中部枸杞",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "绿篱"
+  },
+  {
+    "name": "中部黄荆",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "绿篱"
+  },
+  {
+    "name": "中部紫珠",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "中部荚蒾",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "药用"
+  },
+  {
+    "name": "中部忍冬",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "药用"
+  },
+  {
+    "name": "中部接骨木",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "中部海桐",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "绿篱"
+  },
+  {
+    "name": "中部瑞香",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "药用"
+  },
+  {
+    "name": "中部含笑",
+    "category": "灌木",
+    "type": "普通",
+    "region": "中部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "东部杜鹃",
+    "category": "灌木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "观赏"
+  },
+  {
+    "name": "东部山茶",
+    "category": "灌木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "绿篱"
+  },
+  {
+    "name": "东部栀子",
+    "category": "灌木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "药用"
+  },
+  {
+    "name": "东部茉莉",
+    "category": "灌木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "绿篱"
+  },
+  {
+    "name": "东部桂花",
+    "category": "灌木",
+    "type": "普通",
+    "region": "东部",
+    "habitat": "灌丛",
+    "rarity": "常见",
+    "use": "药用"
+  }
+]

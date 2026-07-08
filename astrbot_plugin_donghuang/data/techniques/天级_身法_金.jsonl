@@ -1,0 +1,2 @@
+﻿{"name": "乾坤匿步", "tier": "天级", "element": "金", "category": "身法", "creator": "冰窟村冰雕传人", "holder": "传男不传女已历三代", "prevalence": "独门", "desc": "一门以金属灵气驱动的身法，招式灵动如燕，修至大成可在出招时附带金属灵气伤害，但消耗灵力是同阶普通身法的倍有余", "effect": {"attack_bonus": 5, "defense_bonus": 3, "hp_max": 15}}
+{"name": "永恒逸诀", "tier": "天级", "element": "金", "category": "身法", "creator": "隐居铁匠", "holder": "宗门镇派绝学", "prevalence": "独门", "desc": "一门以土属灵气驱动的符箓，招式诡谲多变，修至大成可在出招时附带土属灵气伤害，但消耗灵力是同阶普通符箓的倍有余", "effect": {"attack_bonus": 10, "defense_bonus": 3, "hp_max": 15}}

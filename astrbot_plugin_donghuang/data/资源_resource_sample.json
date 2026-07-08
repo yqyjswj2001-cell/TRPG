@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "赤铁矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "赤铜矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "赤银矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "赤金矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "赤灵石矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "赤玉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "赤晶矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "赤母矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "中部",
+    "rarity": "稀有",
+    "use": "锻造",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "赤脉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "赤砂矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "乌铁矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "乌铜矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "制符",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "乌银矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "北地",
+    "rarity": "稀有",
+    "use": "炼器",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "乌金矿",
+    "category": "矿石",
+    "power_tier": "地级",
+    "region": "北地",
+    "rarity": "罕见",
+    "use": "炼器",
+    "desc": "地级矿石"
+  },
+  {
+    "name": "乌灵石矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "乌玉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "乌晶矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "乌母矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "中部",
+    "rarity": "稀有",
+    "use": "交易",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "乌脉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "乌砂矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "玄铁矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "中部",
+    "rarity": "稀有",
+    "use": "锻造",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "玄铜矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "玄银矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "玄金矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "玄灵石矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "南部",
+    "rarity": "稀有",
+    "use": "交易",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "玄玉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "玄晶矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "玄母矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "北地",
+    "rarity": "稀有",
+    "use": "锻造",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "玄脉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "玄砂矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "北地",
+    "rarity": "稀有",
+    "use": "交易",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "青铁矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "青铜矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "青银矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "青金矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "青灵石矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "青玉矿",
+    "category": "矿石",
+    "power_tier": "地级",
+    "region": "中部",
+    "rarity": "罕见",
+    "use": "炼器",
+    "desc": "地级矿石"
+  },
+  {
+    "name": "青晶矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "青母矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "南部",
+    "rarity": "稀有",
+    "use": "炼器",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "青脉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "青砂矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "紫铁矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "紫铜矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "锻造",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "紫银矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "紫金矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "紫灵石矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "紫玉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "紫晶矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "紫母矿",
+    "category": "矿石",
+    "power_tier": "地级",
+    "region": "西部",
+    "rarity": "罕见",
+    "use": "锻造",
+    "desc": "地级矿石"
+  },
+  {
+    "name": "紫脉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "紫砂矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "白铁矿",
+    "category": "矿石",
+    "power_tier": "地级",
+    "region": "西部",
+    "rarity": "罕见",
+    "use": "锻造",
+    "desc": "地级矿石"
+  },
+  {
+    "name": "白铜矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "北地",
+    "rarity": "稀有",
+    "use": "制符",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "白银矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "白金矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "白灵石矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "白玉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "白晶矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "中部",
+    "rarity": "稀有",
+    "use": "锻造",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "白母矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "白脉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "白砂矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "黑铁矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "交易",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "黑铜矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "黑银矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "黑金矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "黑灵石矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "中部",
+    "rarity": "稀有",
+    "use": "炼器",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "黑玉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "黑晶矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "黑母矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "黑脉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "黑砂矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "炼器",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "金铁矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "金铜矿",
+    "category": "矿石",
+    "power_tier": "地级",
+    "region": "东部",
+    "rarity": "罕见",
+    "use": "锻造",
+    "desc": "地级矿石"
+  },
+  {
+    "name": "金银矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "金金矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "中部",
+    "rarity": "稀有",
+    "use": "锻造",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "金灵石矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "金玉矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "北地",
+    "rarity": "稀有",
+    "use": "制符",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "金晶矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "金母矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "金脉矿",
+    "category": "矿石",
+    "power_tier": "地级",
+    "region": "西部",
+    "rarity": "罕见",
+    "use": "炼器",
+    "desc": "地级矿石"
+  },
+  {
+    "name": "金砂矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "中部",
+    "rarity": "稀有",
+    "use": "炼器",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "银铁矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "银铜矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "银银矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "中部",
+    "rarity": "稀有",
+    "use": "炼器",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "银金矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "银灵石矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "银玉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "银晶矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "银母矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "东部",
+    "rarity": "稀有",
+    "use": "制符",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "银脉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "银砂矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "铜铁矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "铜铜矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "铜银矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "铜金矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "铜灵石矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "南部",
+    "rarity": "稀有",
+    "use": "制符",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "铜玉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "铜晶矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "铜母矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "铜脉矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "中部",
+    "rarity": "稀有",
+    "use": "锻造",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "铜砂矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "铁铁矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "铁铜矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "东部",
+    "rarity": "稀有",
+    "use": "制符",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "铁银矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "铁金矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "铁灵石矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "铁玉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "铁晶矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "交易",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "铁母矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "铁脉矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "东部",
+    "rarity": "稀有",
+    "use": "炼器",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "铁砂矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "锻造",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "血铁矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "血铜矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "血银矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "血金矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "血灵石矿",
+    "category": "矿石",
+    "power_tier": "地级",
+    "region": "东部",
+    "rarity": "罕见",
+    "use": "锻造",
+    "desc": "地级矿石"
+  },
+  {
+    "name": "血玉矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "东部",
+    "rarity": "稀有",
+    "use": "交易",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "血晶矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "血母矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "东部",
+    "rarity": "稀有",
+    "use": "制符",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "血脉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "血砂矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "北地",
+    "rarity": "稀有",
+    "use": "锻造",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "霜铁矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "霜铜矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "霜银矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "霜金矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "霜灵石矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "霜玉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "霜晶矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "中部",
+    "rarity": "稀有",
+    "use": "制符",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "霜母矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "霜脉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "霜砂矿",
+    "category": "矿石",
+    "power_tier": "玄级",
+    "region": "南部",
+    "rarity": "稀有",
+    "use": "交易",
+    "desc": "玄级矿石"
+  },
+  {
+    "name": "雷铁矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "雷铜矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "雷银矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "雷金矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "雷灵石矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "雷玉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "雷晶矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "雷母矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "雷脉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "雷砂矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "焰铁矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "焰铜矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "焰银矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "焰金矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "焰灵石矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "焰玉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "制符",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "焰晶矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "焰母矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "焰脉矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "交易",
+    "desc": "黄级矿石"
+  },
+  {
+    "name": "焰砂矿",
+    "category": "矿石",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "锻造",
+    "desc": "黄级矿石"
+  }
+]

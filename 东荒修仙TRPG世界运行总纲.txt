@@ -1,0 +1,16 @@
+【本文件已迁移，仅作历史参考，不再是权威版本】
+
+这份《东荒修仙TRPG世界运行总纲》的内容已经拆分并迁移进了
+astrbot_plugin_donghuang 插件文件夹内部，作为该插件的自包含世界观数据：
+
+  astrbot_plugin_donghuang/world/engine_rules.md              （核心规则，含修订说明）
+  astrbot_plugin_donghuang/world/lore_dossier.md               （东荒世界档案）
+  astrbot_plugin_donghuang/world/faction_resource_entity.md    （势力/资源/实体索引）
+  astrbot_plugin_donghuang/world/campaign_seed.md              （初始化种子）
+  astrbot_plugin_donghuang/world/death_protocol.md             （死亡与重生协议，新写）
+
+以后要修改这套世界观规则，请直接编辑 world/ 下对应的文件，不要再编辑这份
+仓库根目录的旧文件——插件规定必须自包含（复制插件文件夹到别处也要能独立
+运行），依赖仓库根目录的文件会破坏这一点。
+
+这份文件保留在这里，仅供你回顾原始版本、或者对照检查拆分有没有遗漏内容。

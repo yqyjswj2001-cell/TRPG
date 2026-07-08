@@ -1,0 +1,9 @@
+﻿{"name": "三天罗阵", "tier": "玄级", "category": "阵法", "type": "杀阵", "element": "土", "region": "中部", "rarity": "稀有", "effect": "杀阵", "desc": "玄级杀阵"}
+{"name": "九锁龙阵", "tier": "玄级", "category": "阵法", "type": "幻阵", "element": "土", "region": "北地", "rarity": "稀有", "effect": "幻阵", "desc": "玄级幻阵"}
+{"name": "三万剑阵", "tier": "玄级", "category": "阵法", "type": "幻阵", "element": "土", "region": "东部", "rarity": "稀有", "effect": "幻阵", "desc": "玄级幻阵"}
+{"name": "七雷霆阵", "tier": "玄级", "category": "阵法", "type": "攻击阵", "element": "土", "region": "北地", "rarity": "稀有", "effect": "攻击阵", "desc": "玄级攻击阵"}
+{"name": "三寒冰阵", "tier": "玄级", "category": "阵法", "type": "防御阵", "element": "土", "region": "东部", "rarity": "稀有", "effect": "防御阵", "desc": "玄级防御阵"}
+{"name": "九寒冰阵", "tier": "玄级", "category": "阵法", "type": "攻击阵", "element": "土", "region": "东部", "rarity": "稀有", "effect": "攻击阵", "desc": "玄级攻击阵"}
+{"name": "十铁壁阵", "tier": "玄级", "category": "阵法", "type": "封印阵", "element": "土", "region": "北地", "rarity": "稀有", "effect": "封印阵", "desc": "玄级封印阵"}
+{"name": "十聚灵阵", "tier": "玄级", "category": "阵法", "type": "封印阵", "element": "土", "region": "西部", "rarity": "稀有", "effect": "封印阵", "desc": "玄级封印阵"}
+{"name": "五纳元阵", "tier": "玄级", "category": "阵法", "type": "防御阵", "element": "土", "region": "南部", "rarity": "稀有", "effect": "防御阵", "desc": "玄级防御阵"}

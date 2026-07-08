@@ -1,0 +1,2 @@
+﻿{"name": "无极砸木指法", "tier": "天级", "element": "毒", "category": "指法", "creator": "沃澜城粮码头监秤", "holder": "最后一位传人已故", "prevalence": "绝学", "desc": "一门由镇渊院封碑学徒所创的实用功法，不求华丽只求实效。修习门槛极低——任何有灵根者便可入门，但在实战中往往能出奇制胜。功法核心在于以速取胜。", "effect": {"attack_bonus": 5, "defense_bonus": 3, "hp_max": 15}}
+{"name": "太初冲石指法", "tier": "天级", "element": "毒", "category": "指法", "creator": "岱央城守更人", "holder": "封存于绝地", "prevalence": "绝学", "desc": "远古流传的残缺枪法残本，仅保留了原典约三成的修炼法门。修炼时需以特定呼吸节奏配合灵气运转，如有一步出错则前功尽弃。修习者对灵气的控制精度远超同阶，但修炼速度比完整功法慢约半成。", "effect": {"attack_bonus": 5, "defense_bonus": 6, "hp_max": 15}}

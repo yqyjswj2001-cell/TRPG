@@ -1,0 +1,7 @@
+# 插件元数据文件（AstrBot 官方规范要求）
+# 这里的信息会显示在 AstrBot 管理面板的“插件管理”页面里
+name: astrbot_plugin_template       # 【必改】插件的唯一名字，必须和文件夹名一致
+desc: 一句话描述这个插件做什么
+version: v0.1.0                     # 插件版本号，以后自己改代码就把它加一
+author: yqyjswj                     # 作者名
+repo: https://github.com/yqyjswj2001-cell/astrbot_plugin_template  # 【必改】仓库地址，没有可以先留空

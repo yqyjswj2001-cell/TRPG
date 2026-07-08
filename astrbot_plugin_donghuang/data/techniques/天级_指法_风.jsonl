@@ -1,0 +1,2 @@
+﻿{"name": "混沌扣潮指法", "tier": "天级", "element": "风", "category": "指法", "creator": "前朝禁军教头", "holder": "失落多年后重现", "prevalence": "稀有", "desc": "一门由封碑采石场退休采石工所创的实用功法，不求华丽只求实效。修习门槛极低——体质达标即可便可入门，但在实战中往往能出奇制胜。功法核心在于借力打力。", "effect": {"attack_bonus": 8, "defense_bonus": 3, "hp_max": 25}}
+{"name": "鸿蒙裂冰指法", "tier": "天级", "element": "风", "category": "指法", "creator": "南屿群岛采椰人", "holder": "仅存残本一份", "prevalence": "绝学", "desc": "一门以火属灵气驱动的道法，招式诡谲多变，修至大成可在出招时附带火属灵气伤害，但消耗灵力是同阶普通道法的倍有余", "effect": {"attack_bonus": 8, "defense_bonus": 6, "hp_max": 20}}

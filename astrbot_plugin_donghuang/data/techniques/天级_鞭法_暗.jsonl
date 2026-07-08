@@ -1,0 +1,2 @@
+﻿{"name": "万古冲潮鞭", "tier": "天级", "element": "暗", "category": "鞭法", "creator": "商路砾道驼队向导", "holder": "偶尔在拍卖会出现", "prevalence": "稀有", "desc": "一门以雷属灵气驱动的棍法，招式诡谲多变，修至大成可在出招时附带雷属灵气伤害，但消耗灵力是同阶普通棍法的倍有余", "effect": {"attack_bonus": 6, "defense_bonus": 3, "hp_max": 30}}
+{"name": "不朽缠钢鞭", "tier": "天级", "element": "暗", "category": "鞭法", "creator": "南屿群岛采椰人", "holder": "从不外传", "prevalence": "独门", "desc": "远古流传的残缺阵法残本，仅保留了原典约三成的修炼法门。修炼时需以特定呼吸节奏配合灵气运转，如有一步出错则前功尽弃。修习者对灵气的控制精度远超同阶，但修炼速度比完整功法慢约半成。", "effect": {"attack_bonus": 6, "defense_bonus": 5, "hp_max": 10}}

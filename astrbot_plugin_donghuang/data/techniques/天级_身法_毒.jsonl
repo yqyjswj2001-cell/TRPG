@@ -1,0 +1,2 @@
+﻿{"name": "九天遁步法", "tier": "天级", "element": "毒", "category": "身法", "creator": "沃澜城粮码头监秤", "holder": "仅存残本一份", "prevalence": "绝学", "desc": "一门由隐居铁匠所创的实用功法，不求华丽只求实效。修习门槛极低——体质达标即可便可入门，但在实战中往往能出奇制胜。功法核心在于以巧破力。", "effect": {"attack_bonus": 5, "defense_bonus": 4, "hp_max": 20}}
+{"name": "鸿蒙翔身法", "tier": "天级", "element": "毒", "category": "身法", "creator": "潮间盐泽晒盐人", "holder": "仅存残本一份", "prevalence": "绝学", "desc": "远古流传的残缺阵法残本，仅保留了原典约三成的修炼法门。修炼时需以特定呼吸节奏配合灵气运转，如有一步出错则前功尽弃。修习者对灵气的控制精度远超同阶，但修炼速度比完整功法慢约半成。", "effect": {"attack_bonus": 8, "defense_bonus": 4, "hp_max": 10}}

@@ -1,0 +1,2 @@
+﻿{"name": "轮回拨潮暗器", "tier": "天级", "element": "冰", "category": "暗器", "creator": "南麓林区猎户", "holder": "持有者身份特殊", "prevalence": "独门", "desc": "远古流传的残缺枪法残本，仅保留了原典约三成的修炼法门。修炼时需以特定呼吸节奏配合灵气运转，如有一步出错则前功尽弃。修习者对灵气的控制精度远超同阶，但修炼速度比完整功法慢约半成。", "effect": {"attack_bonus": 5, "defense_bonus": 5, "hp_max": 10}}
+{"name": "混沌崩铁暗器", "tier": "天级", "element": "冰", "category": "暗器", "creator": "南部水渠工程师", "holder": "宗门镇派绝学", "prevalence": "独门", "desc": "以水属灵气为根基的修炼法门，修习时体内灵气如潮汐般流转，对水属灵气的吸收效率高于常人数成，但修炼过程中需忍受灵气逆流的刺痛", "effect": {"attack_bonus": 5, "defense_bonus": 6, "hp_max": 15}}

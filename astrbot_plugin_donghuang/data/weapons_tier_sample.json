@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "铁长剑",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "无",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜长剑",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "金",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢长剑",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "火",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁短剑",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "水",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜短剑",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "无",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢短剑",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "木",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁重剑",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "冰",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜重剑",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "金",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢重剑",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "火",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁软剑",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "光",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜软剑",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "金",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢软剑",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "火",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁飞剑",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "冰",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜飞剑",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "风",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢飞剑",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "土",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁长刀",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "水",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜长刀",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "雷",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢长刀",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "水",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁短刀",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "雷",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜短刀",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "木",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢短刀",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "木",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁重刀",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "雷",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜重刀",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "土",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢重刀",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "风",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁弯刀",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "木",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜弯刀",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "木",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢弯刀",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "土",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁斩马刀",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "雷",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜斩马刀",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "火",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢斩马刀",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "金",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁长枪",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "土",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜长枪",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "火",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢长枪",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "冰",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁短枪",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "风",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜短枪",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "水",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢短枪",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "雷",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁双头枪",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "无",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜双头枪",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "无",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢双头枪",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "暗",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁钩镰枪",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "光",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜钩镰枪",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "水",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢钩镰枪",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "冰",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁梨花枪",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "无",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜梨花枪",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "火",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢梨花枪",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "金",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁长弓",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "金",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜长弓",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "冰",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢长弓",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "木",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁短弓",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "暗",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜短弓",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "火",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢短弓",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "冰",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁强弓",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "水",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜强弓",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "水",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢强弓",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "光",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁连弩",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "土",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜连弩",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "冰",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢连弩",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "冰",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁灵弩",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "火",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜灵弩",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "光",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢灵弩",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "木",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁铁锤",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "木",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜铁锤",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "无",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢铁锤",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "无",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁铜锤",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "暗",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜铜锤",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "冰",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢铜锤",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "暗",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁金瓜锤",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "光",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜金瓜锤",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "光",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢金瓜锤",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "无",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁流星锤",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "无",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜流星锤",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "土",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢流星锤",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "木",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁震山锤",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "冰",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜震山锤",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "风",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢震山锤",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "土",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁开山斧",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "水",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜开山斧",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "木",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢开山斧",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "无",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁宣花斧",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "暗",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜宣花斧",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "水",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢宣花斧",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "水",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁板斧",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "光",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜板斧",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "暗",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢板斧",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "风",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁双刃斧",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "木",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜双刃斧",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "土",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢双刃斧",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "金",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁钺",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "暗",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜钺",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "木",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢钺",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "木",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁钢鞭",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "水",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜钢鞭",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "无",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢钢鞭",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "光",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁软鞭",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "土",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜软鞭",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "暗",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢软鞭",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "火",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁九节鞭",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "火",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜九节鞭",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "冰",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢九节鞭",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "风",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁竹节鞭",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "风",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜竹节鞭",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "火",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢竹节鞭",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "木",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁打神鞭",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "金",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜打神鞭",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "光",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢打神鞭",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "暗",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁齐眉棍",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "金",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜齐眉棍",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "无",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢齐眉棍",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "火",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁长棍",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "金",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜长棍",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "木",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢长棍",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "火",
+    "region": "南部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁短棍",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "无",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜短棍",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "火",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢短棍",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "水",
+    "region": "西部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁盘龙棍",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "暗",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜盘龙棍",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "火",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢盘龙棍",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "冰",
+    "region": "东部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铁降魔杵",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "木",
+    "region": "中部",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "铜降魔杵",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "无",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "钢降魔杵",
+    "category": "兵器",
+    "power_tier": "黄级",
+    "element": "雷",
+    "region": "北地",
+    "rarity": "常见",
+    "desc": "黄级兵器"
+  },
+  {
+    "name": "百炼长剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "冰",
+    "region": "北地",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "陨铁长剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "金",
+    "region": "中部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "玄铁长剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "金",
+    "region": "北地",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "寒铁长剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "雷",
+    "region": "中部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "精铁长剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "火",
+    "region": "东部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "百炼短剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "火",
+    "region": "西部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "陨铁短剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "风",
+    "region": "东部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "玄铁短剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "冰",
+    "region": "东部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "寒铁短剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "土",
+    "region": "北地",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "精铁短剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "火",
+    "region": "中部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "百炼重剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "风",
+    "region": "西部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "陨铁重剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "木",
+    "region": "中部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "玄铁重剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "无",
+    "region": "西部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "寒铁重剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "金",
+    "region": "中部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "精铁重剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "火",
+    "region": "东部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "百炼软剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "冰",
+    "region": "北地",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "陨铁软剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "风",
+    "region": "东部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "玄铁软剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "冰",
+    "region": "中部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "寒铁软剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "水",
+    "region": "北地",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "精铁软剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "金",
+    "region": "北地",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "百炼飞剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "土",
+    "region": "北地",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "陨铁飞剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "土",
+    "region": "北地",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "玄铁飞剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "光",
+    "region": "北地",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "寒铁飞剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "水",
+    "region": "东部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "精铁飞剑",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "土",
+    "region": "东部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "百炼长刀",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "金",
+    "region": "西部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "陨铁长刀",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "光",
+    "region": "中部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "玄铁长刀",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "雷",
+    "region": "中部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "寒铁长刀",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "金",
+    "region": "西部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  },
+  {
+    "name": "精铁长刀",
+    "category": "兵器",
+    "power_tier": "玄级",
+    "element": "风",
+    "region": "西部",
+    "rarity": "稀有",
+    "desc": "玄级兵器"
+  }
+]

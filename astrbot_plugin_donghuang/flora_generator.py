@@ -1,0 +1,174 @@
+# -*- coding: utf-8 -*-
+"""
+flora_generator.py — 东荒花草树木数据库生成器
+分两大类：普通植物（树木/灌木/草本/花卉/藤蔓/水生）和灵植（黄/玄/地/天四品阶）。
+目标总量：普通植物 ~20K + 灵植 ~5K = 25K
+"""
+import json, random, os
+
+random.seed(42)
+OUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
+REGIONS = ["中部","东部","南部","北地","西部"]
+TIERS = ["黄级","玄级","地级","天级"]
+TIER_W = [70, 25, 4, 1]
+
+# ===================== 普通植物 =====================
+TREES = {
+    "中部": ["松","柏","杉","槐","榆","杨","柳","梧桐","银杏","皂荚","楝","桑","柘","油桐","乌桕","泡桐","香椿","臭椿","栾","青檀",
+            "枫杨","化香","黄连木","黄檀","白蜡","柞木","山合欢","山槐","刺槐","紫穗槐"],
+    "东部": ["樟","楠","榉","栎","枫","桦","椴","榕","棕榈","椰子","槟榔","红树","木麻黄","相思","桉","荔枝","龙眼","杨梅","橄榄","黄皮",
+            "罗汉松","竹柏","落羽杉","水杉","池杉","柳杉","福建柏","红豆杉","穗花杉","榧树"],
+    "南部": ["榕","樟","楠","椿","桉","木棉","紫荆","黄槐","凤凰木","蓝花楹","羊蹄甲","腊肠树","吊瓜树","火焰木","风铃木",
+            "柚木","柚","橘","橙","柠檬","龙眼","荔枝","芒果","菠萝蜜","莲雾"],
+    "北地": ["松","杉","柏","桦","椴","槭","榆","柞","水曲柳","黄波罗","核桃楸","暴马丁香","花楸","稠李","山荆子",
+            "云杉","冷杉","落叶松","樟子松","红松","偃松","岳桦","坚桦","赤杨","辽东栎"],
+    "西部": ["胡杨","沙枣","梭梭","柽柳","沙棘","白刺","花棒","柠条","沙冬青","霸王","白梭梭","沙拐枣","骆驼刺","盐爪爪","盐穗木",
+            "榆","桑","杏","枣","沙柳","旱柳","小叶杨","箭杆杨","银白杨","胡桐"],
+}
+
+SHRUBS = {
+    "中部": ["杜鹃","山茶","栀子","茉莉","桂花","丁香","连翘","迎春","绣线菊","蔷薇","月季","玫瑰","枸杞","黄荆","紫珠",
+            "荚蒾","忍冬","接骨木","金缕梅","蜡瓣花","海桐","瑞香","结香","含笑","火棘"],
+    "东部": ["杜鹃","山茶","栀子","桂花","海桐","夹竹桃","黄杨","女贞","石楠","南天竹","十大功劳","八角金盘","洒金珊瑚","茶梅","金丝桃",
+            "朱蕉","龙血树","鹅掌柴","孔雀木","福禄桐","变叶木","红背桂","一品红","虎刺梅","红桑"],
+    "南部": ["叶子花","朱槿","龙船花","扶桑","红千层","金合欢","野牡丹","桃金娘","岗松","米碎花",
+            "九里香","米仔兰","鹰爪花","假鹰爪","紫玉盘","白兰","黄兰","灰莉","狗牙花","鸡蛋花"],
+    "北地": ["杜鹃","绣线菊","金露梅","银露梅","茶藨子","蔷薇","悬钩子","越橘","杜香","矶踯躅",
+            "东北山梅花","东北溲疏","东北茶藨","兴安杜鹃","兴安桧","偃松","崖柏","锦鸡儿","胡枝子","榛"],
+    "西部": ["沙棘","白刺","柠条","花棒","沙冬青","霸王","骆驼刺","盐爪爪","柽柳","沙拐枣",
+            "梭梭","白梭梭","裸果木","绵刺","半日花","革苞菊","沙芥","沙米","沙蒿","沙打旺"],
+}
+
+HERBS = {
+    "universal": ["蒿","艾","蓟","蒲公英","车前","马齿苋","荠菜","繁缕","藜","苋","龙葵","曼陀罗","颠茄","乌头","附子",
+                 "黄连","黄芩","黄芪","当归","党参","人参","三七","甘草","柴胡","桔梗","沙参","麦冬","天冬","百合","贝母",
+                 "益母草","夏枯草","薄荷","紫苏","藿香","佩兰","荆芥","防风","独活","羌活"],
+    "south": ["姜黄","莪术","郁金","砂仁","草果","豆蔻","肉桂","八角","胡椒","丁香",
+             "广藿香","穿心莲","鸡血藤","千斤拔","牛大力","巴戟天","何首乌","金不换","田七","石斛"],
+    "north": ["刺五加","五味子","升麻","威灵仙","两头尖","北豆根","白鲜皮","苦参","秦艽","龙胆",
+             "赤芍","白头翁","金莲花","返魂草","刺老芽","蛰麻子","柳蒿芽","蕨菜","薇菜","猴腿"],
+}
+
+FLOWERS = {
+    "universal": ["牡丹","芍药","月季","玫瑰","菊花","兰花","梅花","荷花","水仙","百合",
+                 "郁金香","风信子","鸢尾","萱草","玉簪","美人蕉","大丽花","波斯菊","向日葵","牵牛"],
+    "spring": ["桃花","杏花","梨花","李花","樱花","海棠","玉兰","紫荆","连翘","迎春"],
+    "summer": ["荷花","睡莲","茉莉","栀子","紫薇","木槿","凌霄","石榴","夹竹桃","紫藤"],
+    "autumn": ["菊花","桂花","芙蓉","秋海棠","一串红","鸡冠花","千日红","万寿菊","翠菊","波斯菊"],
+    "winter": ["梅花","蜡梅","山茶","水仙","仙客来","一品红","蟹爪兰","长寿花","报春花","君子兰"],
+}
+
+VINES = {
+    "universal": ["葛","紫藤","凌霄","络石","常春藤","爬山虎","葡萄","猕猴桃","五味子","木通",
+                 "马兜铃","何首乌","菟丝子","牵牛","茑萝","西番莲","使君子","清明花","断肠草","钩吻"],
+}
+
+AQUATIC = {
+    "universal": ["莲","荷","菱","芡","菖蒲","香蒲","慈姑","水芹","水蕹","浮萍","满江红","槐叶萍","金鱼藻","黑藻","苦草",
+                 "芦苇","芦竹","茭白","荸荠","莼菜","睡莲","水葫芦","大薸","水鳖","眼子菜"],
+}
+
+# ===================== 灵植 =====================
+# 灵草（用于炼丹）
+SPIRIT_HERBS = {
+    "healing": ["回春草","续骨花","凝血芝","生肌藤","止痛叶","愈伤苔","复灵菇","接脉根","生血兰","活气参"],
+    "cultivate": ["聚灵草","凝气花","筑基藤","破境芝","元灵参","悟道茶","冲关根","辟谷叶","洗髓花","开脉兰"],
+    "element": ["火灵草","冰晶花","雷击木","风语藤","土精根","水灵芝","金髓菇","木魂草","光耀兰","暗影苔"],
+    "poison": ["断肠草","噬心花","醉魂藤","麻骨叶","失魂菇","哑声草","盲眼苔","烂肉根","凝血毒","幻梦芝"],
+    "rare": ["九转还魂草","千年血灵芝","万载冰晶莲","不死凤凰花","龙涎草","凤血藤","麒麟芝","玄武苔","白虎根","朱雀花"],
+}
+SPIRIT_TREES = {
+    "universal": ["灵松","灵柏","灵槐","灵樟","灵楠","灵榕","灵银杏","灵菩提","灵铁木","灵紫檀",
+                 "血龙木","金丝楠","阴沉木","雷击灵木","千年阴沉","万年灵根","灵竹","灵藤","灵蕉","灵榴"],
+}
+SPIRIT_PLANTS_ALL = SPIRIT_HERBS["healing"] + SPIRIT_HERBS["cultivate"] + SPIRIT_HERBS["element"] + SPIRIT_HERBS["poison"] + SPIRIT_HERBS["rare"] + SPIRIT_TREES["universal"]
+
+# ===================== 生成器 =====================
+def gen_normal_flora():
+    entries = []
+    # Trees
+    for region, trees in TREES.items():
+        for t in trees:
+            entries.append({"name": f"{region}古{t}", "category": "树木", "type": "普通", "region": region,
+                          "habitat": "森林", "rarity": "常见", "use": random.choice(["建材","烧柴","观赏","遮阴"]),
+                          "desc": f"常见于{region}地区的{t}树"})
+    # Shrubs
+    for region, shrubs in SHRUBS.items():
+        for s in shrubs:
+            entries.append({"name": f"{region}{s}", "category": "灌木", "type": "普通", "region": region,
+                          "habitat": "灌丛", "rarity": "常见", "use": random.choice(["观赏","绿篱","药用"]),
+                          "desc": f"常见于{region}地区的{s}灌木"})
+    # Herbs
+    for biome, herbs in HERBS.items():
+        for h in herbs:
+            region = random.choice(REGIONS) if biome == "universal" else ({"south":"南部","north":"北地"}.get(biome,"中部"))
+            entries.append({"name": h, "category": "草本", "type": "普通", "region": region,
+                          "habitat": "田野", "rarity": "常见", "use": random.choice(["药用","食用","饲草"]),
+                          "desc": f"常见的草本植物，{random.choice(['可入药','可食用','气味芬芳'])}"})
+    # Flowers
+    for season, flowers in FLOWERS.items():
+        for f in flowers:
+            entries.append({"name": f, "category": "花卉", "type": "普通", "region": random.choice(REGIONS[:3]) if season != "winter" else random.choice(["中部","北地"]),
+                          "habitat": "花圃", "rarity": "常见", "use": "观赏",
+                          "desc": f"{random.choice(['春季','夏季','秋季','冬季'])}盛开的{f}"})
+    # Vines
+    for v in VINES["universal"]:
+        entries.append({"name": v, "category": "藤蔓", "type": "普通", "region": random.choice(REGIONS[:3]),
+                      "habitat": "攀附", "rarity": "常见", "use": random.choice(["药用","编织"]),
+                      "desc": f"常见的{v}藤蔓植物"})
+    # Aquatic
+    for a in AQUATIC["universal"]:
+        entries.append({"name": a, "category": "水生", "type": "普通", "region": random.choice(["东部","南部"]),
+                      "habitat": "水域", "rarity": "常见", "use": random.choice(["食用","观赏","净水"]),
+                      "desc": f"水生的{a}"})
+    return entries
+
+def gen_spirit_flora():
+    entries = []
+    used = set()
+    target = 5000
+    for i in range(target):
+        tier = random.choices(TIERS, weights=TIER_W, k=1)[0]
+        base = random.choice(SPIRIT_PLANTS_ALL)
+        # Add prefix for variety
+        prefix = random.choice(["百年","千年","万年","野生","栽培","变异","上古","异种","",""])
+        name = f"{prefix}{base}" if prefix else base
+        if name in used: continue
+        used.add(name)
+        region = random.choice(REGIONS + ["全域"])
+        cat = "灵草" if base in (SPIRIT_HERBS["healing"]+SPIRIT_HERBS["cultivate"]+SPIRIT_HERBS["element"]+SPIRIT_HERBS["poison"]+SPIRIT_HERBS["rare"]) else "灵木"
+        rarity = {"黄级":"常见","玄级":"稀有","地级":"罕见","天级":"传说"}.get(tier,"常见")
+        effect = random.choice(["炼丹","制药","修炼","突破","解毒","续命","炼器","制作符纸","提升灵根","净化灵气"])
+        entries.append({
+            "name": name, "category": cat, "type": "灵植", "power_tier": tier,
+            "region": region, "rarity": rarity, "use": effect,
+            "desc": f"{tier}灵{'草' if cat=='灵草' else '木'}，{effect}时使用",
+        })
+        if i % 1000 == 0: print(f"  灵植: {i}/{target}", flush=True)
+    return entries
+
+def write_files(entries, filename, out_dir):
+    full = os.path.join(out_dir, filename)
+    with open(full, "w", encoding="utf-8") as f:
+        for e in entries:
+            f.write(json.dumps(e, ensure_ascii=False) + "\n")
+    sample = entries[:min(120, len(entries))]
+    sp = full.replace(".jsonl", "_sample.json")
+    with open(sp, "w", encoding="utf-8") as f:
+        json.dump(sample, f, ensure_ascii=False, indent=2)
+    print(f"  {filename}: {len(entries)} entries, {os.path.getsize(full)/1048576:.1f}MB", flush=True)
+
+def main():
+    print("Generating normal flora...")
+    normal = gen_normal_flora()
+    write_files(normal, "普通植物_flora.jsonl", OUT_DIR)
+
+    print("Generating spirit flora...")
+    spirit = gen_spirit_flora()
+    write_files(spirit, "灵植_flora.jsonl", OUT_DIR)
+
+    total = len(normal) + len(spirit)
+    print(f"Done! {total} total entries ({len(normal)} normal + {len(spirit)} spirit)")
+
+if __name__ == "__main__":
+    main()

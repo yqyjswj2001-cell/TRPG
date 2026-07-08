@@ -1,0 +1,2 @@
+﻿{"name": "造化推石鞭", "tier": "天级", "element": "金", "category": "鞭法", "creator": "归墟宗弃徒", "holder": "持有者身份特殊", "prevalence": "独门", "desc": "一门以火属灵气驱动的拳法，招式刚猛如虎，修至大成可在出招时附带火属灵气伤害，但消耗灵力是同阶普通拳法的倍有余", "effect": {"attack_bonus": 5, "defense_bonus": 5, "hp_max": 15}}
+{"name": "造化扫山鞭", "tier": "天级", "element": "金", "category": "鞭法", "creator": "灵砂走廊东口客栈主", "holder": "仅一脉单传", "prevalence": "独门", "desc": "一门由南部水渠工程师所创的实用功法，不求华丽只求实效。修习门槛极低——练气三层便可入门，但在实战中往往能出奇制胜。功法核心在于以守代攻。", "effect": {"attack_bonus": 6, "defense_bonus": 3, "hp_max": 15}}

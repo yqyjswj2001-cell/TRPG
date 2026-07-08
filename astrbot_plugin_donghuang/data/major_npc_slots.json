@@ -1,0 +1,1226 @@
+[
+  {
+    "faction_code": "STATE-01",
+    "age": 97,
+    "birth": {
+      "year": 11903,
+      "month": 2,
+      "day": 1,
+      "hour": 23
+    },
+    "eight_chars": "癸未癸卯乙巳丙子",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 17,
+      "机缘": 12,
+      "魅力": 15,
+      "体质": 13,
+      "心性": 12
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "STATE-01",
+    "age": 70,
+    "birth": {
+      "year": 11930,
+      "month": 1,
+      "day": 1,
+      "hour": 2
+    },
+    "eight_chars": "庚戌丙寅丙申己丑",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 9,
+      "机缘": 15,
+      "魅力": 16,
+      "体质": 17,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女"
+  },
+  {
+    "faction_code": "STATE-01",
+    "age": 69,
+    "birth": {
+      "year": 11931,
+      "month": 4,
+      "day": 15,
+      "hour": 18
+    },
+    "eight_chars": "辛亥辛巳乙酉乙酉",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 12,
+      "机缘": 10,
+      "魅力": 17,
+      "体质": 17,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "STATE-02",
+    "age": 113,
+    "birth": {
+      "year": 11887,
+      "month": 6,
+      "day": 4,
+      "hour": 2
+    },
+    "eight_chars": "丁卯乙未乙酉丁丑",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 12,
+      "机缘": 13,
+      "魅力": 18,
+      "体质": 17,
+      "心性": 10
+    },
+    "region_lean": "东部",
+    "identity_tier": "外门弟子",
+    "gender": "女"
+  },
+  {
+    "faction_code": "STATE-02",
+    "age": 84,
+    "birth": {
+      "year": 11916,
+      "month": 2,
+      "day": 13,
+      "hour": 2
+    },
+    "eight_chars": "丙申己卯乙丑丁丑",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 12,
+      "机缘": 16,
+      "魅力": 18,
+      "体质": 17,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女"
+  },
+  {
+    "faction_code": "STATE-02",
+    "age": 21,
+    "birth": {
+      "year": 11979,
+      "month": 11,
+      "day": 8,
+      "hour": 9
+    },
+    "eight_chars": "己亥甲子甲子己巳",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 18,
+      "机缘": 9,
+      "魅力": 15,
+      "体质": 12,
+      "心性": 16
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男"
+  },
+  {
+    "faction_code": "STATE-03",
+    "age": 101,
+    "birth": {
+      "year": 11899,
+      "month": 5,
+      "day": 23,
+      "hour": 21
+    },
+    "eight_chars": "己卯戊午丙子己亥",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 13,
+      "机缘": 15,
+      "魅力": 17,
+      "体质": 13,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男"
+  },
+  {
+    "faction_code": "STATE-03",
+    "age": 97,
+    "birth": {
+      "year": 11903,
+      "month": 12,
+      "day": 18,
+      "hour": 7
+    },
+    "eight_chars": "癸未癸丑乙丑庚辰",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 14,
+      "机缘": 6,
+      "魅力": 9,
+      "体质": 17,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "STATE-03",
+    "age": 43,
+    "birth": {
+      "year": 11957,
+      "month": 10,
+      "day": 23,
+      "hour": 10
+    },
+    "eight_chars": "丁丑己亥癸丑丁巳",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 15,
+      "机缘": 17,
+      "魅力": 15,
+      "体质": 17,
+      "心性": 13
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "STATE-04",
+    "age": 47,
+    "birth": {
+      "year": 11953,
+      "month": 12,
+      "day": 18,
+      "hour": 17
+    },
+    "eight_chars": "癸酉癸丑戊子辛酉",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 17,
+      "机缘": 10,
+      "魅力": 9,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "STATE-04",
+    "age": 81,
+    "birth": {
+      "year": 11919,
+      "month": 8,
+      "day": 3,
+      "hour": 1
+    },
+    "eight_chars": "己亥辛酉壬申辛丑",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 11,
+      "机缘": 11,
+      "魅力": 7,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男"
+  },
+  {
+    "faction_code": "STATE-04",
+    "age": 75,
+    "birth": {
+      "year": 11925,
+      "month": 9,
+      "day": 9,
+      "hour": 17
+    },
+    "eight_chars": "乙巳甲戌辛巳丁酉",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 15,
+      "机缘": 18,
+      "魅力": 16,
+      "体质": 17,
+      "心性": 14
+    },
+    "region_lean": "南部",
+    "identity_tier": "散修",
+    "gender": "女"
+  },
+  {
+    "faction_code": "CULT-01",
+    "age": 59,
+    "birth": {
+      "year": 11941,
+      "month": 2,
+      "day": 10,
+      "hour": 13
+    },
+    "eight_chars": "辛酉己卯甲戌辛未",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 13,
+      "机缘": 6,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "散修",
+    "gender": "男"
+  },
+  {
+    "faction_code": "CULT-01",
+    "age": 29,
+    "birth": {
+      "year": 11971,
+      "month": 11,
+      "day": 10,
+      "hour": 20
+    },
+    "eight_chars": "辛卯戊子甲申甲戌",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 18,
+      "机缘": 7,
+      "魅力": 13,
+      "体质": 16,
+      "心性": 13
+    },
+    "region_lean": "东部",
+    "identity_tier": "没落世家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "CULT-01",
+    "age": 16,
+    "birth": {
+      "year": 11984,
+      "month": 10,
+      "day": 11,
+      "hour": 15
+    },
+    "eight_chars": "甲辰癸亥癸亥庚申",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 16,
+      "机缘": 8,
+      "魅力": 10,
+      "体质": 13,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "散修",
+    "gender": "女"
+  },
+  {
+    "faction_code": "CULT-02",
+    "age": 26,
+    "birth": {
+      "year": 11974,
+      "month": 2,
+      "day": 24,
+      "hour": 15
+    },
+    "eight_chars": "甲午乙卯辛巳丙申",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 16,
+      "机缘": 15,
+      "魅力": 18,
+      "体质": 15,
+      "心性": 13
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "CULT-02",
+    "age": 83,
+    "birth": {
+      "year": 11917,
+      "month": 10,
+      "day": 14,
+      "hour": 6
+    },
+    "eight_chars": "丁酉己亥甲戌丁卯",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 17,
+      "机缘": 16,
+      "魅力": 15,
+      "体质": 17,
+      "心性": 12
+    },
+    "region_lean": "东部",
+    "identity_tier": "绝世妖孽",
+    "gender": "男"
+  },
+  {
+    "faction_code": "CULT-02",
+    "age": 72,
+    "birth": {
+      "year": 11928,
+      "month": 9,
+      "day": 15,
+      "hour": 3
+    },
+    "eight_chars": "戊申庚戌癸卯甲寅",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 15,
+      "机缘": 6,
+      "魅力": 14,
+      "体质": 14,
+      "心性": 16
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "CULT-03",
+    "age": 44,
+    "birth": {
+      "year": 11956,
+      "month": 1,
+      "day": 3,
+      "hour": 22
+    },
+    "eight_chars": "丙子戊寅甲寅乙亥",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 18,
+      "机缘": 9,
+      "魅力": 16,
+      "体质": 8,
+      "心性": 12
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男"
+  },
+  {
+    "faction_code": "CULT-03",
+    "age": 78,
+    "birth": {
+      "year": 11922,
+      "month": 4,
+      "day": 18,
+      "hour": 4
+    },
+    "eight_chars": "壬寅癸巳辛丑庚寅",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 18,
+      "机缘": 13,
+      "魅力": 16,
+      "体质": 13,
+      "心性": 17
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "CULT-03",
+    "age": 28,
+    "birth": {
+      "year": 11972,
+      "month": 11,
+      "day": 14,
+      "hour": 11
+    },
+    "eight_chars": "壬辰庚子甲午庚午",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 15,
+      "机缘": 15,
+      "魅力": 17,
+      "体质": 12,
+      "心性": 18
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "CULT-04",
+    "age": 118,
+    "birth": {
+      "year": 11882,
+      "month": 2,
+      "day": 8,
+      "hour": 6
+    },
+    "eight_chars": "壬戌辛卯癸亥乙卯",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 11,
+      "悟性": 18,
+      "机缘": 9,
+      "魅力": 13,
+      "体质": 13,
+      "心性": 15
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "CULT-04",
+    "age": 127,
+    "birth": {
+      "year": 11873,
+      "month": 2,
+      "day": 15,
+      "hour": 17
+    },
+    "eight_chars": "癸丑癸卯癸未辛酉",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 14,
+      "机缘": 11,
+      "魅力": 12,
+      "体质": 15,
+      "心性": 16
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "CULT-04",
+    "age": 78,
+    "birth": {
+      "year": 11922,
+      "month": 8,
+      "day": 7,
+      "hour": 12
+    },
+    "eight_chars": "壬寅丁酉壬辰丙午",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 13,
+      "机缘": 17,
+      "魅力": 14,
+      "体质": 13,
+      "心性": 14
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男"
+  },
+  {
+    "faction_code": "CULT-05",
+    "age": 109,
+    "birth": {
+      "year": 11891,
+      "month": 9,
+      "day": 22,
+      "hour": 22
+    },
+    "eight_chars": "辛未丙戌丙申己亥",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 9,
+      "机缘": 12,
+      "魅力": 12,
+      "体质": 18,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "男"
+  },
+  {
+    "faction_code": "CULT-05",
+    "age": 56,
+    "birth": {
+      "year": 11944,
+      "month": 1,
+      "day": 2,
+      "hour": 18
+    },
+    "eight_chars": "甲子甲寅庚戌乙酉",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 18,
+      "机缘": 10,
+      "魅力": 15,
+      "体质": 12,
+      "心性": 16
+    },
+    "region_lean": "东部",
+    "identity_tier": "散修",
+    "gender": "男"
+  },
+  {
+    "faction_code": "CULT-05",
+    "age": 24,
+    "birth": {
+      "year": 11976,
+      "month": 11,
+      "day": 28,
+      "hour": 7
+    },
+    "eight_chars": "丙申戊子己巳戊辰",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 8,
+      "机缘": 15,
+      "魅力": 11,
+      "体质": 18,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女"
+  },
+  {
+    "faction_code": "FREE-01",
+    "age": 69,
+    "birth": {
+      "year": 11931,
+      "month": 11,
+      "day": 19,
+      "hour": 18
+    },
+    "eight_chars": "辛亥戊子癸亥辛酉",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 17,
+      "机缘": 8,
+      "魅力": 7,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "FREE-01",
+    "age": 66,
+    "birth": {
+      "year": 11934,
+      "month": 3,
+      "day": 22,
+      "hour": 20
+    },
+    "eight_chars": "甲寅丙辰丁丑庚戌",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 13,
+      "机缘": 13,
+      "魅力": 14,
+      "体质": 15,
+      "心性": 11
+    },
+    "region_lean": "中部",
+    "identity_tier": "内门天才",
+    "gender": "女"
+  },
+  {
+    "faction_code": "FREE-01",
+    "age": 28,
+    "birth": {
+      "year": 11972,
+      "month": 2,
+      "day": 18,
+      "hour": 6
+    },
+    "eight_chars": "壬辰辛卯甲子丁卯",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 18,
+      "机缘": 9,
+      "魅力": 16,
+      "体质": 10,
+      "心性": 13
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男"
+  },
+  {
+    "faction_code": "FREE-02",
+    "age": 85,
+    "birth": {
+      "year": 11915,
+      "month": 12,
+      "day": 10,
+      "hour": 19
+    },
+    "eight_chars": "乙未丁丑庚申丙戌",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 12,
+      "机缘": 11,
+      "魅力": 17,
+      "体质": 18,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "内门弟子",
+    "gender": "男"
+  },
+  {
+    "faction_code": "FREE-02",
+    "age": 30,
+    "birth": {
+      "year": 11970,
+      "month": 2,
+      "day": 24,
+      "hour": 17
+    },
+    "eight_chars": "庚寅丁卯庚申乙酉",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 14,
+      "机缘": 10,
+      "魅力": 18,
+      "体质": 15,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男"
+  },
+  {
+    "faction_code": "FREE-02",
+    "age": 49,
+    "birth": {
+      "year": 11951,
+      "month": 9,
+      "day": 16,
+      "hour": 8
+    },
+    "eight_chars": "辛未丙戌甲辰戊辰",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 8,
+      "机缘": 13,
+      "魅力": 13,
+      "体质": 18,
+      "心性": 8
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男"
+  },
+  {
+    "faction_code": "FREE-03",
+    "age": 49,
+    "birth": {
+      "year": 11951,
+      "month": 3,
+      "day": 24,
+      "hour": 14
+    },
+    "eight_chars": "辛未庚辰戊申己未",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 11,
+      "机缘": 9,
+      "魅力": 10,
+      "体质": 18,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "内门弟子",
+    "gender": "男"
+  },
+  {
+    "faction_code": "FREE-03",
+    "age": 35,
+    "birth": {
+      "year": 11965,
+      "month": 9,
+      "day": 2,
+      "hour": 11
+    },
+    "eight_chars": "乙酉甲戌甲辰庚午",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 16,
+      "机缘": 10,
+      "魅力": 17,
+      "体质": 16,
+      "心性": 10
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "FREE-03",
+    "age": 126,
+    "birth": {
+      "year": 11874,
+      "month": 1,
+      "day": 12,
+      "hour": 6
+    },
+    "eight_chars": "甲寅甲寅甲寅丁卯",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 11,
+      "悟性": 18,
+      "机缘": 13,
+      "魅力": 18,
+      "体质": 8,
+      "心性": 10
+    },
+    "region_lean": "东部",
+    "identity_tier": "没落世家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "FREE-04",
+    "age": 46,
+    "birth": {
+      "year": 11954,
+      "month": 3,
+      "day": 26,
+      "hour": 5
+    },
+    "eight_chars": "甲戌丙辰丙寅辛卯",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 12,
+      "机缘": 12,
+      "魅力": 18,
+      "体质": 14,
+      "心性": 11
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "FREE-04",
+    "age": 29,
+    "birth": {
+      "year": 11971,
+      "month": 7,
+      "day": 28,
+      "hour": 1
+    },
+    "eight_chars": "辛卯甲申己亥乙丑",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 15,
+      "机缘": 7,
+      "魅力": 15,
+      "体质": 16,
+      "心性": 14
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "FREE-04",
+    "age": 100,
+    "birth": {
+      "year": 11900,
+      "month": 4,
+      "day": 13,
+      "hour": 10
+    },
+    "eight_chars": "庚辰己巳辛丑癸巳",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 8,
+      "机缘": 14,
+      "魅力": 12,
+      "体质": 18,
+      "心性": 16
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女"
+  },
+  {
+    "faction_code": "HIDDEN-01",
+    "age": 123,
+    "birth": {
+      "year": 11877,
+      "month": 9,
+      "day": 11,
+      "hour": 0
+    },
+    "eight_chars": "丁巳戊戌壬申庚子",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 12,
+      "机缘": 12,
+      "魅力": 14,
+      "体质": 16,
+      "心性": 14
+    },
+    "region_lean": "南部",
+    "identity_tier": "外门弟子",
+    "gender": "男"
+  },
+  {
+    "faction_code": "HIDDEN-01",
+    "age": 116,
+    "birth": {
+      "year": 11884,
+      "month": 6,
+      "day": 14,
+      "hour": 19
+    },
+    "eight_chars": "甲子己未庚辰丙戌",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 10,
+      "机缘": 11,
+      "魅力": 14,
+      "体质": 18,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "男"
+  },
+  {
+    "faction_code": "HIDDEN-01",
+    "age": 119,
+    "birth": {
+      "year": 11881,
+      "month": 9,
+      "day": 22,
+      "hour": 23
+    },
+    "eight_chars": "辛酉丙戌甲辰甲子",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 17,
+      "机缘": 13,
+      "魅力": 13,
+      "体质": 17,
+      "心性": 15
+    },
+    "region_lean": "中部",
+    "identity_tier": "内门天才",
+    "gender": "女"
+  },
+  {
+    "faction_code": "HIDDEN-02",
+    "age": 95,
+    "birth": {
+      "year": 11905,
+      "month": 6,
+      "day": 22,
+      "hour": 3
+    },
+    "eight_chars": "乙酉辛未丁丑壬寅",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 14,
+      "机缘": 12,
+      "魅力": 14,
+      "体质": 18,
+      "心性": 15
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女"
+  },
+  {
+    "faction_code": "HIDDEN-02",
+    "age": 53,
+    "birth": {
+      "year": 11947,
+      "month": 9,
+      "day": 5,
+      "hour": 6
+    },
+    "eight_chars": "丁卯戊戌壬申癸卯",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 18,
+      "机缘": 11,
+      "魅力": 17,
+      "体质": 17,
+      "心性": 13
+    },
+    "region_lean": "东部",
+    "identity_tier": "散修",
+    "gender": "男"
+  },
+  {
+    "faction_code": "HIDDEN-02",
+    "age": 122,
+    "birth": {
+      "year": 11878,
+      "month": 1,
+      "day": 10,
+      "hour": 9
+    },
+    "eight_chars": "戊午壬寅癸酉丁巳",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 11,
+      "悟性": 15,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 15,
+      "心性": 14
+    },
+    "region_lean": "南部",
+    "identity_tier": "外门弟子",
+    "gender": "女"
+  },
+  {
+    "faction_code": "HIDDEN-03",
+    "age": 102,
+    "birth": {
+      "year": 11898,
+      "month": 4,
+      "day": 17,
+      "hour": 15
+    },
+    "eight_chars": "戊寅乙巳乙未甲申",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 15,
+      "机缘": 14,
+      "魅力": 16,
+      "体质": 14,
+      "心性": 12
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "HIDDEN-03",
+    "age": 120,
+    "birth": {
+      "year": 11880,
+      "month": 4,
+      "day": 22,
+      "hour": 9
+    },
+    "eight_chars": "庚申己巳丙寅癸巳",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 11,
+      "机缘": 15,
+      "魅力": 15,
+      "体质": 12,
+      "心性": 13
+    },
+    "region_lean": "南部",
+    "identity_tier": "外门弟子",
+    "gender": "女"
+  },
+  {
+    "faction_code": "HIDDEN-03",
+    "age": 74,
+    "birth": {
+      "year": 11926,
+      "month": 7,
+      "day": 21,
+      "hour": 18
+    },
+    "eight_chars": "丙午甲申丙申丁酉",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 13,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 16,
+      "心性": 16
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男"
+  },
+  {
+    "faction_code": "HIDDEN-04",
+    "age": 130,
+    "birth": {
+      "year": 11870,
+      "month": 2,
+      "day": 25,
+      "hour": 13
+    },
+    "eight_chars": "庚戌丁卯丁丑丁未",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 9,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 18,
+      "心性": 8
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女"
+  },
+  {
+    "faction_code": "HIDDEN-04",
+    "age": 124,
+    "birth": {
+      "year": 11876,
+      "month": 2,
+      "day": 15,
+      "hour": 4
+    },
+    "eight_chars": "丙辰己卯戊戌甲寅",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 17,
+      "机缘": 12,
+      "魅力": 18,
+      "体质": 18,
+      "心性": 8
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女"
+  },
+  {
+    "faction_code": "HIDDEN-04",
+    "age": 80,
+    "birth": {
+      "year": 11920,
+      "month": 7,
+      "day": 27,
+      "hour": 17
+    },
+    "eight_chars": "庚子壬申辛未丁酉",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 11,
+      "机缘": 13,
+      "魅力": 11,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "散修",
+    "gender": "女"
+  }
+]

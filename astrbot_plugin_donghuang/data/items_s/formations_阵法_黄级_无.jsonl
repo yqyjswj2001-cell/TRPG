@@ -1,0 +1,6 @@
+﻿{"name": "天罗阵", "tier": "黄级", "category": "阵法", "type": "攻击阵", "element": "无", "region": "南部", "rarity": "常见", "effect": "攻击阵", "desc": "黄级攻击阵"}
+{"name": "暴风阵", "tier": "黄级", "category": "阵法", "type": "困敌阵", "element": "无", "region": "西部", "rarity": "常见", "effect": "困敌阵", "desc": "黄级困敌阵"}
+{"name": "归元阵", "tier": "黄级", "category": "阵法", "type": "困敌阵", "element": "无", "region": "北地", "rarity": "常见", "effect": "困敌阵", "desc": "黄级困敌阵"}
+{"name": "镜花阵", "tier": "黄级", "category": "阵法", "type": "聚灵阵", "element": "无", "region": "中部", "rarity": "常见", "effect": "聚灵阵", "desc": "黄级聚灵阵"}
+{"name": "斩神阵", "tier": "黄级", "category": "阵法", "type": "防御阵", "element": "无", "region": "北地", "rarity": "常见", "effect": "防御阵", "desc": "黄级防御阵"}
+{"name": "灭魔阵", "tier": "黄级", "category": "阵法", "type": "封印阵", "element": "无", "region": "东部", "rarity": "常见", "effect": "封印阵", "desc": "黄级封印阵"}

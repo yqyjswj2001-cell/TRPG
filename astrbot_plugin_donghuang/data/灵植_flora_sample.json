@@ -1,0 +1,1502 @@
+[
+  {
+    "name": "异种接脉柳",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "南部",
+    "rarity": "传说",
+    "use": "突破",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "红花活气松",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "制药",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "银边光耀桑",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "中部",
+    "rarity": "罕见",
+    "use": "突破",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "红花失魂竹",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "突破",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "异种明目稻",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "东部",
+    "rarity": "传说",
+    "use": "净化",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "银边洗髓葵",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "中部",
+    "rarity": "传说",
+    "use": "修炼",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "老风语根",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "东部",
+    "rarity": "稀有",
+    "use": "续命",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "栽培复灵参",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "续命",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "上古洗髓花",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "北地",
+    "rarity": "传说",
+    "use": "制药",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "古愈伤莲",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "续命",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "银边破境芝",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "中部",
+    "rarity": "罕见",
+    "use": "突破",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "千年愈伤桂",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "中部",
+    "rarity": "罕见",
+    "use": "炼器",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "白花断肠豆",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "修炼",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "幽谷土精叶",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "中部",
+    "rarity": "稀有",
+    "use": "制药",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "上古益气兰",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "东部",
+    "rarity": "传说",
+    "use": "修炼",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "万年水灵麦",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "东部",
+    "rarity": "罕见",
+    "use": "突破",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "深山驻颜柏",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "中部",
+    "rarity": "罕见",
+    "use": "突破",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "百年化瘀豆",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "制药",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "紫茎长春兰",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "南部",
+    "rarity": "稀有",
+    "use": "突破",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "异种失魂藤",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "北地",
+    "rarity": "传说",
+    "use": "修炼",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "白花活气松",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "解毒",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "银边暗影叶",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "西部",
+    "rarity": "传说",
+    "use": "续命",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "红花活气桂",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "炼丹",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "栽培聚灵桂",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "制药",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "古金髓花",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "解毒",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "金纹轻身楠",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "中部",
+    "rarity": "传说",
+    "use": "解毒",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "异种风语根",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "东部",
+    "rarity": "传说",
+    "use": "修炼",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "万年回春根",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "南部",
+    "rarity": "传说",
+    "use": "修炼",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "灵泉长春参",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "南部",
+    "rarity": "罕见",
+    "use": "突破",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "小叶水灵松",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "东部",
+    "rarity": "稀有",
+    "use": "炼丹",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "上古雷击芝",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "东部",
+    "rarity": "传说",
+    "use": "续命",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "千年冲关兰",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "制药",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "野生通窍豆",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "修炼",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "小叶强筋花",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "修炼",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "白花盲眼草",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "北地",
+    "rarity": "稀有",
+    "use": "突破",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "金纹驱邪柏",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "东部",
+    "rarity": "罕见",
+    "use": "解毒",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "古强筋茶",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "北地",
+    "rarity": "稀有",
+    "use": "净化",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "栽培冲关麦",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "炼丹",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "银边烂肉桑",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "东部",
+    "rarity": "罕见",
+    "use": "炼丹",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "野生聪耳参",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "制药",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "百年轻身榕",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "突破",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "白花强筋榕",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "修炼",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "银边清心兰",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "北地",
+    "rarity": "罕见",
+    "use": "炼器",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "紫茎复灵桂",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "续命",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "老光耀花",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "中部",
+    "rarity": "稀有",
+    "use": "制药",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "百年木魂竹",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "南部",
+    "rarity": "稀有",
+    "use": "突破",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "紫茎筑基葵",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "大叶开脉草",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "净化",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "金纹复灵榕",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "西部",
+    "rarity": "罕见",
+    "use": "炼丹",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "野生金疮叶",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "修炼",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "老麻骨菇",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "北地",
+    "rarity": "稀有",
+    "use": "炼丹",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "大叶水灵稻",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "解毒",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "万年开脉竹",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "西部",
+    "rarity": "罕见",
+    "use": "净化",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "小叶筑基豆",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "炼丹",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "深山生肌麦",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "北地",
+    "rarity": "稀有",
+    "use": "修炼",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "百年冻疮杉",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "制药",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "上古止痛槐",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "东部",
+    "rarity": "传说",
+    "use": "炼器",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "栽培烧伤果",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "东部",
+    "rarity": "稀有",
+    "use": "炼丹",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "上古愈伤杉",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "西部",
+    "rarity": "传说",
+    "use": "续命",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "白花破境豆",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "突破",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "白花木魂草",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "净化",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "深山金疮菊",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "西部",
+    "rarity": "罕见",
+    "use": "炼丹",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "万年培元菊",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "中部",
+    "rarity": "传说",
+    "use": "制药",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "金纹元灵柏",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "东部",
+    "rarity": "罕见",
+    "use": "续命",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "野生益寿草",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "修炼",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "万年乌发麦",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "南部",
+    "rarity": "罕见",
+    "use": "炼丹",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "金纹火灵桂",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "南部",
+    "rarity": "传说",
+    "use": "修炼",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "白花接脉稻",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "修炼",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "白花开脉叶",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "突破",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "异种轻身根",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "北地",
+    "rarity": "传说",
+    "use": "解毒",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "百年复灵参",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "炼丹",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "雷击檀",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "东部",
+    "rarity": "稀有",
+    "use": "修炼",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "万年烂肉槐",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "西部",
+    "rarity": "罕见",
+    "use": "炼丹",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "栽培愈伤菇",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "东部",
+    "rarity": "稀有",
+    "use": "炼丹",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "幽谷清心楠",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "北地",
+    "rarity": "稀有",
+    "use": "修炼",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "百年冰晶花",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "北地",
+    "rarity": "常见",
+    "use": "续命",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "紫茎壮骨柏",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "续命",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "金纹益寿兰",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "西部",
+    "rarity": "传说",
+    "use": "修炼",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "红花延年草",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "筑基叶",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "南部",
+    "rarity": "稀有",
+    "use": "炼器",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "红花洗髓根",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "百年轻身柳",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "净化",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "幽谷火灵茶",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "南部",
+    "rarity": "罕见",
+    "use": "突破",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "强筋花",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "解毒",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "野生辟秽檀",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "金纹雷击柳",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "东部",
+    "rarity": "传说",
+    "use": "解毒",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "大叶清心槐",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "南部",
+    "rarity": "罕见",
+    "use": "炼丹",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "栽培定神樟",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "炼器",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "上古失魂麦",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "西部",
+    "rarity": "传说",
+    "use": "突破",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "白花生肌草",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "中部",
+    "rarity": "稀有",
+    "use": "突破",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "幽谷暗影桂",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "续命",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "栽培通窍菇",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "解毒",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "老雷击果",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "东部",
+    "rarity": "稀有",
+    "use": "修炼",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "紫茎光耀樟",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "修炼",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "上古幻梦茶",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "西部",
+    "rarity": "传说",
+    "use": "炼丹",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "千年开脉杉",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "续命",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "万年断肠菇",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "东部",
+    "rarity": "罕见",
+    "use": "净化",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "大叶补血葵",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "续命",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "野生止血稻",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "东部",
+    "rarity": "罕见",
+    "use": "解毒",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "红花止血花",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "炼丹",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "红花醉魂桂",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "净化",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "老益寿竹",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "东部",
+    "rarity": "稀有",
+    "use": "炼器",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "绝壁木魂果",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "南部",
+    "rarity": "罕见",
+    "use": "制药",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "老元灵豆",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "净化",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "百年幻梦花",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "净化",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "小叶化瘀樟",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "续命",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "万年固本桑",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "西部",
+    "rarity": "传说",
+    "use": "炼器",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "金纹断肠桂",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "北地",
+    "rarity": "传说",
+    "use": "净化",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "白花驱邪参",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "净化",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "异种冲关参",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "中部",
+    "rarity": "传说",
+    "use": "解毒",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "红花洗髓柏",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "西部",
+    "rarity": "常见",
+    "use": "制药",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "小叶聚灵果",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "突破",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "野生光耀参",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "净化",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "老止痛叶",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "北地",
+    "rarity": "稀有",
+    "use": "炼器",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "银边烧伤杉",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "西部",
+    "rarity": "罕见",
+    "use": "炼器",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "绝壁回春菊",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "南部",
+    "rarity": "传说",
+    "use": "炼器",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "老盲眼楠",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "西部",
+    "rarity": "罕见",
+    "use": "突破",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "绝壁元灵葵",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "北地",
+    "rarity": "罕见",
+    "use": "炼丹",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "古雷击豆",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "东部",
+    "rarity": "稀有",
+    "use": "修炼",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "万年长春檀",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "西部",
+    "rarity": "罕见",
+    "use": "炼丹",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "古定神菊",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "中部",
+    "rarity": "稀有",
+    "use": "制药",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "异种暗影叶",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "西部",
+    "rarity": "传说",
+    "use": "修炼",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "百年辟谷楠",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "东部",
+    "rarity": "常见",
+    "use": "净化",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "深山风语花",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "东部",
+    "rarity": "罕见",
+    "use": "解毒",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "老辟谷根",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "北地",
+    "rarity": "罕见",
+    "use": "炼丹",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "金纹生肌柏",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "南部",
+    "rarity": "传说",
+    "use": "突破",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "异种止痛榕",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "中部",
+    "rarity": "传说",
+    "use": "炼丹",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "红花破境柳",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "修炼",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "红花生血柳",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "中部",
+    "rarity": "常见",
+    "use": "突破",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "万年明目楠",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "南部",
+    "rarity": "罕见",
+    "use": "修炼",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "上古固本桂",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "中部",
+    "rarity": "传说",
+    "use": "修炼",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "千年接脉莲",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "南部",
+    "rarity": "稀有",
+    "use": "炼器",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "古烧伤果",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "中部",
+    "rarity": "罕见",
+    "use": "突破",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "栽培明目杉",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "制药",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "银边消肿菊",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "西部",
+    "rarity": "罕见",
+    "use": "炼器",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "幽谷止痛樟",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "南部",
+    "rarity": "稀有",
+    "use": "炼丹",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "老乌发菇",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "北地",
+    "rarity": "稀有",
+    "use": "续命",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "异种益寿茶",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "东部",
+    "rarity": "传说",
+    "use": "炼器",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "大叶活络藤",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "净化",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "万年暗影楠",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "西部",
+    "rarity": "传说",
+    "use": "解毒",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "深山轻身菇",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "中部",
+    "rarity": "稀有",
+    "use": "解毒",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "万年冲关槐",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "西部",
+    "rarity": "传说",
+    "use": "炼器",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "深山续骨豆",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "南部",
+    "rarity": "稀有",
+    "use": "修炼",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "绝壁元灵竹",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "南部",
+    "rarity": "罕见",
+    "use": "续命",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "白花益寿藤",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "黄级",
+    "region": "南部",
+    "rarity": "常见",
+    "use": "炼丹",
+    "desc": "黄级灵植"
+  },
+  {
+    "name": "灵泉烧伤樟",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "东部",
+    "rarity": "罕见",
+    "use": "炼器",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "绝壁烂肉麦",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "天级",
+    "region": "北地",
+    "rarity": "传说",
+    "use": "净化",
+    "desc": "天级灵植"
+  },
+  {
+    "name": "万年化瘀芝",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "南部",
+    "rarity": "罕见",
+    "use": "突破",
+    "desc": "地级灵植"
+  },
+  {
+    "name": "古明目根",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "玄级",
+    "region": "西部",
+    "rarity": "稀有",
+    "use": "续命",
+    "desc": "玄级灵植"
+  },
+  {
+    "name": "绝壁烂肉檀",
+    "category": "灵植",
+    "type": "灵植",
+    "power_tier": "地级",
+    "region": "北地",
+    "rarity": "罕见",
+    "use": "续命",
+    "desc": "地级灵植"
+  }
+]

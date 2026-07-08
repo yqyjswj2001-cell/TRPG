@@ -1,0 +1,7002 @@
+[
+  {
+    "subregion": "岱央",
+    "age": 51,
+    "birth": {
+      "year": 11949,
+      "month": 9,
+      "day": 16,
+      "hour": 20
+    },
+    "eight_chars": "己巳壬戌甲午甲戌",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 14,
+      "机缘": 15,
+      "魅力": 14,
+      "体质": 17,
+      "心性": 10
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "岱央",
+    "age": 85,
+    "birth": {
+      "year": 11915,
+      "month": 2,
+      "day": 5,
+      "hour": 4
+    },
+    "eight_chars": "乙未丁卯壬子壬寅",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 9,
+      "悟性": 18,
+      "机缘": 13,
+      "魅力": 15,
+      "体质": 13,
+      "心性": 13
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "岱央",
+    "age": 75,
+    "birth": {
+      "year": 11925,
+      "month": 7,
+      "day": 2,
+      "hour": 6
+    },
+    "eight_chars": "乙巳壬申壬申癸卯",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 18,
+      "机缘": 13,
+      "魅力": 17,
+      "体质": 10,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "岱央",
+    "age": 54,
+    "birth": {
+      "year": 11946,
+      "month": 7,
+      "day": 28,
+      "hour": 13
+    },
+    "eight_chars": "丙寅甲申戊子己未",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 17,
+      "机缘": 13,
+      "魅力": 16,
+      "体质": 18,
+      "心性": 11
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "岱央",
+    "age": 19,
+    "birth": {
+      "year": 11981,
+      "month": 7,
+      "day": 11,
+      "hour": 21
+    },
+    "eight_chars": "辛丑甲申乙亥丁亥",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 17,
+      "机缘": 13,
+      "魅力": 13,
+      "体质": 15,
+      "心性": 16
+    },
+    "region_lean": "北地",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "岱央",
+    "age": 66,
+    "birth": {
+      "year": 11934,
+      "month": 10,
+      "day": 19,
+      "hour": 21
+    },
+    "eight_chars": "甲寅癸亥戊申癸亥",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 18,
+      "机缘": 11,
+      "魅力": 13,
+      "体质": 11,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "岱央",
+    "age": 43,
+    "birth": {
+      "year": 11957,
+      "month": 8,
+      "day": 11,
+      "hour": 10
+    },
+    "eight_chars": "丁丑丁酉庚子辛巳",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 10,
+      "机缘": 17,
+      "魅力": 14,
+      "体质": 14,
+      "心性": 17
+    },
+    "region_lean": "南部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "断脊边郡",
+    "age": 60,
+    "birth": {
+      "year": 11940,
+      "month": 4,
+      "day": 21,
+      "hour": 2
+    },
+    "eight_chars": "庚申己巳己卯乙丑",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 10,
+      "机缘": 9,
+      "魅力": 13,
+      "体质": 17,
+      "心性": 10
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "断脊边郡",
+    "age": 32,
+    "birth": {
+      "year": 11968,
+      "month": 8,
+      "day": 22,
+      "hour": 3
+    },
+    "eight_chars": "戊子己酉己酉丙寅",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 11,
+      "机缘": 11,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 15
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "断脊边郡",
+    "age": 111,
+    "birth": {
+      "year": 11889,
+      "month": 12,
+      "day": 4,
+      "hour": 5
+    },
+    "eight_chars": "己巳乙丑己亥丁卯",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 12,
+      "机缘": 15,
+      "魅力": 14,
+      "体质": 14,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "断脊边郡",
+    "age": 107,
+    "birth": {
+      "year": 11893,
+      "month": 4,
+      "day": 3,
+      "hour": 18
+    },
+    "eight_chars": "癸酉乙巳乙卯乙酉",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 18,
+      "机缘": 10,
+      "魅力": 16,
+      "体质": 15,
+      "心性": 14
+    },
+    "region_lean": "东部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "断脊边郡",
+    "age": 117,
+    "birth": {
+      "year": 11883,
+      "month": 10,
+      "day": 26,
+      "hour": 1
+    },
+    "eight_chars": "癸亥辛亥戊子癸丑",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 18,
+      "机缘": 9,
+      "魅力": 11,
+      "体质": 14,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "断脊边郡",
+    "age": 69,
+    "birth": {
+      "year": 11931,
+      "month": 8,
+      "day": 4,
+      "hour": 13
+    },
+    "eight_chars": "辛亥乙酉丙子乙未",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 18,
+      "机缘": 11,
+      "魅力": 17,
+      "体质": 13,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "内门弟子",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "断脊边郡",
+    "age": 50,
+    "birth": {
+      "year": 11950,
+      "month": 10,
+      "day": 26,
+      "hour": 17
+    },
+    "eight_chars": "庚午乙亥己卯癸酉",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 17,
+      "机缘": 12,
+      "魅力": 17,
+      "体质": 16,
+      "心性": 16
+    },
+    "region_lean": "东部",
+    "identity_tier": "没落世家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "祖脉余山",
+    "age": 122,
+    "birth": {
+      "year": 11878,
+      "month": 2,
+      "day": 9,
+      "hour": 14
+    },
+    "eight_chars": "戊午癸卯癸卯己未",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 17,
+      "机缘": 13,
+      "魅力": 17,
+      "体质": 17,
+      "心性": 13
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "祖脉余山",
+    "age": 124,
+    "birth": {
+      "year": 11876,
+      "month": 6,
+      "day": 6,
+      "hour": 15
+    },
+    "eight_chars": "丙辰癸未庚寅甲申",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 14,
+      "机缘": 10,
+      "魅力": 14,
+      "体质": 17,
+      "心性": 16
+    },
+    "region_lean": "中部",
+    "identity_tier": "散修",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "祖脉余山",
+    "age": 40,
+    "birth": {
+      "year": 11960,
+      "month": 2,
+      "day": 8,
+      "hour": 23
+    },
+    "eight_chars": "庚辰丁卯辛亥戊子",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 16,
+      "机缘": 12,
+      "魅力": 11,
+      "体质": 18,
+      "心性": 17
+    },
+    "region_lean": "北地",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "祖脉余山",
+    "age": 18,
+    "birth": {
+      "year": 11982,
+      "month": 2,
+      "day": 10,
+      "hour": 7
+    },
+    "eight_chars": "壬寅辛卯己酉戊辰",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 17,
+      "机缘": 7,
+      "魅力": 12,
+      "体质": 18,
+      "心性": 16
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "祖脉余山",
+    "age": 83,
+    "birth": {
+      "year": 11917,
+      "month": 6,
+      "day": 14,
+      "hour": 23
+    },
+    "eight_chars": "丁酉乙未壬申庚子",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 14,
+      "机缘": 10,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "祖脉余山",
+    "age": 40,
+    "birth": {
+      "year": 11960,
+      "month": 6,
+      "day": 4,
+      "hour": 23
+    },
+    "eight_chars": "庚辰辛未戊申壬子",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 15,
+      "机缘": 7,
+      "魅力": 7,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "祖脉余山",
+    "age": 113,
+    "birth": {
+      "year": 11887,
+      "month": 9,
+      "day": 20,
+      "hour": 9
+    },
+    "eight_chars": "丁卯戊戌癸酉丁巳",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 11,
+      "机缘": 16,
+      "魅力": 15,
+      "体质": 14,
+      "心性": 11
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "旧畿七县",
+    "age": 84,
+    "birth": {
+      "year": 11916,
+      "month": 3,
+      "day": 9,
+      "hour": 1
+    },
+    "eight_chars": "丙申庚辰庚寅丁丑",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 12,
+      "机缘": 13,
+      "魅力": 17,
+      "体质": 18,
+      "心性": 17
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "旧畿七县",
+    "age": 52,
+    "birth": {
+      "year": 11948,
+      "month": 8,
+      "day": 16,
+      "hour": 14
+    },
+    "eight_chars": "戊辰己酉戊午己未",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 7,
+      "机缘": 9,
+      "魅力": 10,
+      "体质": 18,
+      "心性": 8
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "旧畿七县",
+    "age": 96,
+    "birth": {
+      "year": 11904,
+      "month": 11,
+      "day": 2,
+      "hour": 4
+    },
+    "eight_chars": "甲申甲子乙酉戊寅",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 18,
+      "机缘": 8,
+      "魅力": 14,
+      "体质": 13,
+      "心性": 13
+    },
+    "region_lean": "东部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "旧畿七县",
+    "age": 93,
+    "birth": {
+      "year": 11907,
+      "month": 10,
+      "day": 26,
+      "hour": 19
+    },
+    "eight_chars": "丁亥己亥癸巳壬戌",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 11,
+      "悟性": 18,
+      "机缘": 14,
+      "魅力": 13,
+      "体质": 13,
+      "心性": 16
+    },
+    "region_lean": "北地",
+    "identity_tier": "内门天才",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "旧畿七县",
+    "age": 55,
+    "birth": {
+      "year": 11945,
+      "month": 10,
+      "day": 20,
+      "hour": 1
+    },
+    "eight_chars": "乙丑乙亥丁未辛丑",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 17,
+      "机缘": 8,
+      "魅力": 13,
+      "体质": 18,
+      "心性": 11
+    },
+    "region_lean": "中部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "旧畿七县",
+    "age": 36,
+    "birth": {
+      "year": 11964,
+      "month": 4,
+      "day": 6,
+      "hour": 17
+    },
+    "eight_chars": "甲申丁巳庚午乙酉",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 11,
+      "机缘": 14,
+      "魅力": 18,
+      "体质": 15,
+      "心性": 17
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "旧畿七县",
+    "age": 52,
+    "birth": {
+      "year": 11948,
+      "month": 12,
+      "day": 10,
+      "hour": 22
+    },
+    "eight_chars": "戊辰癸丑甲寅乙亥",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 16,
+      "机缘": 11,
+      "魅力": 13,
+      "体质": 14,
+      "心性": 15
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "灵砂荒原",
+    "age": 70,
+    "birth": {
+      "year": 11930,
+      "month": 2,
+      "day": 18,
+      "hour": 7
+    },
+    "eight_chars": "庚戌丁卯甲申戊辰",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 11,
+      "机缘": 10,
+      "魅力": 13,
+      "体质": 17,
+      "心性": 10
+    },
+    "region_lean": "中部",
+    "identity_tier": "散修",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "灵砂荒原",
+    "age": 121,
+    "birth": {
+      "year": 11879,
+      "month": 10,
+      "day": 10,
+      "hour": 14
+    },
+    "eight_chars": "己未癸亥辛亥乙未",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 17,
+      "机缘": 11,
+      "魅力": 10,
+      "体质": 18,
+      "心性": 17
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "灵砂荒原",
+    "age": 79,
+    "birth": {
+      "year": 11921,
+      "month": 8,
+      "day": 3,
+      "hour": 19
+    },
+    "eight_chars": "辛丑乙酉癸未壬戌",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 15,
+      "机缘": 11,
+      "魅力": 10,
+      "体质": 18,
+      "心性": 16
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "灵砂荒原",
+    "age": 102,
+    "birth": {
+      "year": 11898,
+      "month": 10,
+      "day": 19,
+      "hour": 0
+    },
+    "eight_chars": "戊寅辛亥庚子丙子",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 17,
+      "机缘": 12,
+      "魅力": 10,
+      "体质": 13,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "灵砂荒原",
+    "age": 39,
+    "birth": {
+      "year": 11961,
+      "month": 10,
+      "day": 14,
+      "hour": 20
+    },
+    "eight_chars": "辛巳丁亥乙丑丙戌",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 10,
+      "机缘": 17,
+      "魅力": 16,
+      "体质": 15,
+      "心性": 12
+    },
+    "region_lean": "南部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "灵砂荒原",
+    "age": 125,
+    "birth": {
+      "year": 11875,
+      "month": 3,
+      "day": 11,
+      "hour": 13
+    },
+    "eight_chars": "乙卯戊辰丁巳丁未",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 13,
+      "机缘": 16,
+      "魅力": 18,
+      "体质": 15,
+      "心性": 10
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "灵砂荒原",
+    "age": 56,
+    "birth": {
+      "year": 11944,
+      "month": 5,
+      "day": 11,
+      "hour": 3
+    },
+    "eight_chars": "甲子戊午庚申戊寅",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 16,
+      "机缘": 9,
+      "魅力": 17,
+      "体质": 18,
+      "心性": 15
+    },
+    "region_lean": "东部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "河间废渠",
+    "age": 95,
+    "birth": {
+      "year": 11905,
+      "month": 8,
+      "day": 21,
+      "hour": 14
+    },
+    "eight_chars": "乙酉癸酉丁丑丁未",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 11,
+      "机缘": 13,
+      "魅力": 16,
+      "体质": 16,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "没落世家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "河间废渠",
+    "age": 78,
+    "birth": {
+      "year": 11922,
+      "month": 2,
+      "day": 1,
+      "hour": 20
+    },
+    "eight_chars": "壬寅辛卯乙酉丙戌",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 15,
+      "机缘": 13,
+      "魅力": 15,
+      "体质": 14,
+      "心性": 16
+    },
+    "region_lean": "东部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "河间废渠",
+    "age": 27,
+    "birth": {
+      "year": 11973,
+      "month": 4,
+      "day": 27,
+      "hour": 3
+    },
+    "eight_chars": "癸巳乙巳戊寅甲寅",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 11,
+      "悟性": 16,
+      "机缘": 17,
+      "魅力": 18,
+      "体质": 11,
+      "心性": 13
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "河间废渠",
+    "age": 122,
+    "birth": {
+      "year": 11878,
+      "month": 8,
+      "day": 16,
+      "hour": 7
+    },
+    "eight_chars": "戊午己酉辛亥壬辰",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 14,
+      "机缘": 10,
+      "魅力": 11,
+      "体质": 17,
+      "心性": 18
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "河间废渠",
+    "age": 33,
+    "birth": {
+      "year": 11967,
+      "month": 2,
+      "day": 9,
+      "hour": 13
+    },
+    "eight_chars": "丁亥辛卯己丑辛未",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 14,
+      "机缘": 10,
+      "魅力": 10,
+      "体质": 18,
+      "心性": 17
+    },
+    "region_lean": "中部",
+    "identity_tier": "内门弟子",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "河间废渠",
+    "age": 90,
+    "birth": {
+      "year": 11910,
+      "month": 11,
+      "day": 16,
+      "hour": 4
+    },
+    "eight_chars": "庚寅丙子庚午戊寅",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 17,
+      "机缘": 14,
+      "魅力": 17,
+      "体质": 14,
+      "心性": 16
+    },
+    "region_lean": "东部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "河间废渠",
+    "age": 127,
+    "birth": {
+      "year": 11873,
+      "month": 4,
+      "day": 23,
+      "hour": 7
+    },
+    "eight_chars": "癸丑乙巳庚寅庚辰",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 15,
+      "机缘": 10,
+      "魅力": 15,
+      "体质": 14,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "内门弟子",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "南麓林区",
+    "age": 65,
+    "birth": {
+      "year": 11935,
+      "month": 11,
+      "day": 26,
+      "hour": 20
+    },
+    "eight_chars": "乙卯丙子辛卯戊戌",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 18,
+      "机缘": 8,
+      "魅力": 15,
+      "体质": 16,
+      "心性": 14
+    },
+    "region_lean": "东部",
+    "identity_tier": "内门弟子",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "南麓林区",
+    "age": 127,
+    "birth": {
+      "year": 11873,
+      "month": 8,
+      "day": 4,
+      "hour": 16
+    },
+    "eight_chars": "癸丑己酉癸酉庚申",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 10,
+      "机缘": 11,
+      "魅力": 7,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "南麓林区",
+    "age": 116,
+    "birth": {
+      "year": 11884,
+      "month": 5,
+      "day": 11,
+      "hour": 19
+    },
+    "eight_chars": "甲子戊午丙午戊戌",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 13,
+      "机缘": 18,
+      "魅力": 14,
+      "体质": 14,
+      "心性": 13
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "南麓林区",
+    "age": 107,
+    "birth": {
+      "year": 11893,
+      "month": 8,
+      "day": 28,
+      "hour": 17
+    },
+    "eight_chars": "癸酉己酉壬午己酉",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 14,
+      "机缘": 9,
+      "魅力": 9,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "内门天才",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "南麓林区",
+    "age": 71,
+    "birth": {
+      "year": 11929,
+      "month": 2,
+      "day": 25,
+      "hour": 20
+    },
+    "eight_chars": "己酉乙卯丙戌戊戌",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 10,
+      "机缘": 11,
+      "魅力": 13,
+      "体质": 18,
+      "心性": 10
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "南麓林区",
+    "age": 53,
+    "birth": {
+      "year": 11947,
+      "month": 6,
+      "day": 12,
+      "hour": 13
+    },
+    "eight_chars": "丁卯乙未丁未丁未",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 11,
+      "机缘": 17,
+      "魅力": 18,
+      "体质": 17,
+      "心性": 11
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "南麓林区",
+    "age": 26,
+    "birth": {
+      "year": 11974,
+      "month": 10,
+      "day": 28,
+      "hour": 12
+    },
+    "eight_chars": "甲午癸亥丁亥丙午",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 18,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 10,
+      "心性": 13
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "北坡旱原",
+    "age": 48,
+    "birth": {
+      "year": 11952,
+      "month": 8,
+      "day": 9,
+      "hour": 21
+    },
+    "eight_chars": "壬申丁酉壬申辛亥",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 15,
+      "机缘": 10,
+      "魅力": 13,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "北坡旱原",
+    "age": 91,
+    "birth": {
+      "year": 11909,
+      "month": 5,
+      "day": 21,
+      "hour": 13
+    },
+    "eight_chars": "己丑戊午丙寅乙未",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 12,
+      "机缘": 14,
+      "魅力": 16,
+      "体质": 15,
+      "心性": 9
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "北坡旱原",
+    "age": 61,
+    "birth": {
+      "year": 11939,
+      "month": 10,
+      "day": 10,
+      "hour": 22
+    },
+    "eight_chars": "己未癸亥乙丑丁亥",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 14,
+      "机缘": 13,
+      "魅力": 13,
+      "体质": 14,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "北坡旱原",
+    "age": 115,
+    "birth": {
+      "year": 11885,
+      "month": 12,
+      "day": 2,
+      "hour": 19
+    },
+    "eight_chars": "乙丑丁丑丙子戊戌",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 13,
+      "机缘": 13,
+      "魅力": 13,
+      "体质": 18,
+      "心性": 10
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "北坡旱原",
+    "age": 102,
+    "birth": {
+      "year": 11898,
+      "month": 12,
+      "day": 25,
+      "hour": 21
+    },
+    "eight_chars": "戊寅癸丑丁未辛亥",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 13,
+      "机缘": 13,
+      "魅力": 10,
+      "体质": 18,
+      "心性": 17
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "北坡旱原",
+    "age": 72,
+    "birth": {
+      "year": 11928,
+      "month": 1,
+      "day": 19,
+      "hour": 11
+    },
+    "eight_chars": "戊申壬寅癸卯戊午",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 15,
+      "机缘": 9,
+      "魅力": 15,
+      "体质": 14,
+      "心性": 17
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "中部"
+  },
+  {
+    "subregion": "北坡旱原",
+    "age": 32,
+    "birth": {
+      "year": 11968,
+      "month": 9,
+      "day": 12,
+      "hour": 16
+    },
+    "eight_chars": "戊子庚戌庚午甲申",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 12,
+      "机缘": 10,
+      "魅力": 12,
+      "体质": 18,
+      "心性": 16
+    },
+    "region_lean": "西部",
+    "identity_tier": "内门弟子",
+    "gender": "男",
+    "region": "中部"
+  },
+  {
+    "subregion": "启阳",
+    "age": 25,
+    "birth": {
+      "year": 11975,
+      "month": 3,
+      "day": 25,
+      "hour": 7
+    },
+    "eight_chars": "乙未戊辰乙卯庚辰",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 17,
+      "机缘": 11,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 10
+    },
+    "region_lean": "中部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "启阳",
+    "age": 17,
+    "birth": {
+      "year": 11983,
+      "month": 5,
+      "day": 18,
+      "hour": 3
+    },
+    "eight_chars": "癸卯丙午辛卯庚寅",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 17,
+      "机缘": 16,
+      "魅力": 18,
+      "体质": 15,
+      "心性": 14
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "启阳",
+    "age": 97,
+    "birth": {
+      "year": 11903,
+      "month": 6,
+      "day": 4,
+      "hour": 21
+    },
+    "eight_chars": "癸未丁未戊申癸亥",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 15,
+      "机缘": 8,
+      "魅力": 12,
+      "体质": 18,
+      "心性": 16
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "启阳",
+    "age": 121,
+    "birth": {
+      "year": 11879,
+      "month": 8,
+      "day": 23,
+      "hour": 9
+    },
+    "eight_chars": "己未辛酉癸亥丁巳",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 13,
+      "机缘": 11,
+      "魅力": 11,
+      "体质": 14,
+      "心性": 14
+    },
+    "region_lean": "南部",
+    "identity_tier": "绝世妖孽",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "启阳",
+    "age": 30,
+    "birth": {
+      "year": 11970,
+      "month": 2,
+      "day": 8,
+      "hour": 17
+    },
+    "eight_chars": "庚寅丁卯甲辰癸酉",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 17,
+      "机缘": 11,
+      "魅力": 16,
+      "体质": 17,
+      "心性": 17
+    },
+    "region_lean": "东部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "启阳",
+    "age": 35,
+    "birth": {
+      "year": 11965,
+      "month": 7,
+      "day": 21,
+      "hour": 3
+    },
+    "eight_chars": "乙酉壬申辛酉庚寅",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 16,
+      "机缘": 9,
+      "魅力": 12,
+      "体质": 17,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "启阳",
+    "age": 72,
+    "birth": {
+      "year": 11928,
+      "month": 4,
+      "day": 28,
+      "hour": 11
+    },
+    "eight_chars": "戊申乙巳癸未戊午",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 15,
+      "机缘": 14,
+      "魅力": 16,
+      "体质": 18,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "启阳",
+    "age": 40,
+    "birth": {
+      "year": 11960,
+      "month": 2,
+      "day": 28,
+      "hour": 14
+    },
+    "eight_chars": "庚辰丁卯辛未乙未",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 15,
+      "机缘": 9,
+      "魅力": 17,
+      "体质": 18,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "灵竹深海",
+    "age": 58,
+    "birth": {
+      "year": 11942,
+      "month": 4,
+      "day": 5,
+      "hour": 18
+    },
+    "eight_chars": "壬戌癸巳癸酉辛酉",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 12,
+      "机缘": 13,
+      "魅力": 9,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "灵竹深海",
+    "age": 34,
+    "birth": {
+      "year": 11966,
+      "month": 10,
+      "day": 1,
+      "hour": 8
+    },
+    "eight_chars": "丙戌丁亥戊寅丙辰",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 11,
+      "机缘": 17,
+      "魅力": 16,
+      "体质": 13,
+      "心性": 8
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "灵竹深海",
+    "age": 116,
+    "birth": {
+      "year": 11884,
+      "month": 4,
+      "day": 19,
+      "hour": 10
+    },
+    "eight_chars": "甲子丁巳甲申己巳",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 13,
+      "机缘": 16,
+      "魅力": 16,
+      "体质": 11,
+      "心性": 15
+    },
+    "region_lean": "南部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "灵竹深海",
+    "age": 76,
+    "birth": {
+      "year": 11924,
+      "month": 8,
+      "day": 25,
+      "hour": 11
+    },
+    "eight_chars": "甲辰辛酉辛酉甲午",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 14,
+      "机缘": 9,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 15
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "灵竹深海",
+    "age": 116,
+    "birth": {
+      "year": 11884,
+      "month": 11,
+      "day": 17,
+      "hour": 9
+    },
+    "eight_chars": "甲子甲子丙辰癸巳",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 11,
+      "悟性": 18,
+      "机缘": 11,
+      "魅力": 14,
+      "体质": 11,
+      "心性": 15
+    },
+    "region_lean": "北地",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "灵竹深海",
+    "age": 72,
+    "birth": {
+      "year": 11928,
+      "month": 2,
+      "day": 3,
+      "hour": 10
+    },
+    "eight_chars": "戊申癸卯戊午丁巳",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 11,
+      "机缘": 14,
+      "魅力": 16,
+      "体质": 14,
+      "心性": 14
+    },
+    "region_lean": "南部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "灵竹深海",
+    "age": 92,
+    "birth": {
+      "year": 11908,
+      "month": 9,
+      "day": 10,
+      "hour": 14
+    },
+    "eight_chars": "戊子庚戌癸丑己未",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 14,
+      "机缘": 9,
+      "魅力": 6,
+      "体质": 18,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "灵竹深海",
+    "age": 43,
+    "birth": {
+      "year": 11957,
+      "month": 7,
+      "day": 15,
+      "hour": 7
+    },
+    "eight_chars": "丁丑丙申癸酉丙辰",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 10,
+      "机缘": 16,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 17
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "新灵山脉",
+    "age": 56,
+    "birth": {
+      "year": 11944,
+      "month": 11,
+      "day": 9,
+      "hour": 11
+    },
+    "eight_chars": "甲子甲子壬戌丙午",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 9,
+      "悟性": 18,
+      "机缘": 14,
+      "魅力": 14,
+      "体质": 8,
+      "心性": 12
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "新灵山脉",
+    "age": 63,
+    "birth": {
+      "year": 11937,
+      "month": 3,
+      "day": 18,
+      "hour": 1
+    },
+    "eight_chars": "丁巳壬辰己丑乙丑",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 14,
+      "机缘": 15,
+      "魅力": 14,
+      "体质": 18,
+      "心性": 8
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "新灵山脉",
+    "age": 101,
+    "birth": {
+      "year": 11899,
+      "month": 7,
+      "day": 28,
+      "hour": 23
+    },
+    "eight_chars": "己卯庚申壬午庚子",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 14,
+      "机缘": 13,
+      "魅力": 12,
+      "体质": 16,
+      "心性": 16
+    },
+    "region_lean": "西部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "新灵山脉",
+    "age": 77,
+    "birth": {
+      "year": 11923,
+      "month": 4,
+      "day": 28,
+      "hour": 3
+    },
+    "eight_chars": "癸卯乙巳丙辰庚寅",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 18,
+      "机缘": 13,
+      "魅力": 17,
+      "体质": 12,
+      "心性": 14
+    },
+    "region_lean": "东部",
+    "identity_tier": "内门弟子",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "新灵山脉",
+    "age": 114,
+    "birth": {
+      "year": 11886,
+      "month": 10,
+      "day": 20,
+      "hour": 21
+    },
+    "eight_chars": "丙寅丁亥戊戌癸亥",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 18,
+      "机缘": 11,
+      "魅力": 16,
+      "体质": 15,
+      "心性": 17
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "新灵山脉",
+    "age": 113,
+    "birth": {
+      "year": 11887,
+      "month": 5,
+      "day": 11,
+      "hour": 11
+    },
+    "eight_chars": "丁卯甲午辛酉甲午",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 13,
+      "机缘": 15,
+      "魅力": 18,
+      "体质": 15,
+      "心性": 13
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "新灵山脉",
+    "age": 97,
+    "birth": {
+      "year": 11903,
+      "month": 1,
+      "day": 3,
+      "hour": 23
+    },
+    "eight_chars": "癸未壬寅丙子戊子",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 18,
+      "机缘": 11,
+      "魅力": 13,
+      "体质": 13,
+      "心性": 16
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "新灵山脉",
+    "age": 115,
+    "birth": {
+      "year": 11885,
+      "month": 10,
+      "day": 20,
+      "hour": 2
+    },
+    "eight_chars": "乙丑乙亥癸巳癸丑",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 17,
+      "机缘": 10,
+      "魅力": 16,
+      "体质": 10,
+      "心性": 17
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "潮间盐泽",
+    "age": 100,
+    "birth": {
+      "year": 11900,
+      "month": 7,
+      "day": 16,
+      "hour": 19
+    },
+    "eight_chars": "庚辰壬申乙亥丙戌",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 15,
+      "机缘": 10,
+      "魅力": 11,
+      "体质": 18,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "潮间盐泽",
+    "age": 52,
+    "birth": {
+      "year": 11948,
+      "month": 11,
+      "day": 22,
+      "hour": 18
+    },
+    "eight_chars": "戊辰壬子丙申丁酉",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 14,
+      "机缘": 16,
+      "魅力": 12,
+      "体质": 15,
+      "心性": 16
+    },
+    "region_lean": "西部",
+    "identity_tier": "内门天才",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "潮间盐泽",
+    "age": 42,
+    "birth": {
+      "year": 11958,
+      "month": 5,
+      "day": 7,
+      "hour": 4
+    },
+    "eight_chars": "戊寅丙午己巳丙寅",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 12,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 10,
+      "心性": 9
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "潮间盐泽",
+    "age": 64,
+    "birth": {
+      "year": 11936,
+      "month": 9,
+      "day": 23,
+      "hour": 7
+    },
+    "eight_chars": "丙辰丙戌癸巳丙辰",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 12,
+      "机缘": 18,
+      "魅力": 16,
+      "体质": 13,
+      "心性": 11
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "潮间盐泽",
+    "age": 74,
+    "birth": {
+      "year": 11926,
+      "month": 2,
+      "day": 28,
+      "hour": 10
+    },
+    "eight_chars": "丙午己卯癸酉丁巳",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 13,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 15,
+      "心性": 15
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "潮间盐泽",
+    "age": 67,
+    "birth": {
+      "year": 11933,
+      "month": 1,
+      "day": 11,
+      "hour": 5
+    },
+    "eight_chars": "癸丑壬寅壬戌癸卯",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 18,
+      "机缘": 11,
+      "魅力": 12,
+      "体质": 10,
+      "心性": 17
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "潮间盐泽",
+    "age": 83,
+    "birth": {
+      "year": 11917,
+      "month": 2,
+      "day": 13,
+      "hour": 9
+    },
+    "eight_chars": "丁酉辛卯辛未癸巳",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 12,
+      "机缘": 12,
+      "魅力": 14,
+      "体质": 15,
+      "心性": 14
+    },
+    "region_lean": "西部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "潮间盐泽",
+    "age": 83,
+    "birth": {
+      "year": 11917,
+      "month": 9,
+      "day": 7,
+      "hour": 11
+    },
+    "eight_chars": "丁酉戊戌丁酉丙午",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 11,
+      "机缘": 18,
+      "魅力": 15,
+      "体质": 16,
+      "心性": 10
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "灵砂走廊东口",
+    "age": 38,
+    "birth": {
+      "year": 11962,
+      "month": 10,
+      "day": 5,
+      "hour": 20
+    },
+    "eight_chars": "壬午己亥辛酉戊戌",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 11,
+      "机缘": 14,
+      "魅力": 11,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "灵砂走廊东口",
+    "age": 128,
+    "birth": {
+      "year": 11872,
+      "month": 10,
+      "day": 21,
+      "hour": 20
+    },
+    "eight_chars": "壬子己亥丙戌戊戌",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 14,
+      "机缘": 13,
+      "魅力": 10,
+      "体质": 15,
+      "心性": 15
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "灵砂走廊东口",
+    "age": 117,
+    "birth": {
+      "year": 11883,
+      "month": 5,
+      "day": 19,
+      "hour": 1
+    },
+    "eight_chars": "癸亥丙午戊申癸丑",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 16,
+      "机缘": 11,
+      "魅力": 12,
+      "体质": 15,
+      "心性": 17
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "灵砂走廊东口",
+    "age": 25,
+    "birth": {
+      "year": 11975,
+      "month": 11,
+      "day": 28,
+      "hour": 2
+    },
+    "eight_chars": "乙未丙子癸亥癸丑",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 18,
+      "机缘": 12,
+      "魅力": 13,
+      "体质": 13,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "没落世家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "灵砂走廊东口",
+    "age": 110,
+    "birth": {
+      "year": 11890,
+      "month": 1,
+      "day": 15,
+      "hour": 18
+    },
+    "eight_chars": "庚午丙寅辛巳丁酉",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 9,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 15,
+      "心性": 16
+    },
+    "region_lean": "南部",
+    "identity_tier": "没落世家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "灵砂走廊东口",
+    "age": 73,
+    "birth": {
+      "year": 11927,
+      "month": 2,
+      "day": 26,
+      "hour": 10
+    },
+    "eight_chars": "丁未辛卯丙子癸巳",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 12,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 11,
+      "心性": 12
+    },
+    "region_lean": "南部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "灵砂走廊东口",
+    "age": 83,
+    "birth": {
+      "year": 11917,
+      "month": 9,
+      "day": 20,
+      "hour": 5
+    },
+    "eight_chars": "丁酉戊戌庚戌己卯",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 10,
+      "机缘": 10,
+      "魅力": 13,
+      "体质": 18,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "灵砂走廊东口",
+    "age": 58,
+    "birth": {
+      "year": 11942,
+      "month": 2,
+      "day": 11,
+      "hour": 3
+    },
+    "eight_chars": "壬戌辛卯庚辰戊寅",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 17,
+      "机缘": 9,
+      "魅力": 12,
+      "体质": 18,
+      "心性": 17
+    },
+    "region_lean": "中部",
+    "identity_tier": "散修",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "南屿群岛",
+    "age": 90,
+    "birth": {
+      "year": 11910,
+      "month": 11,
+      "day": 5,
+      "hour": 11
+    },
+    "eight_chars": "庚寅丙子己未庚午",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 15,
+      "机缘": 16,
+      "魅力": 17,
+      "体质": 17,
+      "心性": 13
+    },
+    "region_lean": "南部",
+    "identity_tier": "没落世家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "南屿群岛",
+    "age": 26,
+    "birth": {
+      "year": 11974,
+      "month": 5,
+      "day": 18,
+      "hour": 12
+    },
+    "eight_chars": "甲午戊午甲辰庚午",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 12,
+      "机缘": 16,
+      "魅力": 18,
+      "体质": 17,
+      "心性": 13
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "南屿群岛",
+    "age": 81,
+    "birth": {
+      "year": 11919,
+      "month": 6,
+      "day": 1,
+      "hour": 11
+    },
+    "eight_chars": "己亥己未己巳庚午",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 9,
+      "机缘": 13,
+      "魅力": 12,
+      "体质": 18,
+      "心性": 11
+    },
+    "region_lean": "中部",
+    "identity_tier": "内门天才",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "南屿群岛",
+    "age": 35,
+    "birth": {
+      "year": 11965,
+      "month": 2,
+      "day": 10,
+      "hour": 3
+    },
+    "eight_chars": "乙酉丁卯庚辰戊寅",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 16,
+      "机缘": 13,
+      "魅力": 18,
+      "体质": 14,
+      "心性": 15
+    },
+    "region_lean": "东部",
+    "identity_tier": "散修",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "南屿群岛",
+    "age": 92,
+    "birth": {
+      "year": 11908,
+      "month": 7,
+      "day": 5,
+      "hour": 5
+    },
+    "eight_chars": "戊子戊申丙午辛卯",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 15,
+      "机缘": 15,
+      "魅力": 13,
+      "体质": 18,
+      "心性": 15
+    },
+    "region_lean": "南部",
+    "identity_tier": "内门弟子",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "南屿群岛",
+    "age": 46,
+    "birth": {
+      "year": 11954,
+      "month": 8,
+      "day": 20,
+      "hour": 9
+    },
+    "eight_chars": "甲戌辛酉癸巳丁巳",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 13,
+      "机缘": 15,
+      "魅力": 18,
+      "体质": 13,
+      "心性": 14
+    },
+    "region_lean": "南部",
+    "identity_tier": "没落世家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "南屿群岛",
+    "age": 40,
+    "birth": {
+      "year": 11960,
+      "month": 6,
+      "day": 22,
+      "hour": 18
+    },
+    "eight_chars": "庚辰辛未丙寅丁酉",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 11,
+      "机缘": 13,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 16
+    },
+    "region_lean": "西部",
+    "identity_tier": "没落世家子弟",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "南屿群岛",
+    "age": 118,
+    "birth": {
+      "year": 11882,
+      "month": 10,
+      "day": 5,
+      "hour": 8
+    },
+    "eight_chars": "壬戌己亥壬戌甲辰",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 18,
+      "机缘": 9,
+      "魅力": 10,
+      "体质": 18,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "散修",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "北界风口",
+    "age": 113,
+    "birth": {
+      "year": 11887,
+      "month": 3,
+      "day": 9,
+      "hour": 14
+    },
+    "eight_chars": "丁卯壬辰戊午己未",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 11,
+      "机缘": 14,
+      "魅力": 12,
+      "体质": 15,
+      "心性": 11
+    },
+    "region_lean": "中部",
+    "identity_tier": "内门弟子",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "北界风口",
+    "age": 66,
+    "birth": {
+      "year": 11934,
+      "month": 9,
+      "day": 12,
+      "hour": 7
+    },
+    "eight_chars": "甲寅壬戌辛未壬辰",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 14,
+      "机缘": 8,
+      "魅力": 11,
+      "体质": 15,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "北界风口",
+    "age": 99,
+    "birth": {
+      "year": 11901,
+      "month": 6,
+      "day": 26,
+      "hour": 4
+    },
+    "eight_chars": "辛巳癸未庚申戊寅",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 10,
+      "机缘": 11,
+      "魅力": 13,
+      "体质": 18,
+      "心性": 15
+    },
+    "region_lean": "西部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "北界风口",
+    "age": 26,
+    "birth": {
+      "year": 11974,
+      "month": 1,
+      "day": 9,
+      "hour": 6
+    },
+    "eight_chars": "甲午甲寅乙未己卯",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 11,
+      "悟性": 18,
+      "机缘": 14,
+      "魅力": 18,
+      "体质": 14,
+      "心性": 9
+    },
+    "region_lean": "东部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "北界风口",
+    "age": 46,
+    "birth": {
+      "year": 11954,
+      "month": 5,
+      "day": 4,
+      "hour": 1
+    },
+    "eight_chars": "甲戌戊午乙巳丁丑",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 13,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 15,
+      "心性": 6
+    },
+    "region_lean": "南部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "北界风口",
+    "age": 79,
+    "birth": {
+      "year": 11921,
+      "month": 10,
+      "day": 18,
+      "hour": 0
+    },
+    "eight_chars": "辛丑丁亥己亥甲子",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 18,
+      "机缘": 12,
+      "魅力": 11,
+      "体质": 17,
+      "心性": 16
+    },
+    "region_lean": "北地",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "东部"
+  },
+  {
+    "subregion": "北界风口",
+    "age": 94,
+    "birth": {
+      "year": 11906,
+      "month": 6,
+      "day": 8,
+      "hour": 18
+    },
+    "eight_chars": "丙戌癸未戊辰辛酉",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 9,
+      "机缘": 13,
+      "魅力": 13,
+      "体质": 18,
+      "心性": 16
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "北界风口",
+    "age": 80,
+    "birth": {
+      "year": 11920,
+      "month": 9,
+      "day": 18,
+      "hour": 0
+    },
+    "eight_chars": "庚子甲戌甲子甲子",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 18,
+      "机缘": 6,
+      "魅力": 17,
+      "体质": 13,
+      "心性": 17
+    },
+    "region_lean": "北地",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "东部"
+  },
+  {
+    "subregion": "沃澜",
+    "age": 24,
+    "birth": {
+      "year": 11976,
+      "month": 6,
+      "day": 8,
+      "hour": 23
+    },
+    "eight_chars": "丙申癸未丙子戊子",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 17,
+      "机缘": 11,
+      "魅力": 14,
+      "体质": 17,
+      "心性": 17
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "沃澜",
+    "age": 120,
+    "birth": {
+      "year": 11880,
+      "month": 11,
+      "day": 6,
+      "hour": 21
+    },
+    "eight_chars": "庚申丙子甲申乙亥",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 18,
+      "机缘": 11,
+      "魅力": 17,
+      "体质": 13,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "沃澜",
+    "age": 20,
+    "birth": {
+      "year": 11980,
+      "month": 5,
+      "day": 7,
+      "hour": 1
+    },
+    "eight_chars": "庚子庚午乙丑丁丑",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 10,
+      "机缘": 13,
+      "魅力": 14,
+      "体质": 18,
+      "心性": 15
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "沃澜",
+    "age": 20,
+    "birth": {
+      "year": 11980,
+      "month": 11,
+      "day": 7,
+      "hour": 9
+    },
+    "eight_chars": "庚子丙子己巳己巳",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 10,
+      "机缘": 18,
+      "魅力": 14,
+      "体质": 14,
+      "心性": 12
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "沃澜",
+    "age": 67,
+    "birth": {
+      "year": 11933,
+      "month": 12,
+      "day": 15,
+      "hour": 12
+    },
+    "eight_chars": "癸丑癸丑庚子壬午",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 15,
+      "机缘": 12,
+      "魅力": 13,
+      "体质": 15,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "沃澜",
+    "age": 70,
+    "birth": {
+      "year": 11930,
+      "month": 2,
+      "day": 14,
+      "hour": 19
+    },
+    "eight_chars": "庚戌丁卯庚辰丙戌",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 12,
+      "机缘": 13,
+      "魅力": 14,
+      "体质": 17,
+      "心性": 10
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "沃澜",
+    "age": 93,
+    "birth": {
+      "year": 11907,
+      "month": 12,
+      "day": 14,
+      "hour": 5
+    },
+    "eight_chars": "丁亥辛丑壬午癸卯",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 17,
+      "机缘": 13,
+      "魅力": 15,
+      "体质": 10,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "沃澜",
+    "age": 97,
+    "birth": {
+      "year": 11903,
+      "month": 1,
+      "day": 3,
+      "hour": 21
+    },
+    "eight_chars": "癸未壬寅丙子己亥",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 18,
+      "机缘": 10,
+      "魅力": 14,
+      "体质": 15,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "没落世家子弟",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "灵潮湿地",
+    "age": 93,
+    "birth": {
+      "year": 11907,
+      "month": 11,
+      "day": 26,
+      "hour": 14
+    },
+    "eight_chars": "丁亥庚子甲子辛未",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 16,
+      "机缘": 8,
+      "魅力": 11,
+      "体质": 17,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "灵潮湿地",
+    "age": 93,
+    "birth": {
+      "year": 11907,
+      "month": 3,
+      "day": 22,
+      "hour": 14
+    },
+    "eight_chars": "丁亥壬辰乙卯癸未",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 18,
+      "机缘": 11,
+      "魅力": 12,
+      "体质": 14,
+      "心性": 13
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "灵潮湿地",
+    "age": 56,
+    "birth": {
+      "year": 11944,
+      "month": 11,
+      "day": 9,
+      "hour": 7
+    },
+    "eight_chars": "甲子甲子壬戌甲辰",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 18,
+      "机缘": 11,
+      "魅力": 13,
+      "体质": 13,
+      "心性": 16
+    },
+    "region_lean": "北地",
+    "identity_tier": "内门弟子",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "灵潮湿地",
+    "age": 115,
+    "birth": {
+      "year": 11885,
+      "month": 5,
+      "day": 23,
+      "hour": 14
+    },
+    "eight_chars": "乙丑庚午癸亥己未",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 16,
+      "机缘": 11,
+      "魅力": 15,
+      "体质": 17,
+      "心性": 13
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "灵潮湿地",
+    "age": 25,
+    "birth": {
+      "year": 11975,
+      "month": 8,
+      "day": 6,
+      "hour": 22
+    },
+    "eight_chars": "乙未癸酉己巳乙亥",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 14,
+      "机缘": 14,
+      "魅力": 14,
+      "体质": 17,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "没落世家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "灵潮湿地",
+    "age": 53,
+    "birth": {
+      "year": 11947,
+      "month": 5,
+      "day": 28,
+      "hour": 5
+    },
+    "eight_chars": "丁卯甲午壬辰癸卯",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 18,
+      "机缘": 16,
+      "魅力": 18,
+      "体质": 9,
+      "心性": 12
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "灵潮湿地",
+    "age": 117,
+    "birth": {
+      "year": 11883,
+      "month": 3,
+      "day": 8,
+      "hour": 15
+    },
+    "eight_chars": "癸亥甲辰丙申丙申",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 14,
+      "机缘": 15,
+      "魅力": 16,
+      "体质": 15,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "灵潮湿地",
+    "age": 24,
+    "birth": {
+      "year": 11976,
+      "month": 5,
+      "day": 13,
+      "hour": 22
+    },
+    "eight_chars": "丙申壬午庚戌丁亥",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 13,
+      "机缘": 18,
+      "魅力": 15,
+      "体质": 15,
+      "心性": 18
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "南冈丘陵",
+    "age": 25,
+    "birth": {
+      "year": 11975,
+      "month": 8,
+      "day": 15,
+      "hour": 21
+    },
+    "eight_chars": "乙未癸酉戊寅癸亥",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 18,
+      "机缘": 7,
+      "魅力": 14,
+      "体质": 17,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "散修",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "南冈丘陵",
+    "age": 80,
+    "birth": {
+      "year": 11920,
+      "month": 1,
+      "day": 27,
+      "hour": 3
+    },
+    "eight_chars": "庚子丙寅己巳丙寅",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 14,
+      "机缘": 16,
+      "魅力": 18,
+      "体质": 11,
+      "心性": 12
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "南冈丘陵",
+    "age": 82,
+    "birth": {
+      "year": 11918,
+      "month": 5,
+      "day": 28,
+      "hour": 2
+    },
+    "eight_chars": "戊戌丙午庚申丁丑",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 7,
+      "机缘": 18,
+      "魅力": 16,
+      "体质": 18,
+      "心性": 11
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "南冈丘陵",
+    "age": 98,
+    "birth": {
+      "year": 11902,
+      "month": 3,
+      "day": 19,
+      "hour": 18
+    },
+    "eight_chars": "壬午壬辰丙戌丁酉",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 11,
+      "机缘": 18,
+      "魅力": 16,
+      "体质": 18,
+      "心性": 16
+    },
+    "region_lean": "南部",
+    "identity_tier": "散修",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "南冈丘陵",
+    "age": 121,
+    "birth": {
+      "year": 11879,
+      "month": 1,
+      "day": 3,
+      "hour": 1
+    },
+    "eight_chars": "己未甲寅辛未己丑",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 14,
+      "机缘": 8,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "南冈丘陵",
+    "age": 19,
+    "birth": {
+      "year": 11981,
+      "month": 8,
+      "day": 21,
+      "hour": 17
+    },
+    "eight_chars": "辛丑乙酉丙辰丁酉",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 13,
+      "机缘": 13,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 17
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "南冈丘陵",
+    "age": 23,
+    "birth": {
+      "year": 11977,
+      "month": 3,
+      "day": 15,
+      "hour": 13
+    },
+    "eight_chars": "丁酉壬辰丙辰乙未",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 13,
+      "机缘": 12,
+      "魅力": 14,
+      "体质": 18,
+      "心性": 11
+    },
+    "region_lean": "中部",
+    "identity_tier": "内门弟子",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "南冈丘陵",
+    "age": 126,
+    "birth": {
+      "year": 11874,
+      "month": 6,
+      "day": 13,
+      "hour": 4
+    },
+    "eight_chars": "甲寅己未丙戌庚寅",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 16,
+      "机缘": 12,
+      "魅力": 14,
+      "体质": 16,
+      "心性": 9
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "千渠末梢",
+    "age": 34,
+    "birth": {
+      "year": 11966,
+      "month": 2,
+      "day": 2,
+      "hour": 9
+    },
+    "eight_chars": "丙戌己卯丁丑乙巳",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 14,
+      "机缘": 17,
+      "魅力": 17,
+      "体质": 13,
+      "心性": 8
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "千渠末梢",
+    "age": 40,
+    "birth": {
+      "year": 11960,
+      "month": 3,
+      "day": 16,
+      "hour": 16
+    },
+    "eight_chars": "庚辰戊辰戊子庚申",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 11,
+      "机缘": 8,
+      "魅力": 9,
+      "体质": 18,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "千渠末梢",
+    "age": 43,
+    "birth": {
+      "year": 11957,
+      "month": 10,
+      "day": 12,
+      "hour": 1
+    },
+    "eight_chars": "丁丑己亥壬寅辛丑",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 14,
+      "机缘": 11,
+      "魅力": 14,
+      "体质": 18,
+      "心性": 17
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "千渠末梢",
+    "age": 29,
+    "birth": {
+      "year": 11971,
+      "month": 7,
+      "day": 5,
+      "hour": 8
+    },
+    "eight_chars": "辛卯甲申丙子壬辰",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 16,
+      "机缘": 11,
+      "魅力": 14,
+      "体质": 12,
+      "心性": 17
+    },
+    "region_lean": "东部",
+    "identity_tier": "散修",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "千渠末梢",
+    "age": 86,
+    "birth": {
+      "year": 11914,
+      "month": 5,
+      "day": 3,
+      "hour": 12
+    },
+    "eight_chars": "甲午戊午甲戌庚午",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 13,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 16,
+      "心性": 13
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "千渠末梢",
+    "age": 66,
+    "birth": {
+      "year": 11934,
+      "month": 6,
+      "day": 26,
+      "hour": 10
+    },
+    "eight_chars": "甲寅己未癸丑丁巳",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 14,
+      "机缘": 12,
+      "魅力": 15,
+      "体质": 16,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "千渠末梢",
+    "age": 21,
+    "birth": {
+      "year": 11979,
+      "month": 1,
+      "day": 5,
+      "hour": 22
+    },
+    "eight_chars": "己亥甲寅丁巳辛亥",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 18,
+      "机缘": 15,
+      "魅力": 17,
+      "体质": 11,
+      "心性": 16
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "千渠末梢",
+    "age": 94,
+    "birth": {
+      "year": 11906,
+      "month": 6,
+      "day": 6,
+      "hour": 12
+    },
+    "eight_chars": "丙戌癸未丙寅甲午",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 17,
+      "机缘": 16,
+      "魅力": 18,
+      "体质": 12,
+      "心性": 12
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "灾洪蓄区",
+    "age": 54,
+    "birth": {
+      "year": 11946,
+      "month": 8,
+      "day": 27,
+      "hour": 0
+    },
+    "eight_chars": "丙寅乙酉戊午壬子",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 16,
+      "机缘": 16,
+      "魅力": 14,
+      "体质": 13,
+      "心性": 16
+    },
+    "region_lean": "东部",
+    "identity_tier": "内门弟子",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "灾洪蓄区",
+    "age": 104,
+    "birth": {
+      "year": 11896,
+      "month": 11,
+      "day": 1,
+      "hour": 19
+    },
+    "eight_chars": "丙子戊子癸卯壬戌",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 18,
+      "机缘": 13,
+      "魅力": 14,
+      "体质": 14,
+      "心性": 15
+    },
+    "region_lean": "北地",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "灾洪蓄区",
+    "age": 37,
+    "birth": {
+      "year": 11963,
+      "month": 9,
+      "day": 21,
+      "hour": 23
+    },
+    "eight_chars": "癸未庚戌壬子庚子",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 17,
+      "机缘": 7,
+      "魅力": 11,
+      "体质": 15,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "内门弟子",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "灾洪蓄区",
+    "age": 18,
+    "birth": {
+      "year": 11982,
+      "month": 8,
+      "day": 11,
+      "hour": 13
+    },
+    "eight_chars": "壬寅丁酉辛亥乙未",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 17,
+      "机缘": 13,
+      "魅力": 13,
+      "体质": 15,
+      "心性": 18
+    },
+    "region_lean": "东部",
+    "identity_tier": "内门天才",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "灾洪蓄区",
+    "age": 127,
+    "birth": {
+      "year": 11873,
+      "month": 12,
+      "day": 24,
+      "hour": 1
+    },
+    "eight_chars": "癸丑癸丑乙未丁丑",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 13,
+      "机缘": 12,
+      "魅力": 11,
+      "体质": 18,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "灾洪蓄区",
+    "age": 56,
+    "birth": {
+      "year": 11944,
+      "month": 3,
+      "day": 15,
+      "hour": 17
+    },
+    "eight_chars": "甲子丙辰癸亥辛酉",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 18,
+      "机缘": 10,
+      "魅力": 15,
+      "体质": 17,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "灾洪蓄区",
+    "age": 40,
+    "birth": {
+      "year": 11960,
+      "month": 4,
+      "day": 9,
+      "hour": 17
+    },
+    "eight_chars": "庚辰己巳壬子己酉",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 11,
+      "机缘": 11,
+      "魅力": 10,
+      "体质": 18,
+      "心性": 15
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "灾洪蓄区",
+    "age": 117,
+    "birth": {
+      "year": 11883,
+      "month": 12,
+      "day": 9,
+      "hour": 9
+    },
+    "eight_chars": "癸亥癸丑壬申乙巳",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 18,
+      "机缘": 14,
+      "魅力": 14,
+      "体质": 13,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "没落世家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "界河走廊",
+    "age": 53,
+    "birth": {
+      "year": 11947,
+      "month": 1,
+      "day": 10,
+      "hour": 22
+    },
+    "eight_chars": "丁卯庚寅甲戌乙亥",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 18,
+      "机缘": 11,
+      "魅力": 18,
+      "体质": 12,
+      "心性": 15
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "界河走廊",
+    "age": 50,
+    "birth": {
+      "year": 11950,
+      "month": 9,
+      "day": 23,
+      "hour": 8
+    },
+    "eight_chars": "庚午甲戌丙午壬辰",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 10,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 16,
+      "心性": 11
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "界河走廊",
+    "age": 44,
+    "birth": {
+      "year": 11956,
+      "month": 11,
+      "day": 8,
+      "hour": 1
+    },
+    "eight_chars": "丙子戊子甲子乙丑",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 18,
+      "机缘": 10,
+      "魅力": 17,
+      "体质": 13,
+      "心性": 13
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "界河走廊",
+    "age": 36,
+    "birth": {
+      "year": 11964,
+      "month": 7,
+      "day": 21,
+      "hour": 15
+    },
+    "eight_chars": "甲申庚申丙辰丙申",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 13,
+      "机缘": 12,
+      "魅力": 14,
+      "体质": 18,
+      "心性": 17
+    },
+    "region_lean": "西部",
+    "identity_tier": "内门弟子",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "界河走廊",
+    "age": 89,
+    "birth": {
+      "year": 11911,
+      "month": 4,
+      "day": 18,
+      "hour": 23
+    },
+    "eight_chars": "辛卯辛巳癸卯壬子",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 17,
+      "机缘": 10,
+      "魅力": 16,
+      "体质": 11,
+      "心性": 16
+    },
+    "region_lean": "北地",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "界河走廊",
+    "age": 39,
+    "birth": {
+      "year": 11961,
+      "month": 12,
+      "day": 28,
+      "hour": 9
+    },
+    "eight_chars": "辛巳己丑庚辰辛巳",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 6,
+      "机缘": 14,
+      "魅力": 14,
+      "体质": 18,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "界河走廊",
+    "age": 85,
+    "birth": {
+      "year": 11915,
+      "month": 9,
+      "day": 16,
+      "hour": 4
+    },
+    "eight_chars": "乙未甲戌乙未戊寅",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 17,
+      "机缘": 8,
+      "魅力": 15,
+      "体质": 15,
+      "心性": 8
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "界河走廊",
+    "age": 98,
+    "birth": {
+      "year": 11902,
+      "month": 5,
+      "day": 23,
+      "hour": 5
+    },
+    "eight_chars": "壬午甲午辛卯辛卯",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 18,
+      "机缘": 14,
+      "魅力": 18,
+      "体质": 14,
+      "心性": 17
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "海田盐区",
+    "age": 125,
+    "birth": {
+      "year": 11875,
+      "month": 11,
+      "day": 13,
+      "hour": 13
+    },
+    "eight_chars": "乙卯丙子甲子辛未",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 18,
+      "机缘": 8,
+      "魅力": 17,
+      "体质": 15,
+      "心性": 12
+    },
+    "region_lean": "东部",
+    "identity_tier": "内门天才",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "海田盐区",
+    "age": 47,
+    "birth": {
+      "year": 11953,
+      "month": 1,
+      "day": 9,
+      "hour": 12
+    },
+    "eight_chars": "癸酉壬寅乙巳壬午",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 9,
+      "悟性": 18,
+      "机缘": 14,
+      "魅力": 17,
+      "体质": 10,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "海田盐区",
+    "age": 99,
+    "birth": {
+      "year": 11901,
+      "month": 6,
+      "day": 23,
+      "hour": 7
+    },
+    "eight_chars": "辛巳癸未丁巳甲辰",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 15,
+      "机缘": 14,
+      "魅力": 17,
+      "体质": 14,
+      "心性": 11
+    },
+    "region_lean": "南部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "海田盐区",
+    "age": 130,
+    "birth": {
+      "year": 11870,
+      "month": 12,
+      "day": 25,
+      "hour": 9
+    },
+    "eight_chars": "庚戌丁丑庚辰辛巳",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 6,
+      "机缘": 16,
+      "魅力": 12,
+      "体质": 18,
+      "心性": 16
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "海田盐区",
+    "age": 35,
+    "birth": {
+      "year": 11965,
+      "month": 8,
+      "day": 24,
+      "hour": 19
+    },
+    "eight_chars": "乙酉癸酉乙未丙戌",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 15,
+      "机缘": 13,
+      "魅力": 16,
+      "体质": 18,
+      "心性": 16
+    },
+    "region_lean": "中部",
+    "identity_tier": "内门弟子",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "海田盐区",
+    "age": 103,
+    "birth": {
+      "year": 11897,
+      "month": 10,
+      "day": 28,
+      "hour": 2
+    },
+    "eight_chars": "丁丑己亥甲辰乙丑",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 15,
+      "机缘": 12,
+      "魅力": 17,
+      "体质": 17,
+      "心性": 8
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "海田盐区",
+    "age": 80,
+    "birth": {
+      "year": 11920,
+      "month": 4,
+      "day": 19,
+      "hour": 17
+    },
+    "eight_chars": "庚子己巳壬辰己酉",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 11,
+      "机缘": 11,
+      "魅力": 12,
+      "体质": 18,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "南部"
+  },
+  {
+    "subregion": "海田盐区",
+    "age": 81,
+    "birth": {
+      "year": 11919,
+      "month": 8,
+      "day": 26,
+      "hour": 1
+    },
+    "eight_chars": "己亥辛酉乙未丁丑",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 11,
+      "机缘": 12,
+      "魅力": 13,
+      "体质": 18,
+      "心性": 16
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "南部"
+  },
+  {
+    "subregion": "冰渊核心",
+    "age": 102,
+    "birth": {
+      "year": 11898,
+      "month": 5,
+      "day": 24,
+      "hour": 0
+    },
+    "eight_chars": "戊寅丙午壬申庚子",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 14,
+      "机缘": 11,
+      "魅力": 17,
+      "体质": 13,
+      "心性": 18
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰渊核心",
+    "age": 24,
+    "birth": {
+      "year": 11976,
+      "month": 9,
+      "day": 2,
+      "hour": 2
+    },
+    "eight_chars": "丙申丙戌壬寅辛丑",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 10,
+      "机缘": 13,
+      "魅力": 15,
+      "体质": 16,
+      "心性": 13
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰渊核心",
+    "age": 73,
+    "birth": {
+      "year": 11927,
+      "month": 7,
+      "day": 13,
+      "hour": 2
+    },
+    "eight_chars": "丁未丙申癸巳癸丑",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 15,
+      "机缘": 18,
+      "魅力": 13,
+      "体质": 18,
+      "心性": 14
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰渊核心",
+    "age": 84,
+    "birth": {
+      "year": 11916,
+      "month": 7,
+      "day": 17,
+      "hour": 4
+    },
+    "eight_chars": "丙申甲申庚子戊寅",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 13,
+      "机缘": 8,
+      "魅力": 12,
+      "体质": 16,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰渊核心",
+    "age": 45,
+    "birth": {
+      "year": 11955,
+      "month": 4,
+      "day": 15,
+      "hour": 11
+    },
+    "eight_chars": "乙亥己巳辛卯甲午",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 11,
+      "悟性": 16,
+      "机缘": 13,
+      "魅力": 18,
+      "体质": 10,
+      "心性": 10
+    },
+    "region_lean": "东部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰渊核心",
+    "age": 129,
+    "birth": {
+      "year": 11871,
+      "month": 1,
+      "day": 8,
+      "hour": 6
+    },
+    "eight_chars": "辛亥戊寅甲午丁卯",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 15,
+      "机缘": 15,
+      "魅力": 17,
+      "体质": 13,
+      "心性": 14
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰渊核心",
+    "age": 72,
+    "birth": {
+      "year": 11928,
+      "month": 4,
+      "day": 18,
+      "hour": 6
+    },
+    "eight_chars": "戊申乙巳癸酉乙卯",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 15,
+      "机缘": 13,
+      "魅力": 16,
+      "体质": 13,
+      "心性": 17
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰脊聚落带",
+    "age": 92,
+    "birth": {
+      "year": 11908,
+      "month": 11,
+      "day": 27,
+      "hour": 10
+    },
+    "eight_chars": "戊子壬子辛未癸巳",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 16,
+      "机缘": 10,
+      "魅力": 13,
+      "体质": 16,
+      "心性": 17
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰脊聚落带",
+    "age": 23,
+    "birth": {
+      "year": 11977,
+      "month": 9,
+      "day": 19,
+      "hour": 23
+    },
+    "eight_chars": "丁酉戊戌甲子甲子",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 18,
+      "机缘": 13,
+      "魅力": 15,
+      "体质": 16,
+      "心性": 16
+    },
+    "region_lean": "北地",
+    "identity_tier": "内门天才",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰脊聚落带",
+    "age": 101,
+    "birth": {
+      "year": 11899,
+      "month": 7,
+      "day": 26,
+      "hour": 16
+    },
+    "eight_chars": "己卯庚申庚辰甲申",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 15,
+      "机缘": 9,
+      "魅力": 13,
+      "体质": 18,
+      "心性": 16
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰脊聚落带",
+    "age": 46,
+    "birth": {
+      "year": 11954,
+      "month": 4,
+      "day": 10,
+      "hour": 22
+    },
+    "eight_chars": "甲戌丁巳辛巳己亥",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 13,
+      "机缘": 14,
+      "魅力": 18,
+      "体质": 15,
+      "心性": 13
+    },
+    "region_lean": "南部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰脊聚落带",
+    "age": 65,
+    "birth": {
+      "year": 11935,
+      "month": 4,
+      "day": 9,
+      "hour": 6
+    },
+    "eight_chars": "乙卯己巳庚子己卯",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 18,
+      "机缘": 9,
+      "魅力": 18,
+      "体质": 14,
+      "心性": 10
+    },
+    "region_lean": "东部",
+    "identity_tier": "散修",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰脊聚落带",
+    "age": 50,
+    "birth": {
+      "year": 11950,
+      "month": 7,
+      "day": 22,
+      "hour": 19
+    },
+    "eight_chars": "庚午壬申癸卯壬戌",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 14,
+      "机缘": 9,
+      "魅力": 11,
+      "体质": 16,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰脊聚落带",
+    "age": 42,
+    "birth": {
+      "year": 11958,
+      "month": 6,
+      "day": 10,
+      "hour": 0
+    },
+    "eight_chars": "戊寅丁未癸卯壬子",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 11,
+      "悟性": 18,
+      "机缘": 13,
+      "魅力": 12,
+      "体质": 15,
+      "心性": 15
+    },
+    "region_lean": "北地",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "极光雪原",
+    "age": 106,
+    "birth": {
+      "year": 11894,
+      "month": 4,
+      "day": 13,
+      "hour": 7
+    },
+    "eight_chars": "甲戌丁巳庚午庚辰",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 10,
+      "机缘": 16,
+      "魅力": 17,
+      "体质": 17,
+      "心性": 14
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "极光雪原",
+    "age": 128,
+    "birth": {
+      "year": 11872,
+      "month": 8,
+      "day": 15,
+      "hour": 3
+    },
+    "eight_chars": "壬子丁酉己卯丙寅",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 18,
+      "机缘": 13,
+      "魅力": 15,
+      "体质": 12,
+      "心性": 14
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "极光雪原",
+    "age": 126,
+    "birth": {
+      "year": 11874,
+      "month": 4,
+      "day": 24,
+      "hour": 4
+    },
+    "eight_chars": "甲寅丁巳丙申庚寅",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 14,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 14,
+      "心性": 15
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "极光雪原",
+    "age": 45,
+    "birth": {
+      "year": 11955,
+      "month": 7,
+      "day": 19,
+      "hour": 7
+    },
+    "eight_chars": "乙亥壬申丙寅壬辰",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 18,
+      "机缘": 13,
+      "魅力": 17,
+      "体质": 12,
+      "心性": 16
+    },
+    "region_lean": "北地",
+    "identity_tier": "内门天才",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "极光雪原",
+    "age": 78,
+    "birth": {
+      "year": 11922,
+      "month": 8,
+      "day": 6,
+      "hour": 23
+    },
+    "eight_chars": "壬寅丁酉辛卯戊子",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 16,
+      "机缘": 9,
+      "魅力": 17,
+      "体质": 16,
+      "心性": 17
+    },
+    "region_lean": "东部",
+    "identity_tier": "内门天才",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "极光雪原",
+    "age": 85,
+    "birth": {
+      "year": 11915,
+      "month": 11,
+      "day": 2,
+      "hour": 16
+    },
+    "eight_chars": "乙未丙子壬午戊申",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 12,
+      "机缘": 16,
+      "魅力": 12,
+      "体质": 12,
+      "心性": 15
+    },
+    "region_lean": "南部",
+    "identity_tier": "没落世家子弟",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "极光雪原",
+    "age": 106,
+    "birth": {
+      "year": 11894,
+      "month": 3,
+      "day": 1,
+      "hour": 6
+    },
+    "eight_chars": "甲戌丙辰丁亥癸卯",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 17,
+      "机缘": 13,
+      "魅力": 14,
+      "体质": 14,
+      "心性": 15
+    },
+    "region_lean": "中部",
+    "identity_tier": "没落世家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰川禁域",
+    "age": 100,
+    "birth": {
+      "year": 11900,
+      "month": 8,
+      "day": 1,
+      "hour": 0
+    },
+    "eight_chars": "庚辰癸酉辛卯戊子",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 16,
+      "机缘": 9,
+      "魅力": 8,
+      "体质": 16,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰川禁域",
+    "age": 52,
+    "birth": {
+      "year": 11948,
+      "month": 1,
+      "day": 17,
+      "hour": 22
+    },
+    "eight_chars": "戊辰壬寅丙戌己亥",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 15,
+      "机缘": 9,
+      "魅力": 10,
+      "体质": 14,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰川禁域",
+    "age": 48,
+    "birth": {
+      "year": 11952,
+      "month": 6,
+      "day": 9,
+      "hour": 12
+    },
+    "eight_chars": "壬申乙未辛未甲午",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 14,
+      "机缘": 12,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 13
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰川禁域",
+    "age": 121,
+    "birth": {
+      "year": 11879,
+      "month": 2,
+      "day": 21,
+      "hour": 20
+    },
+    "eight_chars": "己未乙卯庚申丙戌",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 10,
+      "机缘": 11,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰川禁域",
+    "age": 37,
+    "birth": {
+      "year": 11963,
+      "month": 2,
+      "day": 16,
+      "hour": 13
+    },
+    "eight_chars": "癸未癸卯乙亥癸未",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 18,
+      "机缘": 10,
+      "魅力": 10,
+      "体质": 14,
+      "心性": 14
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰川禁域",
+    "age": 127,
+    "birth": {
+      "year": 11873,
+      "month": 12,
+      "day": 19,
+      "hour": 15
+    },
+    "eight_chars": "癸丑癸丑庚寅甲申",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 14,
+      "机缘": 6,
+      "魅力": 15,
+      "体质": 17,
+      "心性": 18
+    },
+    "region_lean": "中部",
+    "identity_tier": "散修",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "冰川禁域",
+    "age": 124,
+    "birth": {
+      "year": 11876,
+      "month": 6,
+      "day": 1,
+      "hour": 6
+    },
+    "eight_chars": "丙辰癸未乙酉己卯",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 13,
+      "机缘": 13,
+      "魅力": 15,
+      "体质": 15,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "永夜边疆",
+    "age": 88,
+    "birth": {
+      "year": 11912,
+      "month": 7,
+      "day": 22,
+      "hour": 17
+    },
+    "eight_chars": "壬辰丙申甲申癸酉",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 15,
+      "机缘": 13,
+      "魅力": 11,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "永夜边疆",
+    "age": 22,
+    "birth": {
+      "year": 11978,
+      "month": 2,
+      "day": 14,
+      "hour": 7
+    },
+    "eight_chars": "戊戌癸卯壬辰甲辰",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 16,
+      "机缘": 10,
+      "魅力": 14,
+      "体质": 18,
+      "心性": 13
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "永夜边疆",
+    "age": 73,
+    "birth": {
+      "year": 11927,
+      "month": 8,
+      "day": 8,
+      "hour": 11
+    },
+    "eight_chars": "丁未丁酉己未庚午",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 9,
+      "机缘": 17,
+      "魅力": 13,
+      "体质": 18,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "永夜边疆",
+    "age": 95,
+    "birth": {
+      "year": 11905,
+      "month": 5,
+      "day": 26,
+      "hour": 7
+    },
+    "eight_chars": "乙酉庚午庚戌庚辰",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 8,
+      "机缘": 9,
+      "魅力": 12,
+      "体质": 18,
+      "心性": 17
+    },
+    "region_lean": "西部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "永夜边疆",
+    "age": 29,
+    "birth": {
+      "year": 11971,
+      "month": 2,
+      "day": 1,
+      "hour": 9
+    },
+    "eight_chars": "辛卯己卯壬寅乙巳",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 18,
+      "机缘": 11,
+      "魅力": 17,
+      "体质": 11,
+      "心性": 10
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "永夜边疆",
+    "age": 81,
+    "birth": {
+      "year": 11919,
+      "month": 7,
+      "day": 4,
+      "hour": 0
+    },
+    "eight_chars": "己亥庚申壬寅庚子",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 17,
+      "机缘": 10,
+      "魅力": 8,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "散修",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "永夜边疆",
+    "age": 68,
+    "birth": {
+      "year": 11932,
+      "month": 7,
+      "day": 25,
+      "hour": 2
+    },
+    "eight_chars": "壬子丙申壬申辛丑",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 16,
+      "机缘": 9,
+      "魅力": 12,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "断脉遗区",
+    "age": 50,
+    "birth": {
+      "year": 11950,
+      "month": 8,
+      "day": 5,
+      "hour": 2
+    },
+    "eight_chars": "庚午癸酉丁巳辛丑",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 11,
+      "机缘": 16,
+      "魅力": 15,
+      "体质": 16,
+      "心性": 17
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "断脉遗区",
+    "age": 47,
+    "birth": {
+      "year": 11953,
+      "month": 12,
+      "day": 21,
+      "hour": 15
+    },
+    "eight_chars": "癸酉癸丑辛卯丙申",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 16,
+      "机缘": 9,
+      "魅力": 13,
+      "体质": 15,
+      "心性": 17
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "断脉遗区",
+    "age": 66,
+    "birth": {
+      "year": 11934,
+      "month": 6,
+      "day": 27,
+      "hour": 19
+    },
+    "eight_chars": "甲寅己未甲寅甲戌",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 18,
+      "机缘": 9,
+      "魅力": 18,
+      "体质": 15,
+      "心性": 11
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "断脉遗区",
+    "age": 104,
+    "birth": {
+      "year": 11896,
+      "month": 4,
+      "day": 16,
+      "hour": 10
+    },
+    "eight_chars": "丙子辛巳甲申己巳",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 13,
+      "机缘": 16,
+      "魅力": 16,
+      "体质": 17,
+      "心性": 17
+    },
+    "region_lean": "南部",
+    "identity_tier": "内门天才",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "断脉遗区",
+    "age": 57,
+    "birth": {
+      "year": 11943,
+      "month": 7,
+      "day": 9,
+      "hour": 12
+    },
+    "eight_chars": "癸亥戊申癸丑戊午",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 12,
+      "机缘": 13,
+      "魅力": 9,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "断脉遗区",
+    "age": 86,
+    "birth": {
+      "year": 11914,
+      "month": 1,
+      "day": 24,
+      "hour": 14
+    },
+    "eight_chars": "甲午甲寅乙未癸未",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 17,
+      "机缘": 12,
+      "魅力": 18,
+      "体质": 15,
+      "心性": 8
+    },
+    "region_lean": "东部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "断脉遗区",
+    "age": 33,
+    "birth": {
+      "year": 11967,
+      "month": 11,
+      "day": 10,
+      "hour": 7
+    },
+    "eight_chars": "丁亥庚子癸亥丙辰",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 18,
+      "机缘": 12,
+      "魅力": 15,
+      "体质": 13,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "玄冰宗门",
+    "age": 92,
+    "birth": {
+      "year": 11908,
+      "month": 8,
+      "day": 19,
+      "hour": 12
+    },
+    "eight_chars": "戊子己酉辛卯甲午",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 16,
+      "机缘": 14,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 12
+    },
+    "region_lean": "东部",
+    "identity_tier": "没落世家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "玄冰宗门",
+    "age": 119,
+    "birth": {
+      "year": 11881,
+      "month": 9,
+      "day": 20,
+      "hour": 20
+    },
+    "eight_chars": "辛酉丙戌壬寅庚戌",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 10,
+      "机缘": 9,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 16
+    },
+    "region_lean": "西部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "玄冰宗门",
+    "age": 98,
+    "birth": {
+      "year": 11902,
+      "month": 11,
+      "day": 21,
+      "hour": 12
+    },
+    "eight_chars": "壬午庚子癸巳戊午",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 15,
+      "机缘": 15,
+      "魅力": 13,
+      "体质": 10,
+      "心性": 16
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "玄冰宗门",
+    "age": 82,
+    "birth": {
+      "year": 11918,
+      "month": 9,
+      "day": 19,
+      "hour": 22
+    },
+    "eight_chars": "戊戌庚戌甲寅乙亥",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 15,
+      "机缘": 9,
+      "魅力": 14,
+      "体质": 17,
+      "心性": 13
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "玄冰宗门",
+    "age": 19,
+    "birth": {
+      "year": 11981,
+      "month": 8,
+      "day": 4,
+      "hour": 9
+    },
+    "eight_chars": "辛丑乙酉己亥己巳",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 10,
+      "机缘": 9,
+      "魅力": 15,
+      "体质": 17,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "玄冰宗门",
+    "age": 116,
+    "birth": {
+      "year": 11884,
+      "month": 4,
+      "day": 17,
+      "hour": 15
+    },
+    "eight_chars": "甲子丁巳壬午戊申",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 15,
+      "机缘": 14,
+      "魅力": 17,
+      "体质": 15,
+      "心性": 17
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "玄冰宗门",
+    "age": 119,
+    "birth": {
+      "year": 11881,
+      "month": 12,
+      "day": 4,
+      "hour": 0
+    },
+    "eight_chars": "辛酉己丑丁巳庚子",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 13,
+      "机缘": 11,
+      "魅力": 15,
+      "体质": 17,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "矿脉走廊",
+    "age": 86,
+    "birth": {
+      "year": 11914,
+      "month": 3,
+      "day": 11,
+      "hour": 17
+    },
+    "eight_chars": "甲午丙辰辛巳丁酉",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 11,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 17,
+      "心性": 11
+    },
+    "region_lean": "南部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "矿脉走廊",
+    "age": 71,
+    "birth": {
+      "year": 11929,
+      "month": 7,
+      "day": 1,
+      "hour": 23
+    },
+    "eight_chars": "己酉庚申壬辰庚子",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 11,
+      "机缘": 9,
+      "魅力": 10,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "矿脉走廊",
+    "age": 112,
+    "birth": {
+      "year": 11888,
+      "month": 12,
+      "day": 26,
+      "hour": 2
+    },
+    "eight_chars": "戊辰癸丑丙辰己丑",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 8,
+      "机缘": 12,
+      "魅力": 9,
+      "体质": 18,
+      "心性": 10
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "矿脉走廊",
+    "age": 126,
+    "birth": {
+      "year": 11874,
+      "month": 8,
+      "day": 17,
+      "hour": 20
+    },
+    "eight_chars": "甲寅辛酉辛卯戊戌",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 16,
+      "机缘": 9,
+      "魅力": 16,
+      "体质": 18,
+      "心性": 16
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "矿脉走廊",
+    "age": 124,
+    "birth": {
+      "year": 11876,
+      "month": 8,
+      "day": 20,
+      "hour": 5
+    },
+    "eight_chars": "丙辰乙酉乙巳己卯",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 17,
+      "机缘": 13,
+      "魅力": 18,
+      "体质": 16,
+      "心性": 8
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "矿脉走廊",
+    "age": 46,
+    "birth": {
+      "year": 11954,
+      "month": 5,
+      "day": 4,
+      "hour": 5
+    },
+    "eight_chars": "甲戌戊午乙巳己卯",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 17,
+      "机缘": 13,
+      "魅力": 18,
+      "体质": 15,
+      "心性": 9
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "北地"
+  },
+  {
+    "subregion": "矿脉走廊",
+    "age": 65,
+    "birth": {
+      "year": 11935,
+      "month": 7,
+      "day": 6,
+      "hour": 15
+    },
+    "eight_chars": "乙卯壬申戊辰庚申",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 16,
+      "机缘": 11,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "北地"
+  },
+  {
+    "subregion": "裂川",
+    "age": 56,
+    "birth": {
+      "year": 11944,
+      "month": 8,
+      "day": 20,
+      "hour": 1
+    },
+    "eight_chars": "甲子辛酉辛丑己丑",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 10,
+      "机缘": 9,
+      "魅力": 9,
+      "体质": 18,
+      "心性": 17
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "裂川",
+    "age": 79,
+    "birth": {
+      "year": 11921,
+      "month": 7,
+      "day": 22,
+      "hour": 15
+    },
+    "eight_chars": "辛丑甲申辛未丙申",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 13,
+      "机缘": 11,
+      "魅力": 13,
+      "体质": 18,
+      "心性": 14
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "裂川",
+    "age": 113,
+    "birth": {
+      "year": 11887,
+      "month": 4,
+      "day": 10,
+      "hour": 1
+    },
+    "eight_chars": "丁卯癸巳庚寅丁丑",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 13,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 11,
+      "心性": 13
+    },
+    "region_lean": "南部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "裂川",
+    "age": 86,
+    "birth": {
+      "year": 11914,
+      "month": 9,
+      "day": 4,
+      "hour": 18
+    },
+    "eight_chars": "甲午壬戌戊寅辛酉",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 14,
+      "机缘": 13,
+      "魅力": 14,
+      "体质": 18,
+      "心性": 12
+    },
+    "region_lean": "东部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "裂川",
+    "age": 29,
+    "birth": {
+      "year": 11971,
+      "month": 12,
+      "day": 27,
+      "hour": 20
+    },
+    "eight_chars": "辛卯己丑辛未戊戌",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 10,
+      "机缘": 6,
+      "魅力": 11,
+      "体质": 18,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "裂川",
+    "age": 31,
+    "birth": {
+      "year": 11969,
+      "month": 4,
+      "day": 7,
+      "hour": 23
+    },
+    "eight_chars": "己丑丁巳丁酉庚子",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 13,
+      "机缘": 16,
+      "魅力": 17,
+      "体质": 18,
+      "心性": 17
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "裂川",
+    "age": 33,
+    "birth": {
+      "year": 11967,
+      "month": 4,
+      "day": 27,
+      "hour": 6
+    },
+    "eight_chars": "丁亥癸巳丙午辛卯",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 8,
+      "悟性": 16,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 10,
+      "心性": 16
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "裂川",
+    "age": 53,
+    "birth": {
+      "year": 11947,
+      "month": 5,
+      "day": 19,
+      "hour": 8
+    },
+    "eight_chars": "丁卯甲午癸未丙辰",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 17,
+      "机缘": 14,
+      "魅力": 17,
+      "体质": 13,
+      "心性": 8
+    },
+    "region_lean": "南部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "古墟沙海",
+    "age": 32,
+    "birth": {
+      "year": 11968,
+      "month": 12,
+      "day": 28,
+      "hour": 4
+    },
+    "eight_chars": "戊子癸丑丁巳壬寅",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 11,
+      "悟性": 15,
+      "机缘": 16,
+      "魅力": 14,
+      "体质": 11,
+      "心性": 17
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "古墟沙海",
+    "age": 89,
+    "birth": {
+      "year": 11911,
+      "month": 11,
+      "day": 9,
+      "hour": 20
+    },
+    "eight_chars": "辛卯戊子戊辰壬戌",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 15,
+      "机缘": 9,
+      "魅力": 8,
+      "体质": 18,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "古墟沙海",
+    "age": 128,
+    "birth": {
+      "year": 11872,
+      "month": 6,
+      "day": 15,
+      "hour": 15
+    },
+    "eight_chars": "壬子乙未戊寅庚申",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 18,
+      "机缘": 6,
+      "魅力": 15,
+      "体质": 14,
+      "心性": 18
+    },
+    "region_lean": "东部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "古墟沙海",
+    "age": 124,
+    "birth": {
+      "year": 11876,
+      "month": 2,
+      "day": 26,
+      "hour": 17
+    },
+    "eight_chars": "丙辰己卯己酉癸酉",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 11,
+      "机缘": 11,
+      "魅力": 11,
+      "体质": 18,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "内门弟子",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "古墟沙海",
+    "age": 59,
+    "birth": {
+      "year": 11941,
+      "month": 9,
+      "day": 19,
+      "hour": 4
+    },
+    "eight_chars": "辛酉丙戌乙卯戊寅",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 15,
+      "机缘": 10,
+      "魅力": 18,
+      "体质": 14,
+      "心性": 10
+    },
+    "region_lean": "东部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "古墟沙海",
+    "age": 123,
+    "birth": {
+      "year": 11877,
+      "month": 8,
+      "day": 1,
+      "hour": 3
+    },
+    "eight_chars": "丁巳丁酉辛卯庚寅",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 13,
+      "机缘": 17,
+      "魅力": 17,
+      "体质": 15,
+      "心性": 13
+    },
+    "region_lean": "南部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "古墟沙海",
+    "age": 54,
+    "birth": {
+      "year": 11946,
+      "month": 3,
+      "day": 28,
+      "hour": 8
+    },
+    "eight_chars": "丙寅庚辰丙戌壬辰",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 15,
+      "机缘": 13,
+      "魅力": 14,
+      "体质": 15,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "古墟沙海",
+    "age": 108,
+    "birth": {
+      "year": 11892,
+      "month": 12,
+      "day": 25,
+      "hour": 7
+    },
+    "eight_chars": "壬申辛丑丙子壬辰",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 17,
+      "机缘": 8,
+      "魅力": 13,
+      "体质": 15,
+      "心性": 16
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "封碑外围",
+    "age": 44,
+    "birth": {
+      "year": 11956,
+      "month": 9,
+      "day": 22,
+      "hour": 14
+    },
+    "eight_chars": "丙子丙戌丁丑丁未",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 8,
+      "机缘": 18,
+      "魅力": 16,
+      "体质": 13,
+      "心性": 11
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "封碑外围",
+    "age": 45,
+    "birth": {
+      "year": 11955,
+      "month": 7,
+      "day": 3,
+      "hour": 23
+    },
+    "eight_chars": "乙亥壬申庚戌丙子",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 14,
+      "机缘": 10,
+      "魅力": 12,
+      "体质": 14,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "封碑外围",
+    "age": 33,
+    "birth": {
+      "year": 11967,
+      "month": 11,
+      "day": 22,
+      "hour": 4
+    },
+    "eight_chars": "丁亥庚子乙亥戊寅",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 10,
+      "悟性": 18,
+      "机缘": 12,
+      "魅力": 12,
+      "体质": 14,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "封碑外围",
+    "age": 108,
+    "birth": {
+      "year": 11892,
+      "month": 4,
+      "day": 21,
+      "hour": 23
+    },
+    "eight_chars": "壬申癸巳戊辰壬子",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 17,
+      "机缘": 13,
+      "魅力": 13,
+      "体质": 15,
+      "心性": 17
+    },
+    "region_lean": "北地",
+    "identity_tier": "散修",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "封碑外围",
+    "age": 31,
+    "birth": {
+      "year": 11969,
+      "month": 10,
+      "day": 24,
+      "hour": 12
+    },
+    "eight_chars": "己丑癸亥丁巳丙午",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 13,
+      "机缘": 18,
+      "魅力": 15,
+      "体质": 11,
+      "心性": 12
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "封碑外围",
+    "age": 92,
+    "birth": {
+      "year": 11908,
+      "month": 10,
+      "day": 24,
+      "hour": 19
+    },
+    "eight_chars": "戊子辛亥丁酉庚戌",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 15,
+      "机缘": 8,
+      "魅力": 13,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "封碑外围",
+    "age": 40,
+    "birth": {
+      "year": 11960,
+      "month": 12,
+      "day": 13,
+      "hour": 9
+    },
+    "eight_chars": "庚辰丁丑庚申辛巳",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 6,
+      "机缘": 12,
+      "魅力": 13,
+      "体质": 18,
+      "心性": 14
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "封碑外围",
+    "age": 83,
+    "birth": {
+      "year": 11917,
+      "month": 1,
+      "day": 12,
+      "hour": 10
+    },
+    "eight_chars": "丁酉庚寅己亥己巳",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 13,
+      "机缘": 15,
+      "魅力": 15,
+      "体质": 16,
+      "心性": 16
+    },
+    "region_lean": "南部",
+    "identity_tier": "内门天才",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "南砾高原",
+    "age": 114,
+    "birth": {
+      "year": 11886,
+      "month": 2,
+      "day": 1,
+      "hour": 18
+    },
+    "eight_chars": "丙寅己卯丁丑己酉",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 10,
+      "机缘": 13,
+      "魅力": 15,
+      "体质": 14,
+      "心性": 8
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "南砾高原",
+    "age": 96,
+    "birth": {
+      "year": 11904,
+      "month": 12,
+      "day": 17,
+      "hour": 13
+    },
+    "eight_chars": "甲申乙丑庚午癸未",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 17,
+      "机缘": 12,
+      "魅力": 12,
+      "体质": 18,
+      "心性": 16
+    },
+    "region_lean": "中部",
+    "identity_tier": "散修",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "南砾高原",
+    "age": 55,
+    "birth": {
+      "year": 11945,
+      "month": 2,
+      "day": 17,
+      "hour": 6
+    },
+    "eight_chars": "乙丑丁卯壬寅癸卯",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 9,
+      "悟性": 18,
+      "机缘": 10,
+      "魅力": 18,
+      "体质": 12,
+      "心性": 15
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "南砾高原",
+    "age": 124,
+    "birth": {
+      "year": 11876,
+      "month": 4,
+      "day": 2,
+      "hour": 7
+    },
+    "eight_chars": "丙辰辛巳乙酉庚辰",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 11,
+      "机缘": 11,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 16
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "南砾高原",
+    "age": 110,
+    "birth": {
+      "year": 11890,
+      "month": 11,
+      "day": 24,
+      "hour": 5
+    },
+    "eight_chars": "庚午丙子甲午丁卯",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 8,
+      "悟性": 12,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 13,
+      "心性": 10
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "南砾高原",
+    "age": 82,
+    "birth": {
+      "year": 11918,
+      "month": 12,
+      "day": 9,
+      "hour": 5
+    },
+    "eight_chars": "戊戌癸丑乙亥己卯",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 15,
+      "机缘": 11,
+      "魅力": 12,
+      "体质": 18,
+      "心性": 10
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "南砾高原",
+    "age": 70,
+    "birth": {
+      "year": 11930,
+      "month": 5,
+      "day": 17,
+      "hour": 2
+    },
+    "eight_chars": "庚戌庚午壬子辛丑",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 15,
+      "机缘": 13,
+      "魅力": 13,
+      "体质": 16,
+      "心性": 18
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "南砾高原",
+    "age": 125,
+    "birth": {
+      "year": 11875,
+      "month": 10,
+      "day": 6,
+      "hour": 11
+    },
+    "eight_chars": "乙卯乙亥丙戌甲午",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 9,
+      "悟性": 18,
+      "机缘": 11,
+      "魅力": 18,
+      "体质": 13,
+      "心性": 13
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "西极禁域",
+    "age": 21,
+    "birth": {
+      "year": 11979,
+      "month": 1,
+      "day": 8,
+      "hour": 1
+    },
+    "eight_chars": "己亥甲寅庚申丁丑",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 14,
+      "机缘": 11,
+      "魅力": 13,
+      "体质": 15,
+      "心性": 12
+    },
+    "region_lean": "东部",
+    "identity_tier": "没落世家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "西极禁域",
+    "age": 99,
+    "birth": {
+      "year": 11901,
+      "month": 7,
+      "day": 8,
+      "hour": 10
+    },
+    "eight_chars": "辛巳甲申壬申乙巳",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 15,
+      "机缘": 17,
+      "魅力": 16,
+      "体质": 14,
+      "心性": 14
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "西极禁域",
+    "age": 22,
+    "birth": {
+      "year": 11978,
+      "month": 3,
+      "day": 8,
+      "hour": 16
+    },
+    "eight_chars": "戊戌甲辰甲寅壬申",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 17,
+      "机缘": 6,
+      "魅力": 15,
+      "体质": 17,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "西极禁域",
+    "age": 63,
+    "birth": {
+      "year": 11937,
+      "month": 4,
+      "day": 10,
+      "hour": 18
+    },
+    "eight_chars": "丁巳癸巳壬子己酉",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 17,
+      "机缘": 18,
+      "魅力": 13,
+      "体质": 13,
+      "心性": 16
+    },
+    "region_lean": "南部",
+    "identity_tier": "没落世家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "西极禁域",
+    "age": 115,
+    "birth": {
+      "year": 11885,
+      "month": 4,
+      "day": 24,
+      "hour": 17
+    },
+    "eight_chars": "乙丑己巳甲午癸酉",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 13,
+      "机缘": 12,
+      "魅力": 17,
+      "体质": 12,
+      "心性": 11
+    },
+    "region_lean": "南部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "西极禁域",
+    "age": 128,
+    "birth": {
+      "year": 11872,
+      "month": 1,
+      "day": 11,
+      "hour": 0
+    },
+    "eight_chars": "壬子庚寅壬寅庚子",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 18,
+      "机缘": 11,
+      "魅力": 15,
+      "体质": 12,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "西极禁域",
+    "age": 78,
+    "birth": {
+      "year": 11922,
+      "month": 1,
+      "day": 5,
+      "hour": 22
+    },
+    "eight_chars": "壬寅庚寅戊午癸亥",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 17,
+      "机缘": 9,
+      "魅力": 14,
+      "体质": 14,
+      "心性": 17
+    },
+    "region_lean": "北地",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "西极禁域",
+    "age": 90,
+    "birth": {
+      "year": 11910,
+      "month": 2,
+      "day": 17,
+      "hour": 4
+    },
+    "eight_chars": "庚寅丁卯戊戌甲寅",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 18,
+      "机缘": 8,
+      "魅力": 18,
+      "体质": 16,
+      "心性": 8
+    },
+    "region_lean": "东部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "商路砾道",
+    "age": 53,
+    "birth": {
+      "year": 11947,
+      "month": 5,
+      "day": 28,
+      "hour": 10
+    },
+    "eight_chars": "丁卯甲午壬辰乙巳",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 11,
+      "悟性": 18,
+      "机缘": 18,
+      "魅力": 18,
+      "体质": 10,
+      "心性": 11
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "商路砾道",
+    "age": 33,
+    "birth": {
+      "year": 11967,
+      "month": 10,
+      "day": 4,
+      "hour": 4
+    },
+    "eight_chars": "丁亥己亥丙戌庚寅",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 12,
+      "悟性": 14,
+      "机缘": 14,
+      "魅力": 15,
+      "体质": 14,
+      "心性": 15
+    },
+    "region_lean": "北地",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "商路砾道",
+    "age": 42,
+    "birth": {
+      "year": 11958,
+      "month": 8,
+      "day": 10,
+      "hour": 14
+    },
+    "eight_chars": "戊寅己酉甲辰辛未",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 10,
+      "机缘": 6,
+      "魅力": 11,
+      "体质": 18,
+      "心性": 12
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "商路砾道",
+    "age": 57,
+    "birth": {
+      "year": 11943,
+      "month": 3,
+      "day": 3,
+      "hour": 22
+    },
+    "eight_chars": "癸亥甲辰乙巳丁亥",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 9,
+      "悟性": 18,
+      "机缘": 14,
+      "魅力": 18,
+      "体质": 8,
+      "心性": 17
+    },
+    "region_lean": "北地",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "商路砾道",
+    "age": 38,
+    "birth": {
+      "year": 11962,
+      "month": 1,
+      "day": 13,
+      "hour": 14
+    },
+    "eight_chars": "壬午庚寅丙申乙未",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 16,
+      "悟性": 17,
+      "机缘": 15,
+      "魅力": 15,
+      "体质": 12,
+      "心性": 15
+    },
+    "region_lean": "东部",
+    "identity_tier": "没落世家子弟",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "商路砾道",
+    "age": 17,
+    "birth": {
+      "year": 11983,
+      "month": 1,
+      "day": 27,
+      "hour": 7
+    },
+    "eight_chars": "癸卯壬寅庚子庚辰",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 18,
+      "机缘": 9,
+      "魅力": 12,
+      "体质": 17,
+      "心性": 18
+    },
+    "region_lean": "北地",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "商路砾道",
+    "age": 120,
+    "birth": {
+      "year": 11880,
+      "month": 2,
+      "day": 1,
+      "hour": 2
+    },
+    "eight_chars": "庚申丁卯乙巳丁丑",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 13,
+      "悟性": 15,
+      "机缘": 17,
+      "魅力": 17,
+      "体质": 12,
+      "心性": 12
+    },
+    "region_lean": "南部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "商路砾道",
+    "age": 75,
+    "birth": {
+      "year": 11925,
+      "month": 1,
+      "day": 6,
+      "hour": 18
+    },
+    "eight_chars": "乙巳丙寅乙亥乙酉",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 11,
+      "悟性": 18,
+      "机缘": 14,
+      "魅力": 18,
+      "体质": 8,
+      "心性": 13
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "断裂尾端",
+    "age": 43,
+    "birth": {
+      "year": 11957,
+      "month": 3,
+      "day": 9,
+      "hour": 8
+    },
+    "eight_chars": "丁丑壬辰乙丑庚辰",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 11,
+      "机缘": 8,
+      "魅力": 14,
+      "体质": 18,
+      "心性": 14
+    },
+    "region_lean": "中部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "断裂尾端",
+    "age": 79,
+    "birth": {
+      "year": 11921,
+      "month": 7,
+      "day": 18,
+      "hour": 15
+    },
+    "eight_chars": "辛丑甲申丁卯戊申",
+    "spirit_root_element": "火",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 10,
+      "机缘": 10,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 15
+    },
+    "region_lean": "西部",
+    "identity_tier": "外门弟子",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "断裂尾端",
+    "age": 118,
+    "birth": {
+      "year": 11882,
+      "month": 9,
+      "day": 8,
+      "hour": 20
+    },
+    "eight_chars": "壬戌戊戌乙未丙戌",
+    "spirit_root_element": "木",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 10,
+      "机缘": 11,
+      "魅力": 15,
+      "体质": 18,
+      "心性": 11
+    },
+    "region_lean": "中部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "断裂尾端",
+    "age": 60,
+    "birth": {
+      "year": 11940,
+      "month": 10,
+      "day": 17,
+      "hour": 10
+    },
+    "eight_chars": "庚申乙亥戊寅丁巳",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 15,
+      "悟性": 14,
+      "机缘": 12,
+      "魅力": 14,
+      "体质": 14,
+      "心性": 16
+    },
+    "region_lean": "东部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "断裂尾端",
+    "age": 51,
+    "birth": {
+      "year": 11949,
+      "month": 1,
+      "day": 26,
+      "hour": 15
+    },
+    "eight_chars": "己巳甲寅辛丑丙申",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 18,
+      "悟性": 12,
+      "机缘": 15,
+      "魅力": 15,
+      "体质": 15,
+      "心性": 10
+    },
+    "region_lean": "东部",
+    "identity_tier": "散修",
+    "gender": "女",
+    "region": "西部"
+  },
+  {
+    "subregion": "断裂尾端",
+    "age": 50,
+    "birth": {
+      "year": 11950,
+      "month": 9,
+      "day": 27,
+      "hour": 23
+    },
+    "eight_chars": "庚午甲戌庚戌丙子",
+    "spirit_root_element": "金",
+    "spirit_root_tier": "地",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 11,
+      "机缘": 15,
+      "魅力": 15,
+      "体质": 16,
+      "心性": 13
+    },
+    "region_lean": "中部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "断裂尾端",
+    "age": 110,
+    "birth": {
+      "year": 11890,
+      "month": 12,
+      "day": 12,
+      "hour": 18
+    },
+    "eight_chars": "庚午丁丑壬子己酉",
+    "spirit_root_element": "水",
+    "spirit_root_tier": "玄",
+    "six_dims": {
+      "根骨": 14,
+      "悟性": 15,
+      "机缘": 16,
+      "魅力": 12,
+      "体质": 18,
+      "心性": 18
+    },
+    "region_lean": "南部",
+    "identity_tier": "外门弟子",
+    "gender": "男",
+    "region": "西部"
+  },
+  {
+    "subregion": "断裂尾端",
+    "age": 119,
+    "birth": {
+      "year": 11881,
+      "month": 8,
+      "day": 18,
+      "hour": 9
+    },
+    "eight_chars": "辛酉乙酉己巳己巳",
+    "spirit_root_element": "土",
+    "spirit_root_tier": "黄",
+    "six_dims": {
+      "根骨": 17,
+      "悟性": 11,
+      "机缘": 12,
+      "魅力": 12,
+      "体质": 16,
+      "心性": 13
+    },
+    "region_lean": "西部",
+    "identity_tier": "宗门杂役/普通人家子弟",
+    "gender": "女",
+    "region": "西部"
+  }
+]

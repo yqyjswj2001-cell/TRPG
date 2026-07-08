@@ -1,0 +1,2 @@
+﻿{"name": "九天挑虚道术", "tier": "天级", "element": "土", "category": "道法", "creator": "启阳港老水手", "holder": "封存于绝地", "prevalence": "绝学", "desc": "一门由石涧驿驿丞所创的实用功法，不求华丽只求实效。修习门槛极低——体质达标即可便可入门，但在实战中往往能出奇制胜。功法核心在于以守代攻。", "effect": {"attack_bonus": 10, "defense_bonus": 4, "hp_max": 30}}
+{"name": "轮回推影术", "tier": "天级", "element": "土", "category": "道法", "creator": "独臂剑客", "holder": "只闻其名不见其文", "prevalence": "绝学", "desc": "一门以水属灵气驱动的拳法，招式刚猛如虎，修至大成可在出招时附带水属灵气伤害，但消耗灵力是同阶普通拳法的倍有余", "effect": {"attack_bonus": 5, "defense_bonus": 4, "hp_max": 15}}

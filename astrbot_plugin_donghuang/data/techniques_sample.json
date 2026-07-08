@@ -1,0 +1,1082 @@
+[
+  {
+    "name": "碎岩腿",
+    "tier": "黄级",
+    "element": "木",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "裂山手",
+    "tier": "黄级",
+    "element": "金",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "裂土术",
+    "tier": "黄级",
+    "element": "木",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "劈土手",
+    "tier": "黄级",
+    "element": "火",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "裂土拳",
+    "tier": "黄级",
+    "element": "火",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "破岩手",
+    "tier": "黄级",
+    "element": "火",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "裂土腿",
+    "tier": "黄级",
+    "element": "土",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "裂山腿",
+    "tier": "黄级",
+    "element": "金",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "劈石手",
+    "tier": "黄级",
+    "element": "水",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "劈山掌",
+    "tier": "黄级",
+    "element": "火",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "破土术",
+    "tier": "黄级",
+    "element": "金",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "裂岩掌",
+    "tier": "黄级",
+    "element": "木",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "裂山法",
+    "tier": "黄级",
+    "element": "水",
+    "category": "刀法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "破岩拳",
+    "tier": "黄级",
+    "element": "木",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "碎山法",
+    "tier": "黄级",
+    "element": "木",
+    "category": "刀法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "断山拳",
+    "tier": "黄级",
+    "element": "金",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "裂岩法",
+    "tier": "黄级",
+    "element": "火",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "劈石掌",
+    "tier": "黄级",
+    "element": "水",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "断石腿",
+    "tier": "黄级",
+    "element": "金",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "断土拳",
+    "tier": "黄级",
+    "element": "金",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "碎岩拳",
+    "tier": "黄级",
+    "element": "火",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "断山掌",
+    "tier": "黄级",
+    "element": "木",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "劈石拳",
+    "tier": "黄级",
+    "element": "火",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "劈山手",
+    "tier": "黄级",
+    "element": "水",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "碎岩掌",
+    "tier": "黄级",
+    "element": "火",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "碎石掌",
+    "tier": "黄级",
+    "element": "木",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "裂岩手",
+    "tier": "黄级",
+    "element": "水",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "断土法",
+    "tier": "黄级",
+    "element": "火",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "破石拳",
+    "tier": "黄级",
+    "element": "木",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "裂岩拳",
+    "tier": "黄级",
+    "element": "金",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "碎土腿",
+    "tier": "黄级",
+    "element": "木",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "断石法",
+    "tier": "黄级",
+    "element": "金",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "破山术",
+    "tier": "黄级",
+    "element": "金",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "断石拳",
+    "tier": "黄级",
+    "element": "金",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "断土手",
+    "tier": "黄级",
+    "element": "土",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "破山腿",
+    "tier": "黄级",
+    "element": "火",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "断土掌",
+    "tier": "黄级",
+    "element": "木",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "破岩法",
+    "tier": "黄级",
+    "element": "火",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "断山手",
+    "tier": "黄级",
+    "element": "火",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "破山拳",
+    "tier": "黄级",
+    "element": "金",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "断岩术",
+    "tier": "黄级",
+    "element": "火",
+    "category": "剑法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "断岩掌",
+    "tier": "黄级",
+    "element": "金",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "裂石法",
+    "tier": "黄级",
+    "element": "火",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "碎土法",
+    "tier": "黄级",
+    "element": "木",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "断山腿",
+    "tier": "黄级",
+    "element": "土",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "断山术",
+    "tier": "黄级",
+    "element": "火",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "碎土术",
+    "tier": "黄级",
+    "element": "火",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "破山法",
+    "tier": "黄级",
+    "element": "火",
+    "category": "刀法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "劈石腿",
+    "tier": "黄级",
+    "element": "金",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "劈山法",
+    "tier": "黄级",
+    "element": "金",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "破石手",
+    "tier": "黄级",
+    "element": "火",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "碎岩手",
+    "tier": "黄级",
+    "element": "木",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "断岩拳",
+    "tier": "黄级",
+    "element": "木",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "裂土手",
+    "tier": "黄级",
+    "element": "火",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "碎土手",
+    "tier": "黄级",
+    "element": "水",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "断石掌",
+    "tier": "黄级",
+    "element": "土",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "劈土法",
+    "tier": "黄级",
+    "element": "木",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "破土手",
+    "tier": "黄级",
+    "element": "金",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "碎石拳",
+    "tier": "黄级",
+    "element": "土",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "劈岩掌",
+    "tier": "黄级",
+    "element": "水",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "裂石手",
+    "tier": "黄级",
+    "element": "土",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "裂石掌",
+    "tier": "黄级",
+    "element": "土",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "破山手",
+    "tier": "黄级",
+    "element": "土",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "破土法",
+    "tier": "黄级",
+    "element": "金",
+    "category": "刀法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "破山掌",
+    "tier": "黄级",
+    "element": "木",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "碎岩法",
+    "tier": "黄级",
+    "element": "土",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "裂石拳",
+    "tier": "黄级",
+    "element": "土",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "碎山腿",
+    "tier": "黄级",
+    "element": "金",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "断岩法",
+    "tier": "黄级",
+    "element": "土",
+    "category": "刀法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "碎石术",
+    "tier": "黄级",
+    "element": "水",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "破岩腿",
+    "tier": "黄级",
+    "element": "水",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "破土拳",
+    "tier": "黄级",
+    "element": "火",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "破土腿",
+    "tier": "黄级",
+    "element": "水",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "碎山手",
+    "tier": "黄级",
+    "element": "金",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "断石手",
+    "tier": "黄级",
+    "element": "土",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "劈石术",
+    "tier": "黄级",
+    "element": "金",
+    "category": "刀法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "劈山拳",
+    "tier": "黄级",
+    "element": "土",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "劈土术",
+    "tier": "黄级",
+    "element": "水",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "劈石法",
+    "tier": "黄级",
+    "element": "水",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "碎土掌",
+    "tier": "黄级",
+    "element": "火",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "裂山掌",
+    "tier": "黄级",
+    "element": "水",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "破土掌",
+    "tier": "黄级",
+    "element": "土",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "劈岩拳",
+    "tier": "黄级",
+    "element": "土",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "碎土拳",
+    "tier": "黄级",
+    "element": "金",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "碎石手",
+    "tier": "黄级",
+    "element": "金",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "劈土掌",
+    "tier": "黄级",
+    "element": "土",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "劈岩腿",
+    "tier": "黄级",
+    "element": "水",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "断岩腿",
+    "tier": "黄级",
+    "element": "水",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "劈山术",
+    "tier": "黄级",
+    "element": "水",
+    "category": "刀法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "断石术",
+    "tier": "黄级",
+    "element": "水",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "劈岩术",
+    "tier": "黄级",
+    "element": "火",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "裂山术",
+    "tier": "黄级",
+    "element": "金",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "裂岩术",
+    "tier": "黄级",
+    "element": "水",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "裂土掌",
+    "tier": "黄级",
+    "element": "火",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "破石掌",
+    "tier": "黄级",
+    "element": "火",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "断土术",
+    "tier": "黄级",
+    "element": "金",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "劈岩手",
+    "tier": "黄级",
+    "element": "木",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "裂石术",
+    "tier": "黄级",
+    "element": "水",
+    "category": "刀法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "断山法",
+    "tier": "黄级",
+    "element": "木",
+    "category": "剑法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "破石术",
+    "tier": "黄级",
+    "element": "金",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "破石腿",
+    "tier": "黄级",
+    "element": "金",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "劈岩法",
+    "tier": "黄级",
+    "element": "木",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "劈土腿",
+    "tier": "黄级",
+    "element": "土",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 2
+    }
+  },
+  {
+    "name": "碎石法",
+    "tier": "黄级",
+    "element": "木",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "断岩手",
+    "tier": "黄级",
+    "element": "木",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "裂石腿",
+    "tier": "黄级",
+    "element": "木",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "碎岩术",
+    "tier": "黄级",
+    "element": "木",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "断土腿",
+    "tier": "黄级",
+    "element": "金",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "劈山腿",
+    "tier": "黄级",
+    "element": "火",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "裂山拳",
+    "tier": "黄级",
+    "element": "火",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "碎山掌",
+    "tier": "黄级",
+    "element": "木",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "劈土拳",
+    "tier": "黄级",
+    "element": "木",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "碎山术",
+    "tier": "黄级",
+    "element": "水",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "破石法",
+    "tier": "黄级",
+    "element": "水",
+    "category": "刀法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "破岩掌",
+    "tier": "黄级",
+    "element": "土",
+    "category": "掌法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "破岩术",
+    "tier": "黄级",
+    "element": "金",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "裂土法",
+    "tier": "黄级",
+    "element": "土",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  },
+  {
+    "name": "碎石腿",
+    "tier": "黄级",
+    "element": "金",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "碎山拳",
+    "tier": "黄级",
+    "element": "水",
+    "category": "拳法",
+    "effect": {
+      "attack_bonus": 1
+    }
+  },
+  {
+    "name": "裂岩腿",
+    "tier": "黄级",
+    "element": "土",
+    "category": "腿法",
+    "effect": {
+      "attack_bonus": 0
+    }
+  }
+]
