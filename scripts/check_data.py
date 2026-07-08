@@ -65,8 +65,14 @@ def main():
             checked += 1
 
             # 检查一:文件能不能正常打开、JSON 格式对不对
+            # 这里用 utf-8-sig 而不是 utf-8:
+            # 有些编辑器(比如 Windows 记事本)保存 UTF-8 文件时会在开头
+            # 偷偷加一个看不见的标记(叫 BOM),内容其实是好的,
+            # 但普通 utf-8 读取方式会被这个标记绊一下、误判成"格式坏了"。
+            # utf-8-sig 遇到这个标记会自动跳过,遇不到也完全不受影响,
+            # 兼容两种情况,不会漏判真正的格式错误。
             try:
-                data = json.loads(file.read_text(encoding="utf-8"))
+                data = json.loads(file.read_text(encoding="utf-8-sig"))
             except json.JSONDecodeError as e:
                 problems.append(f"[格式坏了] {file} 第 {e.lineno} 行附近:{e.msg}")
                 continue
