@@ -1,0 +1,29 @@
+# 运行配置与凭据
+.env
+.env.*
+config/local/
+**/cmd_config.json
+**/webui.json
+**/onebot11*.json
+**/pairing.json
+**/credentials*.json
+**/secrets*.json
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# 存档、日志和临时文件
+*.db
+*.sqlite
+*.sqlite-*
+*.log
+*.tmp
+*.bak
+_tmp/
+.tmp/
+__pycache__/
+.venv/
+node_modules/
+.DS_Store
+Thumbs.db
