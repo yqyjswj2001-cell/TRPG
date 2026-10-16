@@ -1,0 +1,45 @@
+{
+  "source": "astrbot_plugin_donghuang/cultivation_technique.py",
+  "source_commit": "017b50032dc8d2b5650367c160808ccea93dab87",
+  "status": "旧版设定资料，保留原参数，不自动作为新跑团规则。",
+  "values": {
+    "TIER_RANK": [
+      "黄级",
+      "玄级",
+      "地级",
+      "天级"
+    ],
+    "TIER_RANK_VALUES": {
+      "黄级": 1,
+      "玄级": 2,
+      "地级": 3,
+      "天级": 4
+    },
+    "TECHNIQUE_CATEGORIES": [
+      "心法",
+      "剑法",
+      "拳法",
+      "指法",
+      "掌法",
+      "腿法",
+      "暗器",
+      "身法",
+      "道法",
+      "符箓",
+      "阵法",
+      "鞭法",
+      "枪法",
+      "棍法"
+    ],
+    "BASE_CULTIVATION_SPEED": {
+      "黄级": 1,
+      "玄级": 2,
+      "地级": 5,
+      "天级": 10
+    },
+    "BASE_BREAKTHROUGH_BONUS": 0.05,
+    "TECHNIQUE_DC_PENALTY": -1,
+    "MAX_ACTIVE_TECHNIQUES": 1,
+    "MAX_KNOWN_TECHNIQUES": 20
+  }
+}

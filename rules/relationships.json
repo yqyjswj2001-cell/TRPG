@@ -1,0 +1,31 @@
+{
+  "source": "astrbot_plugin_donghuang/npc_relationship.py",
+  "source_commit": "017b50032dc8d2b5650367c160808ccea93dab87",
+  "status": "旧版设定资料，保留原参数，不自动作为新跑团规则。",
+  "values": {
+    "REL_UNKNOWN": "unknown",
+    "REL_FAMILIAR": "familiar",
+    "REL_FRIENDLY": "friendly",
+    "REL_RESPECTFUL": "respectful",
+    "REL_SUSPICIOUS": "suspicious",
+    "REL_HOSTILE": "hostile",
+    "REL_LABELS": {
+      "unknown": "陌生",
+      "familiar": "熟悉",
+      "friendly": "友善",
+      "respectful": "敬重",
+      "suspicious": "警惕",
+      "hostile": "敌对"
+    },
+    "SPECIAL_MEMORY_TAGS": {
+      "rescue": "RESCUE_MEMORY",
+      "major_event": "MAJOR_EVENT_MEMORY",
+      "betrayal": "BETRAYAL_MEMORY"
+    },
+    "SPECIAL_MEMORY_NARRATIVE": {
+      "RESCUE_MEMORY": "他看见你的瞬间，眼中闪过一丝感激，似乎想起了你曾经救过他。",
+      "MAJOR_EVENT_MEMORY": "他看见你的瞬间，神色复杂，似乎想起了多年前那场大事。",
+      "BETRAYAL_MEMORY": "他看见你的瞬间，脸色微变，眼中闪过一丝警惕与不信任。"
+    }
+  }
+}

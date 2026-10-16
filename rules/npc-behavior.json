@@ -1,0 +1,124 @@
+{
+  "source": "astrbot_plugin_donghuang/npc_behavior.py",
+  "source_commit": "017b50032dc8d2b5650367c160808ccea93dab87",
+  "status": "旧版设定资料，保留原参数，不自动作为新跑团规则。",
+  "values": {
+    "RISK_CAUTIOUS": "cautious",
+    "RISK_NEUTRAL": "neutral",
+    "RISK_BOLD": "bold",
+    "HELP_BASELINE": 0.3,
+    "HELP_FRIENDLY": 0.65,
+    "HELP_RESPECTFUL": 0.85,
+    "HELP_FAMILIAR": 0.45,
+    "HELP_SUSPICIOUS": 0.2,
+    "HELP_HOSTILE": 0.05,
+    "SECRET_BASELINE": 0.1,
+    "SECRET_FRIENDLY": 0.25,
+    "SECRET_RESPECTFUL": 0.45,
+    "SECRET_FAMILIAR": 0.15,
+    "SECRET_SUSPICIOUS": 0.05,
+    "SECRET_HOSTILE": 0.01,
+    "PRICE_BASELINE": 0.0,
+    "PRICE_FRIENDLY": 0.1,
+    "PRICE_RESPECTFUL": 0.2,
+    "PRICE_FAMILIAR": 0.0,
+    "PRICE_SUSPICIOUS": -0.1,
+    "PRICE_HOSTILE": -0.3,
+    "IDENTITY_MODIFIERS": {
+      "长老": {
+        "help_probability": 0.0,
+        "secret_probability": 0.1,
+        "price_bias": 0.0,
+        "risk_attitude": "cautious"
+      },
+      "宗主": {
+        "help_probability": 0.0,
+        "secret_probability": 0.15,
+        "price_bias": 0.0,
+        "risk_attitude": "cautious"
+      },
+      "掌门": {
+        "help_probability": 0.0,
+        "secret_probability": 0.2,
+        "price_bias": 0.0,
+        "risk_attitude": "cautious"
+      },
+      "商人": {
+        "help_probability": -0.05,
+        "secret_probability": -0.05,
+        "price_bias": 0.05,
+        "risk_attitude": "neutral"
+      },
+      "货郎": {
+        "help_probability": -0.05,
+        "secret_probability": -0.05,
+        "price_bias": 0.05,
+        "risk_attitude": "neutral"
+      },
+      "弟子": {
+        "help_probability": 0.05,
+        "secret_probability": -0.05,
+        "price_bias": 0.0,
+        "risk_attitude": "neutral"
+      },
+      "丞相": {
+        "help_probability": 0.0,
+        "secret_probability": 0.15,
+        "price_bias": 0.0,
+        "risk_attitude": "cautious"
+      },
+      "散修": {
+        "help_probability": 0.0,
+        "secret_probability": 0.0,
+        "price_bias": 0.0,
+        "risk_attitude": "neutral"
+      }
+    },
+    "PERSONALITY_MODIFIERS": {
+      "谨慎": {
+        "help_probability": -0.05,
+        "secret_probability": -0.1,
+        "price_bias": 0.0,
+        "risk_attitude": "cautious"
+      },
+      "豪爽": {
+        "help_probability": 0.1,
+        "secret_probability": 0.05,
+        "price_bias": -0.05,
+        "risk_attitude": "bold"
+      },
+      "冷漠": {
+        "help_probability": -0.1,
+        "secret_probability": -0.1,
+        "price_bias": 0.0,
+        "risk_attitude": "neutral"
+      },
+      "贪婪": {
+        "help_probability": -0.05,
+        "secret_probability": -0.05,
+        "price_bias": 0.1,
+        "risk_attitude": "neutral"
+      },
+      "正直": {
+        "help_probability": 0.1,
+        "secret_probability": 0.05,
+        "price_bias": 0.0,
+        "risk_attitude": "neutral"
+      },
+      "多疑": {
+        "help_probability": -0.1,
+        "secret_probability": -0.15,
+        "price_bias": 0.0,
+        "risk_attitude": "cautious"
+      }
+    },
+    "_FACTION_TYPE_MODIFIERS": {
+      "HIDDEN": {
+        "help_probability": -0.1,
+        "secret_probability": -0.1,
+        "price_bias": -0.05,
+        "risk_attitude": "cautious"
+      }
+    }
+  }
+}

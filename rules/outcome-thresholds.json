@@ -1,0 +1,16 @@
+{
+  "source": "astrbot_plugin_donghuang/event_outcome_resolver.py",
+  "source_commit": "017b50032dc8d2b5650367c160808ccea93dab87",
+  "status": "旧版设定资料，保留原参数，不自动作为新跑团规则。",
+  "values": {
+    "_PROGRESS_RESOLVE_THRESHOLD": 0.8,
+    "_PROGRESS_FAIL_THRESHOLD": 0.3,
+    "_CHAOS_HIGH_LEVELS": [
+      "活跃-世界级",
+      "活跃-非世界级",
+      "临界"
+    ],
+    "_STABILITY_OK_THRESHOLD": 0.5,
+    "_MORALE_OK_THRESHOLD": 0.5
+  }
+}

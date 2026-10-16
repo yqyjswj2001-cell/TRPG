@@ -1,0 +1,14 @@
+{
+  "source": "astrbot_plugin_donghuang/world_event_trigger.py",
+  "source_commit": "017b50032dc8d2b5650367c160808ccea93dab87",
+  "status": "旧版设定资料，保留原参数，不自动作为新跑团规则。",
+  "values": {
+    "_CHAOS_THRESHOLD": "活跃",
+    "_LEYLINE_DECLINE_THRESHOLD": 3,
+    "_RESOURCE_LOW_THRESHOLD": 20,
+    "_RESOURCE_LOW_CONSECUTIVE": 2,
+    "_FACTION_POWER_DECLINE_THRESHOLD": 3,
+    "_FACTION_POWER_LOW_THRESHOLD": 30,
+    "_FACTION_ALLY_POWER_THRESHOLD": 70
+  }
+}

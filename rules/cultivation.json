@@ -1,0 +1,42 @@
+{
+  "source": "astrbot_plugin_donghuang/cultivation_state.py",
+  "source_commit": "017b50032dc8d2b5650367c160808ccea93dab87",
+  "status": "旧版设定资料，保留原参数，不自动作为新跑团规则。",
+  "values": {
+    "FOUNDATION_MIN": 0,
+    "FOUNDATION_MAX": 200,
+    "FOUNDATION_DEFAULT": 100,
+    "BOTTLENECK_MIN": 0,
+    "BOTTLENECK_MAX": 5,
+    "CULTIVATION_PROGRESS_MIN": 0,
+    "CULTIVATION_PROGRESS_MAX": 100,
+    "BOTTLENECK_EFFICIENCY_PENALTY": 0.15,
+    "BOTTLENECK_DC_PENALTY": 2,
+    "FOUNDATION_DC_BONUS_PER_20": 1,
+    "FOUNDATION_DC_BONUS_MAX": 5,
+    "CONSECUTIVE_FAILURE_BOTTLENECK_THRESHOLD": 2,
+    "FOUNDATION_RECOVERY_PER_CULTIVATION": 1,
+    "FOUNDATION_LOSS_ON_FAILURE": 5,
+    "FOUNDATION_LOSS_ON_BOUNDARY_FAILURE": 15,
+    "REALMS": [
+      "练气一层",
+      "练气二层",
+      "练气三层",
+      "练气四层",
+      "练气五层",
+      "练气六层",
+      "练气七层",
+      "练气八层",
+      "练气九层",
+      "筑基初期",
+      "筑基中期",
+      "筑基后期",
+      "筑基巅峰",
+      "金丹初期"
+    ],
+    "BOUNDARY_REALMS": [
+      "练气九层",
+      "筑基巅峰"
+    ]
+  }
+}

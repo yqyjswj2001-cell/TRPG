@@ -1,0 +1,128 @@
+{
+  "source": "astrbot_plugin_donghuang/world_environment.py",
+  "source_commit": "017b50032dc8d2b5650367c160808ccea93dab87",
+  "status": "旧版设定资料，保留原参数，不自动作为新跑团规则。",
+  "values": {
+    "PHYSICAL_WEATHERS": [
+      "晴",
+      "多云",
+      "阴",
+      "小雨",
+      "中雨",
+      "大雨",
+      "暴雨",
+      "雷暴",
+      "大雪",
+      "寒潮",
+      "干旱",
+      "薄雾",
+      "浓雾",
+      "微风",
+      "大风",
+      "暴风",
+      "小雪",
+      "中雪",
+      "暴雪",
+      "沙尘",
+      "沙暴"
+    ],
+    "SPIRITUAL_WEATHERS": [
+      "平稳",
+      "灵潮",
+      "灵气衰潮",
+      "灵雾",
+      "五行偏盛",
+      "灵压沉降",
+      "地脉回响"
+    ],
+    "CELESTIAL_PHENOMENA": [
+      "无",
+      "天青异霞",
+      "紫气东来",
+      "九曜乱象",
+      "血月临空",
+      "天雷云海",
+      "星河倒映",
+      "日月同辉"
+    ],
+    "ANOMALY_ENVIRONMENTS": [
+      "无",
+      "虚空潮汐",
+      "空间裂隙",
+      "因果乱流",
+      "时间错层",
+      "梦境侵蚀",
+      "灵墟投影",
+      "天道压制"
+    ],
+    "EFFECT_TAGS": {
+      "灵潮": [
+        "cultivation_bonus",
+        "spirit_beast_activity_up",
+        "spiritual_resource_growth"
+      ],
+      "灵气衰潮": [
+        "cultivation_penalty",
+        "resource_recovery_down"
+      ],
+      "天青异霞": [
+        "ruin_resonance_up",
+        "divination_clarity_up"
+      ],
+      "九曜乱象": [
+        "divination_disrupted",
+        "causal_noise_up"
+      ],
+      "血月临空": [
+        "beast_aggression_up",
+        "demonic_activity_up",
+        "chaos_pressure_up"
+      ],
+      "天雷云海": [
+        "lightning_affinity_up",
+        "breakthrough_risk_up"
+      ],
+      "虚空潮汐": [
+        "ruin_entrance_activity_up",
+        "spatial_instability"
+      ],
+      "空间裂隙": [
+        "travel_risk_up",
+        "anomaly_event_probability_up"
+      ],
+      "因果乱流": [
+        "causal_detection_down",
+        "causal_echo_probability_up"
+      ]
+    },
+    "SOURCE_TYPES": [
+      "natural",
+      "leyline",
+      "chaos",
+      "event",
+      "manual"
+    ],
+    "EFFECT_DESCRIPTIONS": {
+      "cultivation_bonus": "修炼效率略有提升",
+      "spirit_beast_activity_up": "灵兽活动更加频繁",
+      "spiritual_resource_growth": "灵气资源增长加速",
+      "cultivation_penalty": "修炼效率降低",
+      "resource_recovery_down": "资源恢复速度减缓",
+      "ruin_resonance_up": "遗迹共鸣概率提高",
+      "divination_clarity_up": "占卜清晰度提升",
+      "divination_disrupted": "占卜受到干扰",
+      "causal_noise_up": "因果噪音增强",
+      "beast_aggression_up": "妖兽攻击性增强",
+      "demonic_activity_up": "魔修活动增多",
+      "chaos_pressure_up": "混沌压力上升",
+      "lightning_affinity_up": "雷属性亲和提升",
+      "breakthrough_risk_up": "突破风险增大",
+      "ruin_entrance_activity_up": "遗迹入口活跃度上升",
+      "spatial_instability": "空间不稳定",
+      "travel_risk_up": "出行风险增加",
+      "anomaly_event_probability_up": "异常事件概率上升",
+      "causal_detection_down": "因果感知降低",
+      "causal_echo_probability_up": "因果回响概率上升"
+    }
+  }
+}

@@ -1,7 +1,0 @@
-# 插件元数据文件（AstrBot 官方规范要求）
-# 这里的信息会显示在 AstrBot 管理面板的“插件管理”页面里
-name: astrbot_plugin_trpg          # 插件的唯一名字，必须和文件夹名一致
-desc: QQ 群跑团（TRPG）助手：骰子、角色卡管理、AI 叙事、团务日志、团长权限、TRPG 模式（无前缀指令）、引导建团
-version: v1.2.0                    # 插件版本号，以后你自己改了代码可以把它加一
-author: yqyjswj                    # 作者名，可以改成你自己的
-repo: https://github.com/yqyjswj2001-cell/astrbot_plugin_trpg  # 仓库地址（没有可以不管）

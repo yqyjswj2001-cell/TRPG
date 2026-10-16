@@ -1,0 +1,50 @@
+{
+  "source": "astrbot_plugin_donghuang/npc_perception.py",
+  "source_commit": "017b50032dc8d2b5650367c160808ccea93dab87",
+  "status": "旧版设定资料，保留原参数，不自动作为新跑团规则。",
+  "values": {
+    "PERCEPTION_LEVELS": {
+      "凡人": {
+        "max_cultivation": 0,
+        "label": "普通"
+      },
+      "练气": {
+        "max_cultivation": 10,
+        "label": "低阶"
+      },
+      "筑基": {
+        "max_cultivation": 30,
+        "label": "中阶"
+      },
+      "金丹": {
+        "max_cultivation": 60,
+        "label": "高阶"
+      },
+      "元婴": {
+        "max_cultivation": 90,
+        "label": "顶尖"
+      },
+      "化神": {
+        "max_cultivation": 100,
+        "label": "传奇"
+      }
+    },
+    "PERCEPTION_LABELS": {
+      "keen": "敏锐",
+      "insightful": "洞察",
+      "subtle": "细微",
+      "normal": "正常"
+    },
+    "DEFAULT_NPC_TYPES": {
+      "百姓": "凡人",
+      "散修": "练气~筑基",
+      "外门弟子": "筑基~金丹",
+      "内门弟子": "金丹~元婴",
+      "长老": "元婴~化神",
+      "宗主": "化神",
+      "隐士": "金丹~元婴",
+      "商人": "凡人~练气",
+      "游侠": "筑基~金丹"
+    }
+  }
+}

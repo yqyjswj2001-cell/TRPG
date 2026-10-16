@@ -1,0 +1,729 @@
+{
+  "source": "astrbot_plugin_donghuang/generate_timeline.py",
+  "source_commit": "017b50032dc8d2b5650367c160808ccea93dab87",
+  "status": "旧版设定资料，保留原参数，不自动作为新跑团规则。",
+  "values": {
+    "REGIONS": [
+      "中部",
+      "东部",
+      "南部",
+      "北地",
+      "西部"
+    ],
+    "INITIAL_REGION_STATE": {
+      "中部": {
+        "phase": "结构偏移",
+        "qi": 3,
+        "qi_trend": -1,
+        "stability": 60,
+        "pop": 5
+      },
+      "东部": {
+        "phase": "开放重组",
+        "qi": 2,
+        "qi_trend": 2,
+        "stability": 40,
+        "pop": 2
+      },
+      "南部": {
+        "phase": "压力积累",
+        "qi": 2,
+        "qi_trend": 0,
+        "stability": 70,
+        "pop": 4
+      },
+      "北地": {
+        "phase": "常态维持",
+        "qi": 1,
+        "qi_trend": 0,
+        "stability": 90,
+        "pop": 1
+      },
+      "西部": {
+        "phase": "临界失衡",
+        "qi": 2,
+        "qi_trend": -1,
+        "stability": 30,
+        "pop": 2
+      }
+    },
+    "INITIAL_FACTIONS": {
+      "CULT-01": {
+        "name": "中部残存主脉守成宗门",
+        "region": "中部",
+        "power": 80,
+        "cohesion": 60,
+        "aggression": 2,
+        "resource": 70,
+        "goal": "延缓灵气外流"
+      },
+      "CULT-02": {
+        "name": "东部新生灵脉拓展宗门",
+        "region": "东部",
+        "power": 30,
+        "cohesion": 35,
+        "aggression": 8,
+        "resource": 40,
+        "goal": "建立独立修行秩序"
+      },
+      "CULT-03": {
+        "name": "北地沉潜灵气守护宗门",
+        "region": "北地",
+        "power": 50,
+        "cohesion": 80,
+        "aggression": 1,
+        "resource": 30,
+        "goal": "维持沉潜不醒"
+      },
+      "CULT-04": {
+        "name": "南部水土共生维持宗门",
+        "region": "南部",
+        "power": 45,
+        "cohesion": 70,
+        "aggression": 3,
+        "resource": 55,
+        "goal": "维持水土与人口承载"
+      },
+      "CULT-05": {
+        "name": "西部断裂带封禁宗门",
+        "region": "西部",
+        "power": 35,
+        "cohesion": 50,
+        "aggression": 2,
+        "resource": 20,
+        "goal": "阻止遗迹异常扩散"
+      },
+      "STATE-01": {
+        "name": "中部旧王朝",
+        "region": "中部",
+        "power": 65,
+        "cohesion": 50,
+        "aggression": 4,
+        "resource": 60,
+        "goal": "维持疆域统一"
+      },
+      "STATE-02": {
+        "name": "东部新域统合势力",
+        "region": "东部",
+        "power": 25,
+        "cohesion": 30,
+        "aggression": 7,
+        "resource": 35,
+        "goal": "统合东部新兴城邦"
+      },
+      "STATE-03": {
+        "name": "南部世俗联合城邦",
+        "region": "南部",
+        "power": 55,
+        "cohesion": 60,
+        "aggression": 3,
+        "resource": 65,
+        "goal": "维持商贸与粮食安全"
+      },
+      "STATE-04": {
+        "name": "北地边陲王国",
+        "region": "北地",
+        "power": 30,
+        "cohesion": 40,
+        "aggression": 2,
+        "resource": 25,
+        "goal": "维持边陲自保"
+      },
+      "HIDDEN-01": {
+        "name": "上古战争遗迹守护者",
+        "region": "西部",
+        "power": 40,
+        "cohesion": 90,
+        "aggression": 1,
+        "resource": 15,
+        "goal": "守护上古战争遗迹秘密"
+      },
+      "HIDDEN-02": {
+        "name": "灵气东移观测者",
+        "region": "中部",
+        "power": 20,
+        "cohesion": 85,
+        "aggression": 1,
+        "resource": 10,
+        "goal": "记录灵气迁移规律"
+      },
+      "HIDDEN-03": {
+        "name": "散修情报网络",
+        "region": "南部",
+        "power": 15,
+        "cohesion": 25,
+        "aggression": 2,
+        "resource": 20,
+        "goal": "连接各地散修信息"
+      },
+      "HIDDEN-04": {
+        "name": "断脉之变幸存者后裔",
+        "region": "北地",
+        "power": 10,
+        "cohesion": 95,
+        "aggression": 1,
+        "resource": 5,
+        "goal": "防止断脉之变重演"
+      },
+      "FREE-01": {
+        "name": "中部散修市镇联盟",
+        "region": "中部",
+        "power": 10,
+        "cohesion": 20,
+        "aggression": 3,
+        "resource": 15,
+        "goal": "维持自由交易"
+      },
+      "FREE-02": {
+        "name": "东部勘察散修群体",
+        "region": "东部",
+        "power": 8,
+        "cohesion": 15,
+        "aggression": 5,
+        "resource": 10,
+        "goal": "探索新生灵脉"
+      },
+      "FREE-03": {
+        "name": "南部商路散修护卫",
+        "region": "南部",
+        "power": 12,
+        "cohesion": 30,
+        "aggression": 4,
+        "resource": 20,
+        "goal": "维护商路安全"
+      },
+      "FREE-04": {
+        "name": "西部遗迹散修探秘者",
+        "region": "西部",
+        "power": 6,
+        "cohesion": 10,
+        "aggression": 6,
+        "resource": 5,
+        "goal": "从遗迹中获取机缘"
+      }
+    },
+    "INITIAL_CAUSAL": {
+      "灵气东移": 0,
+      "上古战争": 0,
+      "遗迹封闭": 0,
+      "南部承载": 0,
+      "北地沉潜": 0
+    },
+    "EVENT_CATEGORIES": [
+      "FACTION_CONFLICT",
+      "LEYLINE_RESOURCE",
+      "CULTIVATION_BREAKTHROUGH",
+      "CAUSAL_ECHO",
+      "CHAOS_ANOMALY",
+      "RUIN_OPPORTUNITY"
+    ],
+    "BASE_EVENT_CHANCE": {
+      "FACTION_CONFLICT": 15,
+      "LEYLINE_RESOURCE": 12,
+      "CULTIVATION_BREAKTHROUGH": 5,
+      "CAUSAL_ECHO": 3,
+      "CHAOS_ANOMALY": 2,
+      "RUIN_OPPORTUNITY": 3
+    },
+    "SCALE_WEIGHTS": [
+      60,
+      33,
+      6,
+      1
+    ],
+    "FACTION_CONFLICT_TEMPLATES": [
+      {
+        "id": "FC-01",
+        "name": "灵脉归属争夺",
+        "desc": "{f1}与{f2}因{region}灵脉归属爆发冲突",
+        "scale_bias": [
+          45,
+          40,
+          13,
+          2
+        ]
+      },
+      {
+        "id": "FC-02",
+        "name": "历史债权纠纷",
+        "desc": "{f1}要求{f2}履行旧有盟约中关于{resource}的承诺",
+        "scale_bias": [
+          50,
+          40,
+          8,
+          2
+        ]
+      },
+      {
+        "id": "FC-03",
+        "name": "边界摩擦升级",
+        "desc": "{region}边界地区的{f1}与{f2}附属势力发生武装摩擦",
+        "scale_bias": [
+          60,
+          32,
+          7,
+          1
+        ]
+      },
+      {
+        "id": "FC-04",
+        "name": "内部派系分裂",
+        "desc": "{f1}内部因{issue}发生分裂，{f2}趁机介入",
+        "scale_bias": [
+          40,
+          42,
+          15,
+          3
+        ]
+      },
+      {
+        "id": "FC-05",
+        "name": "庇护责任冲突",
+        "desc": "{f1}拒绝继续为{region}地区的{f2}提供庇护和资源",
+        "scale_bias": [
+          50,
+          38,
+          10,
+          2
+        ]
+      },
+      {
+        "id": "FC-06",
+        "name": "旧仇清算",
+        "desc": "{f1}以历史仇恨为由对{f2}发起突袭",
+        "scale_bias": [
+          40,
+          40,
+          17,
+          3
+        ]
+      }
+    ],
+    "LEYLINE_TEMPLATES": [
+      {
+        "id": "RS-01",
+        "name": "新灵脉发现",
+        "desc": "{region}发现一处新生灵脉节点，灵气浓度{qi_level}",
+        "scale_bias": [
+          35,
+          45,
+          17,
+          3
+        ]
+      },
+      {
+        "id": "RS-02",
+        "name": "灵脉衰退",
+        "desc": "{region}的灵脉持续衰退，灵气浓度下降",
+        "scale_bias": [
+          45,
+          42,
+          11,
+          2
+        ]
+      },
+      {
+        "id": "RS-03",
+        "name": "灵脉迁移",
+        "desc": "{region}灵气向{target_region}方向加速迁移",
+        "scale_bias": [
+          25,
+          45,
+          25,
+          5
+        ]
+      },
+      {
+        "id": "RS-04",
+        "name": "灵石矿脉暴露",
+        "desc": "{region}因地层变动暴露出大规模灵石矿脉",
+        "scale_bias": [
+          35,
+          43,
+          18,
+          4
+        ]
+      },
+      {
+        "id": "RS-05",
+        "name": "灵脉污染",
+        "desc": "{region}灵脉受到异常能量污染，修行者吸收后出现异变",
+        "scale_bias": [
+          40,
+          42,
+          15,
+          3
+        ]
+      },
+      {
+        "id": "RS-06",
+        "name": "灵植大规模异变",
+        "desc": "{region}灵植在灵气波动中发生大规模异变",
+        "scale_bias": [
+          55,
+          35,
+          8,
+          2
+        ]
+      },
+      {
+        "id": "RS-07",
+        "name": "灵脉枯竭引发地灾",
+        "desc": "{region}灵脉枯竭引发地层坍塌和局部地震",
+        "scale_bias": [
+          25,
+          45,
+          25,
+          5
+        ]
+      }
+    ],
+    "CAUSAL_TEMPLATES": [
+      {
+        "id": "CE-01",
+        "name": "断脉之变回响",
+        "desc": "断脉之变的因果在{region}再次显现，旧战场遗址出现异常灵气脉冲",
+        "scale_bias": [
+          20,
+          40,
+          30,
+          10
+        ]
+      },
+      {
+        "id": "CE-02",
+        "name": "上古战争记忆苏醒",
+        "desc": "{region}的上古战场遗址中，沉睡的战争记忆开始苏醒",
+        "scale_bias": [
+          15,
+          35,
+          38,
+          12
+        ]
+      },
+      {
+        "id": "CE-03",
+        "name": "旧盟约因果反噬",
+        "desc": "古老的盟约被违背，因果反噬降临在{region}",
+        "scale_bias": [
+          30,
+          42,
+          22,
+          6
+        ]
+      },
+      {
+        "id": "CE-04",
+        "name": "封闭遗迹因果泄漏",
+        "desc": "{region}封闭遗迹的因果封印出现裂痕，历史后果开始外泄",
+        "scale_bias": [
+          15,
+          33,
+          40,
+          12
+        ]
+      },
+      {
+        "id": "CE-05",
+        "name": "天道因果收敛",
+        "desc": "天道对{region}长期积累的失衡做出反应，引发区域性因果收敛",
+        "scale_bias": [
+          10,
+          30,
+          45,
+          15
+        ]
+      },
+      {
+        "id": "CE-06",
+        "name": "不灭遗识复苏",
+        "desc": "{region}的古战场中，一位上古修行者的不灭遗识短暂复苏",
+        "scale_bias": [
+          15,
+          35,
+          38,
+          12
+        ]
+      }
+    ],
+    "BREAKTHROUGH_TEMPLATES": [
+      {
+        "id": "CB-01",
+        "name": "高阶修士突破",
+        "desc": "{region}有修行者突破至{level}，引发天地异象",
+        "scale_bias": [
+          30,
+          45,
+          20,
+          5
+        ]
+      },
+      {
+        "id": "CB-02",
+        "name": "宗门传承突破",
+        "desc": "{f1}在长期积累后实现传承体系的整体突破",
+        "scale_bias": [
+          25,
+          45,
+          25,
+          5
+        ]
+      },
+      {
+        "id": "CB-03",
+        "name": "散修意外突破",
+        "desc": "{region}一名散修在极端环境下意外突破，打破既有格局",
+        "scale_bias": [
+          50,
+          38,
+          10,
+          2
+        ]
+      },
+      {
+        "id": "CB-04",
+        "name": "突破引发天劫",
+        "desc": "{region}的突破尝试引发远超预期的天劫，波及周边区域",
+        "scale_bias": [
+          20,
+          40,
+          30,
+          10
+        ]
+      },
+      {
+        "id": "CB-05",
+        "name": "灵根跃迁事件",
+        "desc": "{region}出现罕见的灵根自然跃迁现象",
+        "scale_bias": [
+          55,
+          35,
+          8,
+          2
+        ]
+      },
+      {
+        "id": "CB-06",
+        "name": "修行方法革新",
+        "desc": "{f1}发现了一种与{region}环境高度契合的新修行方法",
+        "scale_bias": [
+          45,
+          38,
+          15,
+          2
+        ]
+      }
+    ],
+    "CHAOS_TEMPLATES": [
+      {
+        "id": "CH-01",
+        "name": "空间裂隙",
+        "desc": "{region}出现无法解释的空间裂隙，连接未知区域",
+        "scale_bias": [
+          20,
+          38,
+          30,
+          12
+        ]
+      },
+      {
+        "id": "CH-02",
+        "name": "时间错位",
+        "desc": "{region}局部时间流速出现异常，过去与现在的边界模糊",
+        "scale_bias": [
+          15,
+          35,
+          35,
+          15
+        ]
+      },
+      {
+        "id": "CH-03",
+        "name": "灵气风暴",
+        "desc": "{region}爆发大规模灵气风暴，改变当地灵气分布格局",
+        "scale_bias": [
+          20,
+          40,
+          28,
+          12
+        ]
+      },
+      {
+        "id": "CH-04",
+        "name": "生物异变潮",
+        "desc": "{region}灵气异常引发大规模生物异变",
+        "scale_bias": [
+          35,
+          40,
+          20,
+          5
+        ]
+      },
+      {
+        "id": "CH-05",
+        "name": "天道感知异常",
+        "desc": "{region}的修士集体感受到天道运行的异常波动",
+        "scale_bias": [
+          45,
+          38,
+          15,
+          2
+        ]
+      },
+      {
+        "id": "CH-06",
+        "name": "沉眠存在扰动",
+        "desc": "{region}地下深处某个沉眠存在的意识出现扰动",
+        "scale_bias": [
+          10,
+          30,
+          45,
+          15
+        ]
+      },
+      {
+        "id": "CH-07",
+        "name": "灵脉突然反转",
+        "desc": "{region}灵脉流向突然反转，造成大面积混乱",
+        "scale_bias": [
+          15,
+          38,
+          35,
+          12
+        ]
+      },
+      {
+        "id": "CH-08",
+        "name": "因果链条断裂",
+        "desc": "{region}某条长期稳定的因果链条突然断裂，引发连锁反应",
+        "scale_bias": [
+          10,
+          30,
+          45,
+          15
+        ]
+      }
+    ],
+    "RUIN_TEMPLATES": [
+      {
+        "id": "OP-01",
+        "name": "上古遗迹开启",
+        "desc": "{region}一处尘封已久的上古遗迹大门开启",
+        "scale_bias": [
+          20,
+          40,
+          30,
+          10
+        ]
+      },
+      {
+        "id": "OP-02",
+        "name": "失落传承现世",
+        "desc": "{region}发现一份失落已久的修行传承",
+        "scale_bias": [
+          40,
+          42,
+          15,
+          3
+        ]
+      },
+      {
+        "id": "OP-03",
+        "name": "天材地宝出世",
+        "desc": "{region}出现一件天材地宝，引起各方势力关注",
+        "scale_bias": [
+          25,
+          45,
+          25,
+          5
+        ]
+      },
+      {
+        "id": "OP-04",
+        "name": "古战场秘境",
+        "desc": "{region}古战场遗址中出现通往秘境的入口",
+        "scale_bias": [
+          20,
+          38,
+          30,
+          12
+        ]
+      },
+      {
+        "id": "OP-05",
+        "name": "前辈遗府",
+        "desc": "{region}发现一位已故大修行者的洞府",
+        "scale_bias": [
+          35,
+          45,
+          17,
+          3
+        ]
+      },
+      {
+        "id": "OP-06",
+        "name": "灵脉交汇宝藏",
+        "desc": "{region}多条灵脉交汇处凝结出高品质灵石矿",
+        "scale_bias": [
+          25,
+          45,
+          25,
+          5
+        ]
+      },
+      {
+        "id": "OP-07",
+        "name": "远古传送阵激活",
+        "desc": "{region}一座远古传送阵被意外激活，连接至未知区域",
+        "scale_bias": [
+          15,
+          35,
+          38,
+          12
+        ]
+      }
+    ],
+    "CULTIVATION_LEVELS": [
+      "筑基",
+      "金丹",
+      "元婴",
+      "化神",
+      "炼虚",
+      "合体",
+      "大乘",
+      "渡劫"
+    ],
+    "CONTINENTAL_TEMPLATES": [
+      {
+        "id": "GL-01",
+        "name": "灵气大迁移",
+        "desc": "东荒全域灵气流动出现重大变化，{detail}"
+      },
+      {
+        "id": "GL-02",
+        "name": "天道异象",
+        "desc": "天道显现罕见的全域异象，{detail}"
+      },
+      {
+        "id": "GL-03",
+        "name": "因果共振",
+        "desc": "多条因果线同时激活，东荒全域感受到因果共振，{detail}"
+      },
+      {
+        "id": "GL-04",
+        "name": "混沌潮汐",
+        "desc": "混沌异常出现全域性潮汐波动，{detail}"
+      },
+      {
+        "id": "GL-05",
+        "name": "势力格局重划",
+        "desc": "东荒势力格局发生重大变化，{detail}"
+      },
+      {
+        "id": "GL-06",
+        "name": "修行盛世/寒冬",
+        "desc": "东荒修行环境出现全域性转折，{detail}"
+      }
+    ]
+  }
+}

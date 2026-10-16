@@ -1,0 +1,24 @@
+{
+  "source": "astrbot_plugin_donghuang/npc_life_rules.py",
+  "source_commit": "017b50032dc8d2b5650367c160808ccea93dab87",
+  "status": "旧版设定资料，保留原参数，不自动作为新跑团规则。",
+  "values": {
+    "FRAGILE_ROLES": [
+      "执事",
+      "弟子",
+      "散修",
+      "deacon",
+      "disciple",
+      "rogue cultivator"
+    ],
+    "BREAKTHROUGH_HELP_PROBABILITY_MIN": 0.25
+  },
+  "conditions": {
+    "validate_breakthrough": "突破需要：处于闭关状态 + 存在灵脉资源事件 + 天时（help_probability）达标。\n\n禁止：普通 NPC 在没有闭关、没有灵脉事件支撑的情况下随机突破。",
+    "validate_death": "死亡需要：存在冲突/战斗事件 + 有因果链佐证 + 角色身份脆弱 + 关系非友善。\n\n禁止：没有事件原因、没有因果链佐证的随机死亡；也禁止显赫身份或\n友善关系的 NPC 无端死亡。",
+    "validate_disappear": "失踪需要：区域存在异常事件 + 有因果链佐证。\n\n禁止：没有区域异常事件时的随机失踪。",
+    "validate_relocate": "迁移需要：目标区域存在跨区域机缘事件 + 关系非敌对。\n\n禁止：没有目标区域事件牵引的随机迁移。",
+    "validate_npc_join_faction": "加入势力需要：外交/因果回响类事件牵线 + 关系友善/敬重 + 当前未挂靠\n任何势力（散修才谈得上\"加入\"，已经隶属某势力的 NPC 不会再\"加入\"一次）。\n\n禁止：没有事件牵线、或关系冷淡/敌对时凭空加入。\n\n注意：这是 NPC 被动生命周期变化，跟 main.py 里玩家主动执行的\n`/dh join_faction` 指令（改玩家 profile.FACTION_STATE.affiliation）\n是两套完全独立的系统，只是概念相似——action 字符串特意加了 npc_ 前缀\n（npc_join_faction/npc_leave_faction）避免和玩家指令名混淆。",
+    "validate_npc_leave_faction": "离开势力需要：当前确实隶属某势力 + 冲突事件 + 因果链佐证 + 关系恶化。\n\n禁止：没有隶属关系、或没有冲突因果支撑时凭空离开。"
+  }
+}

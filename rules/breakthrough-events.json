@@ -1,0 +1,37 @@
+{
+  "source": "astrbot_plugin_donghuang/breakthrough_manager.py",
+  "source_commit": "017b50032dc8d2b5650367c160808ccea93dab87",
+  "status": "旧版设定资料，保留原参数，不自动作为新跑团规则。",
+  "values": {
+    "CULTIVATION_EVENT_TEMPLATES": {
+      "闭关走火": {
+        "title_template": "{name}闭关走火，灵气紊乱引发异象",
+        "category": "修行突破",
+        "priority": "高",
+        "visibility": "区域",
+        "summary_template": "{name}突破失败后灵气失控，闭关之处灵气紊乱，方圆数里可感"
+      },
+      "突破异象": {
+        "title_template": "{name}突破{realm}，天地异象惊动四方",
+        "category": "修行突破",
+        "priority": "紧急",
+        "visibility": "公开",
+        "summary_template": "{name}成功突破至{realm}，天地灵气涌动，异象波及周围数个区域"
+      },
+      "天劫降临": {
+        "title_template": "天劫降临！{name}渡劫{realm}",
+        "category": "修行突破",
+        "priority": "紧急",
+        "visibility": "公开",
+        "summary_template": "异变灵根引来天劫，雷云密布，方圆十里修士皆感天威"
+      },
+      "功法顿悟": {
+        "title_template": "{name}突破时顿悟功法",
+        "category": "修行突破",
+        "priority": "中",
+        "visibility": "区域",
+        "summary_template": "{name}于突破之际对功法有了更深领悟，气息更加凝练"
+      }
+    }
+  }
+}
