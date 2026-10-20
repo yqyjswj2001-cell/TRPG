@@ -1,7 +1,7 @@
 {
   "source": "astrbot_plugin_donghuang/npc_life_rules.py",
   "source_commit": "017b50032dc8d2b5650367c160808ccea93dab87",
-  "status": "旧版设定资料，保留原参数，不自动作为新跑团规则。",
+  "status": "规则与数值资料。",
   "values": {
     "FRAGILE_ROLES": [
       "执事",
